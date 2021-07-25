@@ -7,8 +7,10 @@ author = "Hugo Authors"
 +++
 
 
-![](https://github.com/pacheco-george/pacheco-george.github.io/blob/master/Images/birdsNature.png)
-
+<figure>
+<img class=lazyload src=/img/placeholder.svg data-src=/Images/birdsNature.png#center alt="Test.">
+<figcaption>Photo by OneTRG aka KalanCak</figcaption>
+</figure>
 
 
 ### 2021
