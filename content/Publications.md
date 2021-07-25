@@ -7,10 +7,16 @@ author = "Hugo Authors"
 +++
 
 
+![](https://github.com/pacheco-george/MyWebpage/content/Images/birdsNature.png)
+
+
+
 ### 2021
 
 **The Germline Mutational Process in Rhesus Macaque and Its Implications for Phylogenetic Dating**  
-[HTML](https://robbinespu.gitlab.io/) **|** [PDF](https://robbinespu.gitlab.io/) **|** [CODE](https://robbinespu.gitlab.io/)
+_GigaScience_
+[PDF](https://robbinespu.gitlab.io/) **|** [PDF](https://robbinespu.gitlab.io/) **|** [CODE](https://robbinespu.gitlab.io/)
+***
 
 
 ### 2020
@@ -29,6 +35,7 @@ author = "Hugo Authors"
 
 **Evolutionary History, Genomic Adaptation to Toxic Diet, and Extinction of the Carolina Parakeet**  
 [HTML](https://robbinespu.gitlab.io/) **|** [PDF](https://robbinespu.gitlab.io/) **|** [CODE](https://robbinespu.gitlab.io/)
+***
 
 
 ### 2019
@@ -38,6 +45,7 @@ author = "Hugo Authors"
 
 **Hologenomic Adaptations Underlying the Evolution of Sanguivory in the Common Vampire Bat.**  
 [HTML](https://robbinespu.gitlab.io/) **|** [PDF](https://robbinespu.gitlab.io/) **|** [CODE](https://robbinespu.gitlab.io/)
+***
 
 
 ### 2019
@@ -52,21 +60,25 @@ author = "Hugo Authors"
 
 **Killer Whale Genomes Reveal a Complex History of Recurrent Admixture and Vicariance**  
 [HTML](https://robbinespu.gitlab.io/) **|** [PDF](https://robbinespu.gitlab.io/)
+***
 
 
 ### 2018
 
 **Hologenomic Adaptations Underlying the Evolution of Sanguivory in the Common Vampire Bat**  
 [HTML](https://robbinespu.gitlab.io/) **|** [PDF](https://robbinespu.gitlab.io/)
+***
 
 
 ### 2016
 
 **Genomic Population Structure of Freshwater‐resident and Anadromous Ide (_Leuciscus idus_) in North‐western Europe**  
 [HTML](https://robbinespu.gitlab.io/) **|** [PDF](https://robbinespu.gitlab.io/)
+***
 
 
 ### 2014
 
 **Padrões Citogenéticos de duas Espécies de ciclídeos de Bacias do Semi-Árido do Brasil: Crenicichla menezesi e Cichlasoma orientale**  
 [HTML](https://robbinespu.gitlab.io/) **|** [PDF](https://robbinespu.gitlab.io/)
+***
