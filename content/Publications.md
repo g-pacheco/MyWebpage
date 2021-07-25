@@ -74,13 +74,13 @@ _GigaScience_
 
 ### 2016
 
-**Genomic Population Structure of Freshwater‐resident and Anadromous Ide (_Leuciscus idus_) in North‐western Europe**  
+**Genomic Population Structure of Freshwater‐resident and Anadromous Ide (_Leuciscus idus_) in North‐western Europe.** Skovrind M., Olsen M. T., Vieira F. G., **Pacheco G.**, Carl H., Gilbert M. T. & Møller P. R. [_Ecology and Evolution_](https://robbinespu.gitlab.io/) Vol. 6, Issue 4, pp. 1064–1074  
 [HTML](https://robbinespu.gitlab.io/) **|** [PDF](https://robbinespu.gitlab.io/)
 ***
 
 
 ### 2014
 
-**Padrões Citogenéticos de duas Espécies de ciclídeos de Bacias do Semi-Árido do Brasil: Crenicichla menezesi e Cichlasoma orientale**  
+**Padrões Citogenéticos de duas Espécies de Ciclídeos de Bacias do Semi-Árido do Brasil: _Crenicichla menezesi_ e _Cichlasoma orientale_.** Molina, W. F., **Pacheco, G. A.** & Berbel Filho, W. M. [_Biota Amazônia_](https://robbinespu.gitlab.io/)  
 [HTML](https://robbinespu.gitlab.io/) **|** [PDF](https://robbinespu.gitlab.io/)
 ***
