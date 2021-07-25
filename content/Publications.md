@@ -7,7 +7,7 @@ author = "Hugo Authors"
 +++
 
 
-![](https://github.com/pacheco-george/MyWebpage/content/Images/birdsNature.png)
+![](https://github.com/pacheco-george/pacheco-george.github.io/blob/master/Images/birdsNature.png)
 
 
 
