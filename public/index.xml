@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>George Pacheco</title>
+    <link>https://pacheco-george.github.io/</link>
+    <description>Recent content on George Pacheco</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© George Pacheco</copyright><atom:link href="https://pacheco-george.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://pacheco-george.github.io/bio/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pacheco-george.github.io/bio/</guid>
+      <description>Adoro!
+2020 Hologenomic Adaptations Underlying the Evolution of Sanguivory in the Common Vampire Bat.
+HTML | PDF | CODE
+Hologenomic Adaptations Underlying the Evolution of Sanguivory in the Common Vampire Bat.
+HTML | PDF | CODE
+2019 Hologenomic Adaptations Underlying the Evolution of Sanguivory in the Common Vampire Bat.
+HTML | PDF | CODE
+Hologenomic Adaptations Underlying the Evolution of Sanguivory in the Common Vampire Bat.
+HTML | PDF | CODE</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://pacheco-george.github.io/projects/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pacheco-george.github.io/projects/</guid>
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+2020 Hologenomic Adaptations Underlying the Evolution of Sanguivory in the Common Vampire Bat.</description>
+    </item>
+    
+    <item>
+      <title>Publications/</title>
+      <link>https://pacheco-george.github.io/publications/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pacheco-george.github.io/publications/</guid>
+      <description>2021 The Germline Mutational Process in Rhesus Macaque and Its Implications for Phylogenetic Dating
+HTML | PDF | CODE
+2020 Why Endogenous TRPV6 Currents Are Not Detectable - What Can We Learn From Bats?
+HTML | PDF | CODE
+Dense Sampling of Bird Diversity Increases Power of Comparative Genomics
+HTML | PDF | CODE
+Phylogeny of Neotropical Seirinae (Collembola, Entomobryidae) Based on Mitochondrial Genomes
+HTML | PDF | CODE
+Darwin’s Fancy Revised: An Updated Understanding of the Genomic Constitution of Pigeon Breeds</description>
+    </item>
+    
+  </channel>
+</rss>

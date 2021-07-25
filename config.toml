@@ -1,0 +1,61 @@
+baseURL = "https://pacheco-george.github.io/"
+languageCode = "en-us"
+title = "George Pacheco"
+theme = "archie"
+copyright = "© George Pacheco"
+# Code Highlight
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+paginate = 3 # articles per page
+
+[params]
+	mode = "light" # color-mode → light,dark or auto
+	useCDN = false # don't use CDNs for fonts and icons, instead serve them locally.
+	subtitle = "_Evolutionary Biologist_"
+
+
+# Social Tags
+
+[[params.social]]
+name = "Email"
+icon = "mail"
+url = "mailto:ganpa@aqua.dtu.dk"
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/pacheco-george"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/george-pacheco-2281b1106/"
+
+[[params.social]]
+name = "Instagram"
+icon = "instagram"
+url = "https://www.instagram.com/menino.pacheco/"
+
+# Main menu Items
+
+[[menu.main]]
+name = "Bio/"
+url = "/Bio"
+weight = 1
+
+[[menu.main]]
+name = "Projects/"
+url = "/Projects"
+weight = 3
+
+[[menu.main]]
+name = "Publications/"
+url = "/Publications"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
