@@ -3,8 +3,9 @@ title = "Publications/"
 description = "My publication list."
 +++
 
-![](/Images/batsEcolEvol.png)
+![](/Images/whalesMolEcol_BW.jpg)
 ![](/Images/whalesMolEcol.jpg)
+![](/Images/birdsNature_BW.png)
 ![](/Images/birdsNature.png)
 
 #### 2021
