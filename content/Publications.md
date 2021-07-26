@@ -3,6 +3,10 @@ title = "Publications/"
 description = "My publication list."
 +++
 
+![](/Images/batsEcolEvol.png)
+![](/Images/whalesMolEcol.jpg)
+![](/Images/birdsNature.png)
+
 #### 2021
 
 **The Germline Mutational Process in Rhesus Macaque and Its Implications for Phylogenetic Dating**  
@@ -14,7 +18,7 @@ _GigaScience_
 #### 2020
 
 **Why Endogenous TRPV6 Currents Are Not Detectable - What Can We Learn From Bats?**  
-[HTML](https://robbinespu.gitlab.io/) **|** [PDF](https://robbinespu.gitlab.io/) **|** [CODE](https://robbinespu.gitlab.io/)
+[HTML](/MyArticles/batsEcolEvol.pdf) **|** [PDF](/MyArticles/batsEcolEvol.pdf)
 
 **Dense Sampling of Bird Diversity Increases Power of Comparative Genomics**  
 [HTML](https://robbinespu.gitlab.io/) **|** [PDF](https://robbinespu.gitlab.io/) **|** [CODE](https://robbinespu.gitlab.io/)

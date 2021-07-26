@@ -18,6 +18,11 @@ paginate = 3 # articles per page
 # Social Tags
 
 [[params.social]]
+name = "Work"
+icon = "map-pin"
+url = "https://www.google.com/maps/place/DTU+Aqua/@56.1536297,9.5608707,17z/data=!4m5!3m4!1s0x464b8b0595bfcff5:0xb5912d83dbe1f13b!8m2!3d56.1541738!4d9.561381"
+
+[[params.social]]
 name = "Email"
 icon = "mail"
 url = "mailto:ganpa@aqua.dtu.dk"
