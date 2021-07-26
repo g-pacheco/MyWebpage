@@ -2,7 +2,7 @@ baseURL = "https://pacheco-george.github.io/"
 languageCode = "en-us"
 title = "George Pacheco"
 theme = "archie"
-copyright = "© George Pacheco"
+
 # Code Highlight
 pygmentsstyle = "monokai"
 pygmentscodefences = true
@@ -11,9 +11,8 @@ pygmentscodefencesguesssyntax = true
 paginate = 3 # articles per page
 
 [params]
-	mode = "light" # color-mode → light, dark or auto
+	mode = "auto" # color-mode → light, dark or auto
 	useCDN = false # don't use CDNs for fonts and icons, instead serve them locally.
-	subtitle = "_Evolutionary Biologist_"
 
 
 # Social Tags
@@ -48,14 +47,9 @@ weight = 1
 [[menu.main]]
 name = "Projects/"
 url = "/Projects"
-weight = 3
+weight = 2
 
 [[menu.main]]
 name = "Publications/"
 url = "/Publications"
 weight = 3
-
-[[menu.main]]
-name = "Tags"
-url = "/tags"
-weight = 4

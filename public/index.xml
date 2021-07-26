@@ -5,39 +5,29 @@
     <link>https://pacheco-george.github.io/</link>
     <description>Recent content on George Pacheco</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>© George Pacheco</copyright><atom:link href="https://pacheco-george.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://pacheco-george.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
+      <title>Bio/</title>
       <link>https://pacheco-george.github.io/bio/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pacheco-george.github.io/bio/</guid>
-      <description>Adoro!
-2020 Hologenomic Adaptations Underlying the Evolution of Sanguivory in the Common Vampire Bat.
-HTML | PDF | CODE
-Hologenomic Adaptations Underlying the Evolution of Sanguivory in the Common Vampire Bat.
-HTML | PDF | CODE
-2019 Hologenomic Adaptations Underlying the Evolution of Sanguivory in the Common Vampire Bat.
-HTML | PDF | CODE
-Hologenomic Adaptations Underlying the Evolution of Sanguivory in the Common Vampire Bat.
-HTML | PDF | CODE</description>
+      <description></description>
     </item>
     
     <item>
-      <title>About</title>
+      <title>Projects/</title>
       <link>https://pacheco-george.github.io/projects/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pacheco-george.github.io/projects/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-2020 Hologenomic Adaptations Underlying the Evolution of Sanguivory in the Common Vampire Bat.</description>
+      <description></description>
     </item>
     
     <item>
       <title>Publications/</title>
       <link>https://pacheco-george.github.io/publications/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pacheco-george.github.io/publications/</guid>
       <description>2021 The Germline Mutational Process in Rhesus Macaque and Its Implications for Phylogenetic Dating

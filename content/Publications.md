@@ -1,19 +1,9 @@
 +++
 title = "Publications/"
 description = "My publication list."
-date = "2019-02-28"
-aliases = ["about-us","about-hugo","contact"]
-author = "Hugo Authors"
 +++
 
-
-<figure>
-<img class=lazyload src=/img/placeholder.svg data-src=/Images/birdsNature.png#center alt="Test.">
-<figcaption>Photo by OneTRG aka KalanCak</figcaption>
-</figure>
-
-
-### 2021
+#### 2021
 
 **The Germline Mutational Process in Rhesus Macaque and Its Implications for Phylogenetic Dating**  
 _GigaScience_
@@ -21,7 +11,7 @@ _GigaScience_
 ***
 
 
-### 2020
+#### 2020
 
 **Why Endogenous TRPV6 Currents Are Not Detectable - What Can We Learn From Bats?**  
 [HTML](https://robbinespu.gitlab.io/) **|** [PDF](https://robbinespu.gitlab.io/) **|** [CODE](https://robbinespu.gitlab.io/)
@@ -40,7 +30,7 @@ _GigaScience_
 ***
 
 
-### 2019
+#### 2019
 
 **Hologenomic Adaptations Underlying the Evolution of Sanguivory in the Common Vampire Bat.**  
 [HTML](https://robbinespu.gitlab.io/) **|** [PDF](https://robbinespu.gitlab.io/) **|** [CODE](https://robbinespu.gitlab.io/)
@@ -50,7 +40,7 @@ _GigaScience_
 ***
 
 
-### 2019
+#### 2019
 
 **The Discovery of Neotropical _Lepidosira_ (Collembola, Entomobryidae) and Its Systematic Position**  
 [HTML](https://robbinespu.gitlab.io/) **|** [PDF](https://robbinespu.gitlab.io/)
@@ -65,22 +55,21 @@ _GigaScience_
 ***
 
 
-### 2018
+#### 2018
 
 **Hologenomic Adaptations Underlying the Evolution of Sanguivory in the Common Vampire Bat**  
 [HTML](https://robbinespu.gitlab.io/) **|** [PDF](https://robbinespu.gitlab.io/)
 ***
 
 
-### 2016
+#### 2016
 
 **Genomic Population Structure of Freshwater‐resident and Anadromous Ide (_Leuciscus idus_) in North‐western Europe.** Skovrind M., Olsen M. T., Vieira F. G., **Pacheco G.**, Carl H., Gilbert M. T. & Møller P. R. [_Ecology and Evolution_](https://robbinespu.gitlab.io/) Vol. 6, Issue 4, pp. 1064–1074  
 [HTML](https://robbinespu.gitlab.io/) **|** [PDF](https://robbinespu.gitlab.io/)
 ***
 
 
-### 2014
+#### 2014
 
 **Padrões Citogenéticos de duas Espécies de Ciclídeos de Bacias do Semi-Árido do Brasil: _Crenicichla menezesi_ e _Cichlasoma orientale_.** Molina, W. F., **Pacheco, G. A.** & Berbel Filho, W. M. [_Biota Amazônia_](https://robbinespu.gitlab.io/)  
 [HTML](https://robbinespu.gitlab.io/) **|** [PDF](https://robbinespu.gitlab.io/)
-***
