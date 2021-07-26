@@ -3,11 +3,6 @@ title = "Publications/"
 description = "My publication list."
 +++
 
-![](/Images/whalesMolEcol_BW.jpg)
-![](/Images/whalesMolEcol.jpg)
-![](/Images/birdsNature_BW.png)
-![](/Images/birdsNature.png)
-
 #### 2021
 
 **The Germline Mutational Process in Rhesus Macaque and Its Implications for Phylogenetic Dating**  
