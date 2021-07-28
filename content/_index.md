@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 +++
 description = "Intro"
 author = "George Pacheco"
@@ -15,5 +14,3 @@ author = "George Pacheco"
 #### post-doc advised by [Dr. Jakob Hemmer Hansen](https://orbit.dtu.dk/en/persons/jakob-hemmer-hansen) & [Dr. Dorte Bekkevold](https://orbit.dtu.dk/en/persons/dorte-bekkevold).
 
 ***
-=======
->>>>>>> parent of 8e72c9e (Expanding.)
