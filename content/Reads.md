@@ -1,6 +1,6 @@
 +++
-title = "Publications/"
-description = "My publication list."
+title = "Reads/"
+description = "My list of books."
 +++
 
 #### 2021 ~
