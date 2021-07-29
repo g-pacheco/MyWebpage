@@ -45,8 +45,8 @@ url = "https://www.instagram.com/menino.pacheco/"
 # Main menu Items
 
 [[menu.main]]
-name = "Bio/"
-url = "/Bio"
+name = "CV/"
+url = "/CV"
 weight = 1
 
 [[menu.main]]
@@ -60,6 +60,6 @@ url = "/Publications"
 weight = 3
 
 [[menu.main]]
-name = "Reads/"
-url = "/Reads"
-weight = 4
+name = "evolReads/"
+url = "/evolReads"
+weight = 5
