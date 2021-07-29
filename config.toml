@@ -50,8 +50,8 @@ url = "/CV"
 weight = 1
 
 [[menu.main]]
-name = "Projects/"
-url = "/Projects"
+name = "Research/"
+url = "/Research"
 weight = 2
 
 [[menu.main]]
