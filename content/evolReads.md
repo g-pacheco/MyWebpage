@@ -39,6 +39,23 @@ _Evolutionary Biology_.
 * The Evolution of Beauty | Richard O. Prum (2018)
 ***
 
+{{< rawhtml >}}
+<div class="row">
+  <div class="column">
+    <img src="../Images/BookCovers/DarwinsDangerousIdea.jpg" alt="Darwin's Dangerous Idea" style="height:20rem">
+  </div>
+  <div class="column">
+    <img src="../Images/BookCovers/TheAncestorsTale.jpg" alt="The Ancestor's Tale" style="height:20rem">
+  </div>
+  <div class="column">
+    <img src="../Images/BookCovers/TheSelfishGene.jpg" alt="The Selfish Gene" style="height:20rem">
+  </div>
+  <div class="column">
+    <img src="../Images/BookCovers/FromSoSimpleABeginning.jpg" alt="From So Simple A Beginning" style="height:20rem">
+  </div>
+</div>
+{{< /rawhtml >}}
+
 #### Textbooks/ 
 
 * Genetics and the Origin of Species | Theodosius Dobzhansky (1937)
@@ -66,10 +83,21 @@ _Evolutionary Biology_.
 * Alfred Russel Wallace: A Rediscovered Life | Michael Flannery (2011)
 * The Invention of Nature: Alexander von Humboldt's New World | Andrea Wulf (2015)
 * A Modest Genius: The Story of Darwin’s Life and How His Ideas Changed Everything | Hanne Strager (2016)
+
+{{< rawhtml >}}
+<div class="row">
+  <div class="column">
+    <img src="../Images/BookCovers/ImprobableDestinies.jpg" alt="Improbable Destinies" style="height:20rem">
+  </div>
+  <div class="column">
+    <img src="../Images/BookCovers/MalayArchipelago.jpg" alt="The Malay Archipelago" style="height:20rem">
+  </div>
+  <div class="column">
+    <img src="../Images/BookCovers/WonderfulLife.jpg" alt="Wonderful Life" style="height:20rem">
+  </div>
+  <div class="column">
+    <img src="../Images/BookCovers/TheEvolutionOfBeauty.jpg" alt="The Evolution of Beauty" style="height:20rem">
+  </div>
+</div>
+{{< /rawhtml >}}
 ***
-
-#### 2019 ~
-
-07. **The Discovery of Neotropical _Lepidosira_ (Collembola, Entomobryidae) and Its Systematic Position.**  
-[HTML](https://robbinespu.gitlab.io/) **~** [PDF](/MyArticles/.pdf)
-

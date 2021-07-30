@@ -1,4 +1,5 @@
 baseURL = "https://g-pacheco.github.io/"
+googleAnalytics = "G-6HEVWZ2M09"
 languageCode = "en-us"
 title = "George Pacheco:~"
 theme = "archie"
@@ -13,7 +14,6 @@ paginate = 3 # articles per page
 [params]
 	mode = "dark" # color-mode → light, dark or auto
 	useCDN = false # don't use CDNs for fonts and icons, instead serve them locally.
-
 
 # Social Tags
 
