@@ -45,23 +45,23 @@ url = "https://www.instagram.com/menino.pacheco/"
 # Main menu Items
 
 [[menu.main]]
+name = "News/"
+url = "/News"
+weight = 1
+
+[[menu.main]]
 name = "CV/"
 url = "/CV"
-weight = 1
+weight = 2
 
 [[menu.main]]
 name = "Research/"
 url = "/Research"
-weight = 2
+weight = 3
 
 [[menu.main]]
 name = "Publications/"
 url = "/Publications"
-weight = 3
-
-[[menu.main]]
-name = "News/"
-url = "/News"
 weight = 4
 
 [[menu.main]]
