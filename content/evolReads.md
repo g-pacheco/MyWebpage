@@ -16,6 +16,23 @@ _Evolutionary Biology_.
 * The Descent of Man, and Selection in Relation to Sex | Darwin (1871)
 * The Expression of the Emotions in Man and Animals | Darwin (1872)
 * Darwinism: An Exposition of the Theory of Natural Selection, with Some of Its Applications | Wallace (1889)
+
+{{< rawhtml >}}
+<div class="row">
+  <div class="column">
+    <img src="../Images/BookCovers/AModestGenius.jpg" alt="Improbable Destinies" style="height:20rem">
+  </div>
+  <div class="column">
+    <img src="../Images/BookCovers/ADiscoveredLife.jpg" alt="The Malay Archipelago" style="height:20rem">
+  </div>
+  <div class="column">
+    <img src="../Images/BookCovers/TheInventionOfNature.jpg" alt="Wonderful Life" style="height:20rem">
+  </div>
+  <div class="column">
+    <img src="../Images/BookCovers/Speciation.jpg" alt="The Evolution of Beauty" style="height:20rem">
+  </div>
+</div>
+{{< /rawhtml >}}
 ***
 
 #### Modern Works/
@@ -37,7 +54,6 @@ _Evolutionary Biology_.
 * The Ancestor's Tale | Richard Dawkins & Yan Wong (2016)
 * Improbable Destinies | Jonathan Losos (2017)
 * The Evolution of Beauty | Richard O. Prum (2018)
-***
 
 {{< rawhtml >}}
 <div class="row">
@@ -55,6 +71,7 @@ _Evolutionary Biology_.
   </div>
 </div>
 {{< /rawhtml >}}
+***
 
 #### Textbooks/ 
 
@@ -70,6 +87,23 @@ _Evolutionary Biology_.
 * Essential Readings in Evolutionary Biology | Francisco Ayala & John Avise (2014) 
 * Evolution — 4th Edition | Douglas Futuyma & Mark Kirkpatrick (2017) 
 * Evolution: Making Sense of Life — Third Edition | Douglas Emlen & Carl Zimmer (2019)
+
+{{< rawhtml >}}
+<div class="row">
+  <div class="column">
+    <img src="../Images/BookCovers/DinosaursRiseFall.jpg" alt="Darwin's Dangerous Idea" style="height:20rem">
+  </div>
+  <div class="column">
+    <img src="../Images/BookCovers/MakingSenseOfLife.jpg" alt="The Ancestor's Tale" style="height:20rem">
+  </div>
+  <div class="column">
+    <img src="../Images/BookCovers/FourBillionYears.jpg" alt="The Selfish Gene" style="height:20rem">
+  </div>
+  <div class="column">
+    <img src="../Images/BookCovers/WhatEvolutionIs.jpg" alt="From So Simple A Beginning" style="height:20rem">
+  </div>
+</div>
+{{< /rawhtml >}}
 ***
 
 #### Biographies/
