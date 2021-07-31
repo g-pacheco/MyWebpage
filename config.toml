@@ -50,7 +50,7 @@ name = "Google Scholar"
 prefix = "ai"
 icon = "google-scholar-square"
 type = "ai"
-url = "https://orcid.org/0000-0002-9367-6813"
+url = "https://scholar.google.dk/citations?user=FSCWyqAAAAAJ&hl=en"
 
 [[params.icons]]
 name = "GitHub"
