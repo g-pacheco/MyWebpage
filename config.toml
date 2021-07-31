@@ -17,30 +17,38 @@ paginate = 3 # articles per page
 
 # Social Tags
 
-[[params.social]]
-name = "Work"
+[[params.location]]
+name = "Working Place"
 icon = "map-pin"
 url = "https://www.google.com/maps/place/DTU+Aqua/@56.1536297,9.5608707,17z/data=!4m5!3m4!1s0x464b8b0595bfcff5:0xb5912d83dbe1f13b!8m2!3d56.1541738!4d9.561381"
 
-[[params.social]]
+[[params.email]]
 name = "Email"
 icon = "mail"
 url = "mailto:ganpa@aqua.dtu.dk"
 
-[[params.social]]
+[[params.github]]
 name = "GitHub"
 icon = "github"
 url = "https://github.com/g-pacheco"
 
-[[params.social]]
+[[params.linkedin]]
 name = "LinkedIn"
 icon = "linkedin"
 url = "https://www.linkedin.com/in/george-pacheco-2281b1106/"
 
-[[params.social]]
+[[params.instagram]]
 name = "Instagram"
 icon = "instagram"
 url = "https://www.instagram.com/menino.pacheco/"
+
+[[params.googlescholar]]
+name = "Google Scholar"
+url = "https://scholar.google.dk/citations?user=FSCWyqAAAAAJ&hl=en"
+
+[[params.orcid]]
+name = "ORCID"
+url = "https://orcid.org/0000-0002-9367-6813"
 
 # Main menu Items
 
