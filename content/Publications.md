@@ -3,13 +3,18 @@ title = "Publications/"
 description = "My publication list."
 +++
 
+{{< rawhtml >}}
+<h5>Please find below an abridged version of a list with plublication. You can download a detailed PDF version from <a href="/MyCV/PublicationList--GeorgePacheco.pdf">here</a>.</h5>
+{{< /rawhtml >}}
+***
+
 #### 2021/
 
 1. **The Germline Mutational Process in Rhesus Macaque and Its Implications for Phylogenetic Dating.**  
 Bergeron et al. _GigaScience_.  
 {{< rawhtml >}}
 <a href="https://academic.oup.com/gigascience/article/10/5/giab029/6269103" target="_blank">HTML</a>
-<b>~</b>
+~
 <a href="/MyArticles/macaqueGigaScience.pdf" target="_blank">PDF</a>
 {{< /rawhtml >}}
 ***
@@ -20,7 +25,7 @@ Bergeron et al. _GigaScience_.
 Wolske et al. _Cell Calcium_.  
 {{< rawhtml >}}
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0143416020301445" target="_blank">HTML</a>
-<b>~</b>
+~
 <a href="/MyArticles/batsCellCalcium.pdf">PDF</a>
 {{< /rawhtml >}}
 
@@ -28,7 +33,7 @@ Wolske et al. _Cell Calcium_.
 Feng, Stiller, Deng & Armstrong et al. _Nature_.  
 {{< rawhtml >}}
 <a href="https://www.nature.com/articles/s41586-020-2873-9" target="_blank">HTML</a>
-<b>~</b>
+~
 <a href="/MyArticles/birdsNature.pdf">PDF</a>
 {{< /rawhtml >}}
 
@@ -36,7 +41,7 @@ Feng, Stiller, Deng & Armstrong et al. _Nature_.
 Godeiro et al. _Zoological Scripta_.  
 {{< rawhtml >}}
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/zsc.12408" target="_blank">HTML</a>
-<b>~</b>
+~
 <a href="/MyArticles/seirinaeZoologicalScripta.pdf">PDF</a>
 {{< /rawhtml >}}
 
@@ -44,9 +49,9 @@ Godeiro et al. _Zoological Scripta_.
 Pacheco et al. _Genome Biology and Evolution_.  
 {{< rawhtml >}}
 <a href="https://academic.oup.com/gbe/article/12/3/136/5735467" target="_blank">HTML</a>
-<b>~</b>
+~
 <a href="/MyArticles/pigeonbreedsGBE.pdf">PDF</a>
-<b>~</b>
+~
 <a href="https://github.com/pacheco-george/PigeonBreedsGenomics/" target="_blank">CODE</a>
 {{< /rawhtml >}}
 
@@ -54,7 +59,7 @@ Pacheco et al. _Genome Biology and Evolution_.
 Gelabert et al. _Current Biology_.  
 {{< rawhtml >}}
 <a href="https://www.sciencedirect.com/science/article/pii/S0960982219314381/" target="_blank">HTML</a>
-<b>~</b>
+~
 <a href="/MyArticles/ParakeetCurrentBiology.pdf">PDF</a>
 {{< /rawhtml >}}
 ***
@@ -65,7 +70,7 @@ Gelabert et al. _Current Biology_.
 Godeiro et al. _Zoological Scripta_.  
 {{< rawhtml >}}
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/zsc.12377/" target="_blank">HTML</a>
-<b>~</b>
+~
 <a href="/MyArticles/lepidosiraZoologicalScripta.pdf">PDF</a>
 {{< /rawhtml >}}
 
@@ -73,7 +78,7 @@ Godeiro et al. _Zoological Scripta_.
 Pan & Cole et al. _GigaScience_.  
 {{< rawhtml >}}
 <a href="https://academic.oup.com/gigascience/article/8/9/giz117/5571031/" target="_blank">HTML</a>
-<b>~</b>
+~
 <a href="/MyArticles/penguinsGigaScience.pdf">PDF</a>
 {{< /rawhtml >}}
 
@@ -81,7 +86,7 @@ Pan & Cole et al. _GigaScience_.
 Foote et al. _Molecular Ecology_.  
 {{< rawhtml >}}
 <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.15099/" target="_blank">HTML</a>
-<b>~</b>
+~
 <a href="/MyArticles/killerwhalesMolecularEcology.pdf">PDF</a>
 {{< /rawhtml >}}
 ***
@@ -92,7 +97,7 @@ Foote et al. _Molecular Ecology_.
 Mendoza & Escalera-Zamudio et al. _Nature Ecology & Evolution_.  
 {{< rawhtml >}}
 <a href="https://www.nature.com/articles/s41559-018-0476-8#citeas/" target="_blank">HTML</a>
-<b>~</b>
+~
 <a href="/MyArticles/batsEcolEvol.pdf">PDF</a>
 {{< /rawhtml >}}
 ***
@@ -103,7 +108,7 @@ Mendoza & Escalera-Zamudio et al. _Nature Ecology & Evolution_.
 Skovrind et al. _Ecology and Evolution_.  
 {{< rawhtml >}}
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.1909/" target="_blank">HTML</a>
-<b>~</b>
+~
 <a href="/MyArticles/ideEcologyEvolution.pdf">PDF</a>
 {{< /rawhtml >}}
 ***
@@ -114,7 +119,7 @@ Skovrind et al. _Ecology and Evolution_.
 Molina, Pacheco & Berbel-Filho. _Biota Amazônia_.    
 {{< rawhtml >}}
 <a href="https://periodicos.unifap.br/index.php/biota/article/view/1076/" target="_blank">HTML</a>
-<b>~</b>
+~
 <a href="/MyArticles/cichlidsBiotaAmazonia.pdf">PDF</a>
 {{< /rawhtml >}}
 ***

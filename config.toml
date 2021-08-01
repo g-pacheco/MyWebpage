@@ -80,11 +80,6 @@ url = "/CV"
 weight = 2
 
 [[menu.main]]
-name = "Research/"
-url = "/Research"
-weight = 3
-
-[[menu.main]]
 name = "Publications/"
 url = "/Publications"
 weight = 4
