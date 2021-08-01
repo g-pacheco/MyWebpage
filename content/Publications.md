@@ -3,7 +3,7 @@ title = "Publications/"
 description = "My publication list."
 +++
 
-#### 2021 ~
+#### 2021/
 
 1. **The Germline Mutational Process in Rhesus Macaque and Its Implications for Phylogenetic Dating.**  
 Bergeron et al. _GigaScience_.  
@@ -14,8 +14,7 @@ Bergeron et al. _GigaScience_.
 {{< /rawhtml >}}
 ***
 
-
-#### 2020 ~
+#### 2020/
 
 2. **Why Endogenous TRPV6 Currents Are Not Detectable - What Can We Learn From Bats?**  
 Wolske et al. _Cell Calcium_.  
@@ -60,8 +59,7 @@ Gelabert et al. _Current Biology_.
 {{< /rawhtml >}}
 ***
 
-
-#### 2019 ~
+#### 2019/
 
 07. **The Discovery of Neotropical _Lepidosira_ (Collembola, Entomobryidae) and Its Systematic Position.**  
 Godeiro et al. _Zoological Scripta_.  
@@ -70,7 +68,6 @@ Godeiro et al. _Zoological Scripta_.
 <b>~</b>
 <a href="/MyArticles/lepidosiraZoologicalScripta.pdf">PDF</a>
 {{< /rawhtml >}}
-
 
 08. **High-coverage Genomes To Elucidate The Evolution of Penguins.**  
 Pan & Cole et al. _GigaScience_.  
@@ -89,7 +86,6 @@ Foote et al. _Molecular Ecology_.
 {{< /rawhtml >}}
 ***
 
-
 #### 2018/
 
 10. **Hologenomic Adaptations Underlying the Evolution of Sanguivory in the Common Vampire Bat.**  
@@ -101,7 +97,6 @@ Mendoza & Escalera-Zamudio et al. _Nature Ecology & Evolution_.
 {{< /rawhtml >}}
 ***
 
-
 #### 2016/
 
 11. **Genomic Population Structure of Freshwater‐resident and Anadromous Ide (_Leuciscus idus_) in North‐western Europe.**  
@@ -112,7 +107,6 @@ Skovrind et al. _Ecology and Evolution_.
 <a href="/MyArticles/ideEcologyEvolution.pdf">PDF</a>
 {{< /rawhtml >}}
 ***
-
 
 #### 2014/
 

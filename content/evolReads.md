@@ -19,16 +19,16 @@ _Evolutionary Biology_.
 
 {{< rawhtml >}}
 <div class="row">
-  <div class="column">
+  <div class="column layka">
     <img src="../Images/BookCovers/AModestGenius.jpg" alt="Improbable Destinies" style="height:20rem">
   </div>
-  <div class="column">
+  <div class="column layka">
     <img src="../Images/BookCovers/ADiscoveredLife.jpg" alt="The Malay Archipelago" style="height:20rem">
   </div>
-  <div class="column">
+  <div class="column layka">
     <img src="../Images/BookCovers/TheInventionOfNature.jpg" alt="Wonderful Life" style="height:20rem">
   </div>
-  <div class="column">
+  <div class="column layka">
     <img src="../Images/BookCovers/Speciation.jpg" alt="The Evolution of Beauty" style="height:20rem">
   </div>
 </div>
