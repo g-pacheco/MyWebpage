@@ -1,9 +1,18 @@
 +++
-title = "evolReads/"
+title = "myReads/"
 description = "My list of books in Evolutionary Biology."
 +++
 
-_Evolutionary Biology_.
+{{< rawhtml >}}
+<blockquote>
+I read quite a few <i>Science Communication</i> books throughout my bachelor times in Natal. Undoubtedly, titles such as <a href="https://www.goodreads.com/book/show/2272880.The_Drunkard_s_Walk?ac=1&from_search=true&qid=uqKSUezXLV&rank=1" target="_blank"><i>The Drunkard's Walk</i></a> and <a href="https://www.goodreads.com/book/show/182868.Lonely_Planets?ac=1&from_search=true&qid=DBzTgWO9sV&rank=3" target="_blank"><i>Lonely Planets</i></a> greatly contributed to my initial scientic education. Although I still very much harbour a desire to read on various scientific subjects (I really like <i>Physics</i>, for instance), at some point one must focus on a specific field considering the short half-life of a human begin, and thus my reading of this kind of genre is no longer as diverse as it once was. Moreoever, by the end of my PhD in Copenhagen, I became rather interested in <i>Literature</i>, and I have been trying to catch up reading the <i>Classics</i>. Should you be curious to see which books I have read in these fronts, you are welcome to check my profile on <a href="https://www.goodreads.com/user/show/91609313-george-pacheco" target="_blank">goodreads</a>.
+</blockquote>
+</p>
+<blockquote>
+Having said that, what I present below is a list of title on revolving round the two subjects I intend to expertise, namely <i>Evolutionary Biology</i> & <i>Philosophy of Science</i>. The books I have already read (at least once) are marked in green, and a short Please notice that this list is for my own personal use, Else, I have decided to them them in a chronological order because I find it interesting to realise how things developed historically.   
+</blockquote>
+{{< /rawhtml >}}
+***
 
 #### Classics Works/
 
