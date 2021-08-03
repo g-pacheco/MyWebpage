@@ -6,12 +6,16 @@ author = "George Pacheco"
 ### Welcome.
 
 {{< rawhtml >}}
+<img class=divProfileImg src="../Images/ProfileImage.jpg" alt="My profile image" style="height:20rem">
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
 <blockquote>
 <b>Currently,</b> I am doing a postdoc at the <a href="https://www.dtu.dk/english" target="_blank"><i>Technical University of Denmark</i></a> being advised by <a href="https://orbit.dtu.dk/en/persons/jakob-hemmer-hansen" target="_blank">Dr. Jakob Hansen</a> & <a href="https://orbit.dtu.dk/en/persons/dorte-bekkevold" target="_blank">Dr. Dorte Bekkevold</a>. We belong to the <a href="https://www.aqua.dtu.dk/english/Research/Population_genetics" target="_blank">Population Genetics Section</a>, which is located at the small town of <a href="https://en.wikipedia.org/wiki/Silkeborg" target="_blank">Silkeborg</a>. Our section is part of <a href="https://www.aqua.dtu.dk/english/about" target="_blank">DTU Aqua</a>, a well-known institute in the field of aquatic resources. I am hired under the <a href="https://twitter.com/Margen_II" target="_blank">MarGen II Project</a>, and we have been investigating several fish species regarding the evolutionary imprints left on their genomes caused by recent evolution in the Baltic Sea.
 </blockquote>
 
 <blockquote>
-<b>Previously</b>, I did my MSc and PhD at the <a href="https://snm.ku.dk/english/" target="_blank"><i>Natural History Museum of Denmark</i></a> — <a href="https://www.ku.dk/english/" target="_blank"><i>University of Copenhagen</i></a> under the supervision of <a href="(https://globe.ku.dk/staff-list/?pure=en/persons/295003" target="_blank">Prof. Tom Gilbert</a> & <a href="https://scholar.google.com/citations?user=gvZmPNQAAAAJ&hl=en" target="_blank">Dr. Filipe Vieira</a>. While at Tom's group, I worked on several projects on <i>Animal Genomics</i>, but especially on studies in the vein of <i>Avian Genomics</i> (please see <a href="https://g-pacheco.github.io/research/" target="_blank">Research/</a>). It was during this time that I became particularly interested in the field of <i>Evolutionary Neurogenomics</i>, specifically concerning the cognitive evolution of dinosaurs — yes, including modern birds!
+<b>Previously</b>, I did my MSc and PhD at the <a href="https://snm.ku.dk/english/" target="_blank"><i>Natural History Museum of Denmark</i></a> — <a href="https://www.ku.dk/english/" target="_blank"><i>University of Copenhagen</i></a> under the supervision of <a href="(https://globe.ku.dk/staff-list/?pure=en/persons/295003" target="_blank">Prof. Tom Gilbert</a> & <a href="https://scholar.google.com/citations?user=gvZmPNQAAAAJ&hl=en" target="_blank">Dr. Filipe Vieira</a>. Here, I worked on several projects on <i>Animal Genomics</i>, but especially on studies in the vein of <i>Avian Genomics</i> (please see <a href="https://g-pacheco.github.io/research/" target="_blank">Research/</a>). It was during this time that I became particularly interested in the field of <i>Evolutionary Neurogenomics</i>, specifically concerning the cognitive evolution of dinosaurs — yes, that includes modern birds!
 </blockquote>
 
 <blockquote>
