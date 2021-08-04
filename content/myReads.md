@@ -28,19 +28,19 @@ Having said that, what I present below is a list of titles revolving round the t
 
 {{< rawhtml >}}
 <div class="row">
-  <div class="column layka">
-    <img src="../Images/BookCovers/AModestGenius.jpg" alt="Improbable Destinies" style="height:20rem">
+  <div class="responsive">
+    <img src="../Images/BookCovers/ImprobableDestinies.jpg" alt="Improbable Destinies" style="height:20rem">
   </div>
-  <div class="column layka">
-    <img src="../Images/BookCovers/ADiscoveredLife.jpg" alt="The Malay Archipelago" style="height:20rem">
+  <div class="responsive">
+    <img src="../Images/BookCovers/MalayArchipelago.jpg" alt="The Malay Archipelago" style="height:20rem">
   </div>
-  <div class="column layka">
-    <img src="../Images/BookCovers/TheInventionOfNature.jpg" alt="Wonderful Life" style="height:20rem">
+  <div class="responsive">
+    <img src="../Images/BookCovers/WonderfulLife.jpg" alt="Wonderful Life" style="height:20rem">
   </div>
-  <div class="column layka">
+  <div class="responsive">
     <img src="../Images/BookCovers/Speciation.jpg" alt="The Evolution of Beauty" style="height:20rem">
   </div>
-</div>
+</div> 
 {{< /rawhtml >}}
 ***
 
@@ -66,16 +66,16 @@ Having said that, what I present below is a list of titles revolving round the t
 
 {{< rawhtml >}}
 <div class="row">
-  <div class="column">
+  <div class="responsive">
     <img src="../Images/BookCovers/DarwinsDangerousIdea.jpg" alt="Darwin's Dangerous Idea" style="height:20rem">
   </div>
-  <div class="column">
+  <div class="responsive">
     <img src="../Images/BookCovers/TheAncestorsTale.jpg" alt="The Ancestor's Tale" style="height:20rem">
   </div>
-  <div class="column">
+  <div class="responsive">
     <img src="../Images/BookCovers/TheSelfishGene.jpg" alt="The Selfish Gene" style="height:20rem">
   </div>
-  <div class="column">
+  <div class="responsive">
     <img src="../Images/BookCovers/FromSoSimpleABeginning.jpg" alt="From So Simple A Beginning" style="height:20rem">
   </div>
 </div>
@@ -99,16 +99,16 @@ Having said that, what I present below is a list of titles revolving round the t
 
 {{< rawhtml >}}
 <div class="row">
-  <div class="column">
+  <div class="responsive">
     <img src="../Images/BookCovers/DinosaursRiseFall.jpg" alt="Darwin's Dangerous Idea" style="height:20rem">
   </div>
-  <div class="column">
+  <div class="responsive">
     <img src="../Images/BookCovers/MakingSenseOfLife.jpg" alt="The Ancestor's Tale" style="height:20rem">
   </div>
-  <div class="column">
+  <div class="responsive">
     <img src="../Images/BookCovers/FourBillionYears.jpg" alt="The Selfish Gene" style="height:20rem">
   </div>
-  <div class="column">
+  <div class="responsive">
     <img src="../Images/BookCovers/WhatEvolutionIs.jpg" alt="From So Simple A Beginning" style="height:20rem">
   </div>
 </div>
@@ -129,18 +129,21 @@ Having said that, what I present below is a list of titles revolving round the t
 
 {{< rawhtml >}}
 <div class="row">
-  <div class="column">
-    <img src="../Images/BookCovers/ImprobableDestinies.jpg" alt="Improbable Destinies" style="height:20rem">
+  <div class="responsive">
+    <img src="../Images/BookCovers/ADiscoveredLife.jpg" alt="Improbable Destinies" style="height:20rem">
   </div>
-  <div class="column">
-    <img src="../Images/BookCovers/MalayArchipelago.jpg" alt="The Malay Archipelago" style="height:20rem">
+  <div class="responsive">
+    <img src="../Images/BookCovers/TheInventionOfNature.jpg" alt="The Malay Archipelago" style="height:20rem">
   </div>
-  <div class="column">
+  <div class="responsive">
     <img src="../Images/BookCovers/WonderfulLife.jpg" alt="Wonderful Life" style="height:20rem">
   </div>
-  <div class="column">
+  <div class="responsive">
     <img src="../Images/BookCovers/TheEvolutionOfBeauty.jpg" alt="The Evolution of Beauty" style="height:20rem">
   </div>
 </div>
 {{< /rawhtml >}}
 ***
+
+
+
