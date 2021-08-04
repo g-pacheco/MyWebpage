@@ -5,11 +5,11 @@ description = "My list of books in Evolutionary Biology."
 
 {{< rawhtml >}}
 <blockquote>
-I read quite a few <i>Science Communication</i> books throughout my bachelor times in Natal. Undoubtedly, titles such as <a href="https://www.goodreads.com/book/show/2272880.The_Drunkard_s_Walk?ac=1&from_search=true&qid=uqKSUezXLV&rank=1" target="_blank"><i>The Drunkard's Walk</i></a> and <a href="https://www.goodreads.com/book/show/182868.Lonely_Planets?ac=1&from_search=true&qid=DBzTgWO9sV&rank=3" target="_blank"><i>Lonely Planets</i></a> greatly contributed to my initial scientic education. Although I still very much harbour a desire to read on various scientific subjects (I really like <i>Physics</i>, for instance), at some point one must focus on a specific field considering the short half-life of a human begin, and thus my reading of this kind of genre is no longer as diverse as it once was. Moreoever, by the end of my PhD in Copenhagen, I became rather interested in <i>Literature</i>, and I have been trying to catch up reading the <i>Classics</i>. Should you be curious to see which books I have read in these fronts, you are welcome to check my profile on <a href="https://www.goodreads.com/user/show/91609313-george-pacheco" target="_blank">goodreads</a>.
+I read quite a few <i>Science Communication</i> books throughout my bachelor times in Natal. Undoubtedly, titles such as <a href="https://www.goodreads.com/book/show/2272880.The_Drunkard_s_Walk?ac=1&from_search=true&qid=uqKSUezXLV&rank=1" target="_blank"><i>The Drunkard's Walk</i></a> and <a href="https://www.goodreads.com/book/show/182868.Lonely_Planets?ac=1&from_search=true&qid=DBzTgWO9sV&rank=3" target="_blank"><i>Lonely Planets</i></a> greatly contributed to my initial scientic education. Although I still very much harbour a desire to read on various scientific subjects (I really like <i>Physics</i>, for instance), at some point one must focus on a specific field considering the short half-life of a human begin, and thus my reading of this kind of genre is no longer as diverse as it once was. Moreoever, by the end of my PhD in Copenhagen, I became rather interested in <i>Literature</i>, and I have been trying to catch up reading the <i>Classics</i>. Should you be curious to see which books I have read on these fronts, you are welcome to check my profile on <a href="https://www.goodreads.com/user/show/91609313-george-pacheco" target="_blank">goodreads</a>.
 </blockquote>
 </p>
 <blockquote>
-Having said that, what I present below is a list of title on revolving round the two subjects I intend to expertise, namely <i>Evolutionary Biology</i> & <i>Philosophy of Science</i>. The books I have already read (at least once) are marked in green, and a short Please notice that this list is for my own personal use, Else, I have decided to them them in a chronological order because I find it interesting to realise how things developed historically.   
+Having said that, what I present below is a list of titles revolving round the two subjects I intend to expertise, namely <i>Evolutionary Biology</i> & <i>Philosophy of Science</i>. The books I have already read (at least once) are marked in green, and a short commentary is provided. Please notice that this is for my own personal recording, and my impressions on these titles should be taken with care. Else, I have decided to list them in a chronological order because I find it revealing to realise how things unfolded historically. For instance, Huxley published this book on the evolution of <i>Homo sapiens</i> 8 years before Darwin presented his own work on this subject; or that Wallaced published his book on <i>Natural Selection</i> 20 years after Darwin's famous title had been published.
 </blockquote>
 {{< /rawhtml >}}
 ***
@@ -17,14 +17,14 @@ Having said that, what I present below is a list of title on revolving round the
 #### Classics Works/
 
 * Zoonomia; or the Laws of Organic Life | Erasmus Darwin (1794)
-* Zoological Philosophy, or Exposition with Regard to the Natural History of Animals | Lamarck (1809)
-* The Voyage of the Beagle | Darwin (1839)
-* On the Origin of Species | Darwin (1859)
-* Evidence As To Man's Place In Nature | Huxley (1863)
-* The Malay Archipelago | Wallace (1869)
-* The Descent of Man, and Selection in Relation to Sex | Darwin (1871)
-* The Expression of the Emotions in Man and Animals | Darwin (1872)
-* Darwinism: An Exposition of the Theory of Natural Selection, with Some of Its Applications | Wallace (1889)
+* Zoological Philosophy, or Exposition with Regard to the Natural History of Animals | Jean-Baptiste Lamarck (1809)
+* The Voyage of the Beagle | Charles Darwin (1839)
+* On the Origin of Species | Charles Darwin (1859)
+* Evidence As To Man's Place In Nature | Thomas Huxley (1863)
+* The Malay Archipelago | Alfred Wallace (1869)
+* The Descent of Man, and Selection in Relation to Sex | Charles Darwin (1871)
+* The Expression of the Emotions in Man and Animals | Charles Darwin (1872)
+* Darwinism: An Exposition of the Theory of Natural Selection, with Some of Its Applications | Alfred Wallace (1889)
 
 {{< rawhtml >}}
 <div class="row">
