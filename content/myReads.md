@@ -27,17 +27,17 @@ Having said that, what I present below is a list of titles revolving round the t
 * Darwinism: An Exposition of the Theory of Natural Selection, with Some of Its Applications | Alfred Wallace (1889)
 
 {{< rawhtml >}}
-<div class="row">
-  <div class="responsive">
+<div class="row" id="responsive">
+  <div >
     <img src="../Images/BookCovers/ImprobableDestinies.jpg" alt="Improbable Destinies" style="height:20rem">
   </div>
-  <div class="responsive">
+  <div>
     <img src="../Images/BookCovers/MalayArchipelago.jpg" alt="The Malay Archipelago" style="height:20rem">
   </div>
-  <div class="responsive">
+  <div>
     <img src="../Images/BookCovers/WonderfulLife.jpg" alt="Wonderful Life" style="height:20rem">
   </div>
-  <div class="responsive">
+  <div>
     <img src="../Images/BookCovers/Speciation.jpg" alt="The Evolution of Beauty" style="height:20rem">
   </div>
 </div> 
@@ -65,17 +65,17 @@ Having said that, what I present below is a list of titles revolving round the t
 * The Evolution of Beauty | Richard O. Prum (2018)
 
 {{< rawhtml >}}
-<div class="row">
-  <div class="responsive">
+<div class="row" id="responsive">
+  <div>
     <img src="../Images/BookCovers/DarwinsDangerousIdea.jpg" alt="Darwin's Dangerous Idea" style="height:20rem">
   </div>
-  <div class="responsive">
+  <div>
     <img src="../Images/BookCovers/TheAncestorsTale.jpg" alt="The Ancestor's Tale" style="height:20rem">
   </div>
-  <div class="responsive">
+  <div>
     <img src="../Images/BookCovers/TheSelfishGene.jpg" alt="The Selfish Gene" style="height:20rem">
   </div>
-  <div class="responsive">
+  <div>
     <img src="../Images/BookCovers/FromSoSimpleABeginning.jpg" alt="From So Simple A Beginning" style="height:20rem">
   </div>
 </div>
@@ -98,17 +98,17 @@ Having said that, what I present below is a list of titles revolving round the t
 * Evolution: Making Sense of Life — Third Edition | Douglas Emlen & Carl Zimmer (2019)
 
 {{< rawhtml >}}
-<div class="row">
-  <div class="responsive">
+<div class="row" id="responsive">
+  <div>
     <img src="../Images/BookCovers/DinosaursRiseFall.jpg" alt="Darwin's Dangerous Idea" style="height:20rem">
   </div>
-  <div class="responsive">
+  <div>
     <img src="../Images/BookCovers/MakingSenseOfLife.jpg" alt="The Ancestor's Tale" style="height:20rem">
   </div>
-  <div class="responsive">
+  <div>
     <img src="../Images/BookCovers/FourBillionYears.jpg" alt="The Selfish Gene" style="height:20rem">
   </div>
-  <div class="responsive">
+  <div>
     <img src="../Images/BookCovers/WhatEvolutionIs.jpg" alt="From So Simple A Beginning" style="height:20rem">
   </div>
 </div>
@@ -128,17 +128,17 @@ Having said that, what I present below is a list of titles revolving round the t
 * A Modest Genius: The Story of Darwin’s Life and How His Ideas Changed Everything | Hanne Strager (2016)
 
 {{< rawhtml >}}
-<div class="row">
-  <div class="responsive">
+<div class="row" id="responsive">
+  <div>
     <img src="../Images/BookCovers/ADiscoveredLife.jpg" alt="Improbable Destinies" style="height:20rem">
   </div>
-  <div class="responsive">
+  <div>
     <img src="../Images/BookCovers/TheInventionOfNature.jpg" alt="The Malay Archipelago" style="height:20rem">
   </div>
-  <div class="responsive">
+  <div>
     <img src="../Images/BookCovers/WonderfulLife.jpg" alt="Wonderful Life" style="height:20rem">
   </div>
-  <div class="responsive">
+  <div>
     <img src="../Images/BookCovers/TheEvolutionOfBeauty.jpg" alt="The Evolution of Beauty" style="height:20rem">
   </div>
 </div>
