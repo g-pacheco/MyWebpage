@@ -13,23 +13,29 @@ So far in my scientific carrer I have mainly worked on projects in the vein of <
 #### 10K Bird Project/
 
 {{< rawhtml >}}
-<nav class=adoro>
-<blockquote>
+<blockquote class="adoro">
 <img class="ResearchImg" src="../Images/SNMBirdsPoster.jpg" alt="My profile image">
 Pretty much unwittingly, I started working on this long-running project back in 2013 when my hired me as a reseach assistant during my MSc.
 Acting as the main responsible person for this large-scale genomic project in Copenhagen, I performed a massive amount of lab work for this study. Moreover, I also contributed to the drafting of this article and approved its final version. <a href="https://b10k.genomics.cn/" target="_blank">webpage</a>.
+<hr>
+</hr>
 </blockquote>
-</nav>
+{{< /rawhtml >}}
 
-<nav class=adoro>
-<blockquote>
+{{< rawhtml >}}
+<hr>
+</hr>
+{{< /rawhtml >}}
+
+***
+
+#### 10K Bird Project/
+
+{{< rawhtml >}}
+<blockquote class="adoro">  
 <img class="ResearchImg" src="../Images/PigeonBreed.jpg" alt="My profile image">
 Pretty much unwittingly, I started working on this long-running project back in 2013 when my hired me as a reseach assistant during my MSc.
 Acting as the main responsible person for this large-scale genomic project in Copenhagen, I performed a massive amount of lab work for this study. Moreover, I also contributed to the drafting of this article and approved its final version. <a href="https://b10k.genomics.cn/" target="_blank">webpage</a>.
 </blockquote>
-</nav>
 {{< /rawhtml >}}
 ***
-
-
-
