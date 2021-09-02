@@ -23,4 +23,3 @@ author = "George Pacheco"
 </blockquote>
 {{< /rawhtml >}}
 ***
-

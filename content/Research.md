@@ -30,7 +30,7 @@ Pretty much unwittingly, I started working on this long-running project back in 
 <blockquote class="adoro">  
 <img class="ResearchImg" src="../Images/PigeonBreed.jpg" alt="My profile image">
 This was one of the main articles that composed my PhD thesis, thus I acted as the leader author of this study from its commencement until its end.</p>
-<b>Pictured:</b> Human-raised <i>white</i> pigeon inhabiting a modern columbarium in Doha, Qatar. Photo by <a href="(https://machris.myportfolio.com/work" target="_blank">Marie-Christine Rufener</a>.
+<b>Pictured:</b> Human-raised <i>white</i> pigeon inhabiting a modern columbarium in Doha, Qatar. Photo by <a href="https://machris.myportfolio.com/work" target="_blank">Marie-Christine Rufener</a>.
 </blockquote>
 {{< /rawhtml >}}
 
