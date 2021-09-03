@@ -93,3 +93,11 @@ weight = 4
 name = "myReads/"
 url = "/myReads"
 weight = 5
+
+[[menu.main]]
+name = "Gallery/"
+url = "/Gallery"
+weight = 6
+
+
+
