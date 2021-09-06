@@ -14,6 +14,10 @@ paginate = 3 # articles per page
 [params]
 	mode = "dark" # color-mode → light, dark or auto
 	useCDN = false # don't use CDNs for fonts and icons, instead serve them locally.
+	typeformid = "u6nTL7" # Required
+	typeformuser = "myuser" # Optional
+	typeformwidth = "100%" # Optional
+	typeformheight = "800px" # Optional
 
 # Social Tags
 
@@ -98,6 +102,11 @@ weight = 5
 name = "Gallery/"
 url = "/Gallery"
 weight = 6
+
+[[menu.main]]
+name = "Contact/"
+url = "/Contact"
+weight = 7
 
 
 
