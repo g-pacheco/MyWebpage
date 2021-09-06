@@ -12,7 +12,8 @@ DTU Aqua / Vejlsøvej 39, 8600 Silkeborg • Denmark </p>
 </p>
 
 <blockquote>
-The best way of getting a hold of me is through my institutional email: <a href = "mailto: ganpa@aqua.dtu.dk" target="_blank">ganpa@aqua.dtu.dk</a>. Please write to me through it and I will get back to you as soon as possible.
+The best way of getting a hold of me is through my institutional email: <a href = "mailto: ganpa@aqua.dtu.dk" target="_blank">ganpa@aqua.dtu.dk</a>. </p>
+Please write to me through it and I will get back to you as soon as possible.
 </blockquote>
 {{< /rawhtml >}}
 ***
