@@ -13,14 +13,13 @@ So far in my scientific carrer I have mainly worked on projects in the vein of <
 #### 10K Bird Project/
 
 {{< rawhtml >}}
-<p id="ongoing"><b><i>Ongoing</i></b></p>
+<p id="ongoing"><b><i>Ongoing</i></b> (no longer with my contributions)</p>
 <blockquote class="adoro">
 <img class="ResearchImg" src="../Images/littlebirdKenya.jpg" alt="My profile image">
-Pretty much unwittingly, I started working on this long-running project back in 2013 during my MSc when I was hired as a lab assistant by my advisor <a href="(https://globe.ku.dk/staff-list/?pure=en/persons/295003" target="_blank">Prof. Tom Gilbert</a>, who is one of the leaders of this study. Later during my PhD also under Tom's supervision, my participation in this project was greatly expanded and I became the main person responsible for its weblab front in Copenhagen. Thus, my contribution here involved the coordination of samples (e.g. collection and shipping) alongside a considerable amount of lab work performing hundreds of DNA extractions. Moreover, I also contributed to the drafting of this article and approved its final version. I undoubtedly did learn a lot from my particiation in this large-scale genomic project, and although I no longer work on it, it is still rolling now in the genera phase. You can learn more about its current progress by visiting the project's webpage <a href="https://b10k.genomics.cn/" target="_blank">here</a>.</p>
+Pretty much unwittingly, I started working on this long-running project back in 2013 during my MSc when I was hired as a lab assistant by my advisor <a href="(https://globe.ku.dk/staff-list/?pure=en/persons/295003" target="_blank">Prof. Tom Gilbert</a>, who was one of the leaders of the initial phase of this study. Later during my PhD also under Tom's supervision, my participation in this project was greatly expanded and I became the main person responsible for its weblab front in Copenhagen. Thus, my contribution here involved the coordination of samples (e.g. collection and shipping) alongside a considerable amount of lab work performing hundreds of DNA extractions. Moreover, I had the chance to participate in an expediction to the Kenyan Savanna on behalf of this project, so we could sample an important missing species. I also contributed to the late-stage drafting as well as approved its final version of the flagship article related to the <a href="https://www.nature.com/articles/s41586-020-2873-9" target="_blank">Family Phase</a>. I undoubtedly did learn a lot from my particiation in this large-scale genomic project, and although I no longer work on it, it is still rolling now in the genera phase. You can learn more about its current progress by visiting the project's webpage <a href="https://b10k.genomics.cn/" target="_blank">here</a>.</p>
 <b>Pictured:</b> Sampled bird from our expediction to Kenya in 2016.
 </blockquote>
 {{< /rawhtml >}}
-
 ***
 
 #### Feral Pigeon Genomics/
@@ -33,7 +32,6 @@ This was one of the main articles that composed my PhD thesis, thus I acted as t
 <b>Pictured:</b> Human-raised <i>white</i> pigeon inhabiting a modern columbarium in Doha, Qatar. Photo by <a href="https://machris.myportfolio.com/work" target="_blank">Marie-Christine Rufener</a>.
 </blockquote>
 {{< /rawhtml >}}
-
 ***
 
 #### Pigeon Breeds Genomics/
@@ -46,7 +44,6 @@ Pretty much unwittingly, I started working on this long-running project back in 
 Acting as the main responsible person for this large-scale genomic project in Copenhagen, I performed a massive amount of lab work for this study. Moreover, I also contributed to the drafting of this article and approved its final version. <a href="https://b10k.genomics.cn/" target="_blank">webpage</a>.
 </blockquote>
 {{< /rawhtml >}}
-
 ***
 
 #### Vampire Bat Genomics/

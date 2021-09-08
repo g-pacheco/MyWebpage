@@ -20,7 +20,7 @@ DTU Aqua / Vejlsøvej 39, 8600 Silkeborg • Denmark</p>
 
 {{< rawhtml >}}
 <blockquote>
-Initially trained in <i>Biology</i> in the Brazilian Northeast, I have worked on several projects in the vein of animal evolutionary genomics investigating a diverse range of taxa—from tiny Collembolans to culturally evolving killer whales, which has given me a vast experience in the molecular lab and a fair understanding of the rationale behind bioinformatic analyses. During my scientific career, I have developed a profound interest in the genomic and epigenomic architecture of cognitive traits. Ultimately, I have a sound interest in the molecular mechanisms implicated in the emergence and maintenance of traits of medical relevance.
+Initially trained in <i>Biology</i> in the Brazilian Northeast, I have worked on several projects in the vein of animal evolutionary genomics investigating a diverse range of taxa<b>—</b>from tiny Collembolans to culturally evolving killer whales, which has given me a vast experience in the molecular lab and a fair understanding of the rationale behind bioinformatic analyses. During my scientific career, I have developed a profound interest in the genomic and epigenomic architecture of cognitive traits. Ultimately, I have a sound interest in the molecular mechanisms implicated in the emergence and maintenance of traits of medical relevance.
 </blockquote>
 {{< /rawhtml >}}
 
@@ -28,16 +28,16 @@ Initially trained in <i>Biology</i> in the Brazilian Northeast, I have worked on
 
 ##### Post-doc Researcher  
 {{< rawhtml >}}
-March 2021 — Present | <a href="https://www.dtu.dk/english" target="_blank"><i>Technical University of Denmark</i></a></p>
+March 2021 <b>—</b> Present <b>|</b> <a href="https://www.dtu.dk/english" target="_blank"><i>Technical University of Denmark</i></a></p>
 <b>Advisor:</b> <a href="https://orbit.dtu.dk/en/persons/jakob-hemmer-hansen" target="_blank">Dr. Jakob Hansen</a> & <a href="https://orbit.dtu.dk/en/persons/dorte-bekkevold" target="_blank">Dr. Dorte Bekkevold</a></p>
-<b>Location:</b> <a href="https://www.aqua.dtu.dk/english/Research/Population_genetics" target="_blank"><i>Section for Population Genetics</i></a> ~ <a href="https://www.aqua.dtu.dk/english" target="_blank"><i>DTU Aqua</i></a>
+<b>Location:</b> <a href="https://www.aqua.dtu.dk/english/Research/Population_genetics" target="_blank"><i>Section for Population Genetics</i></a> <b>~</b> <a href="https://www.aqua.dtu.dk/english" target="_blank"><i>DTU Aqua</i></a>
 {{< /rawhtml >}}
 
 ##### Post-doc Researcher
 {{< rawhtml >}}  
-Jan 2020 — Jun 2020 | <a href="https://www.ku.dk/english" target="_blank"><i>University of Copenhagen</i></a></p>
+Jan 2020 <b>—</b> Jun 2020 <b>|</b> <a href="https://www.ku.dk/english" target="_blank"><i>University of Copenhagen</i></a></p>
 <b>Advisor:</b> <a href="https://globe.ku.dk/staff-list/?pure=en/persons/295003" target="_blank">Prof. Tom Gilbert</a></p>
-<b>Location:</b> <a href="https://globe.ku.dk/research/evogenomics" target="_blank"><i>Section for Evolutionary Genomics</i></a> ~ <a href="https://globe.ku.dk" target="_blank"><i>The GLOBE Institute</i></a>
+<b>Location:</b> <a href="https://globe.ku.dk/research/evogenomics" target="_blank"><i>Section for Evolutionary Genomics</i></a> <b>~</b> <a href="https://globe.ku.dk" target="_blank"><i>The GLOBE Institute</i></a>
 {{< /rawhtml >}}
 ***
 
@@ -45,27 +45,27 @@ Jan 2020 — Jun 2020 | <a href="https://www.ku.dk/english" target="_blank"><i>U
 
 ##### PhD in Evolutionary Genomics    
 {{< rawhtml >}}
-Nov 2014 — Apr 2019 | <a href="https://www.ku.dk/english" target="_blank"><i>University of Copenhagen</i></a></p>  
+Nov 2014 <b>—</b> Apr 2019 <b>|</b> <a href="https://www.ku.dk/english" target="_blank"><i>University of Copenhagen</i></a></p>  
 <b>Thesis:</b> Flying Rats Shall No Longer Be: A Population Genomic Analysis of Fancy and Feral Pigeons</p>
 <b>Advisor:</b> <a href="https://globe.ku.dk/staff-list/?pure=en/persons/295003" target="_blank">Prof. Tom Gilbert</a> & <a href="https://scholar.google.com/citations?user=gvZmPNQAAAAJ&hl=en" target="_blank">Dr. Filipe Vieira</a></p>
-<b>Location:</b> <a href="https://globe.ku.dk/research/evogenomics" target="_blank"><i>Section for Evolutionary Genomics</i></a> ~ <a href="https://snm.ku.dk/english/" target="_blank"><i>Natural History Museum of Denmark</i></a>
+<b>Location:</b> <a href="https://globe.ku.dk/research/evogenomics" target="_blank"><i>Section for Evolutionary Genomics</i></a> <b>~</b> <a href="https://snm.ku.dk/english/" target="_blank"><i>Natural History Museum of Denmark</i></a>
 {{< /rawhtml >}}
 
 
 ##### MSc in Biology
 {{< rawhtml >}}  
-Feb 2012 — Aug 2014 | <a href="https://www.ku.dk/english" target="_blank"><i>University of Copenhagen</i></a></p>  
+Feb 2012 <b>—</b> Aug 2014 <b>|</b> <a href="https://www.ku.dk/english" target="_blank"><i>University of Copenhagen</i></a></p>  
 <b>Thesis:</b> Insights into the Feral Pigeon Global Community Gained From Population Genomics</p>
 <b>Advisor:</b> <a href="https://globe.ku.dk/staff-list/?pure=en/persons/295003" target="_blank">Prof. Tom Gilbert</a></p>
-<b>Location:</b> <a href="https://globe.ku.dk/research/evogenomics" target="_blank"><i>Section for Evolutionary Genomics</i></a> ~ <a href="https://snm.ku.dk/english/" target="_blank"><i>Natural History Museum of Denmark</i></a>
+<b>Location:</b> <a href="https://globe.ku.dk/research/evogenomics" target="_blank"><i>Section for Evolutionary Genomics</i></a> <b>~</b> <a href="https://snm.ku.dk/english/" target="_blank"><i>Natural History Museum of Denmark</i></a>
 {{< /rawhtml >}}
 
 ##### Full Licensing & BSc in Biological Sciences  
 {{< rawhtml >}}
-Aug 2006 — Jul 2011 | <a href="https://www.ufrn.br/en" target="_blank"><i>Federal University of Rio Grande do Norte</i></a></p>
+Aug 2006 <b>—</b> Jul 2011 <b>|</b> <a href="https://www.ufrn.br/en" target="_blank"><i>Federal University of Rio Grande do Norte</i></a></p>
 <b>Thesis:</b> Cytogenetics Characterisation of the Species <i>Cichlasoma orientale</i> (Teleostei: Cichlidae: Cichlinae)</p> 
 <b>Advisor:</b> <a href="https://scholar.google.dk/citations?user=WYeNkLEAAAAJ&hl=en" target="_blank">Prof. Wagner Molina</a></p>
-<b>Location:</b> Laboratório de Genética de Recursos Marinhos ~ Departamento de Biologia Celular e Genética
+<b>Location:</b> Laboratório de Genética de Recursos Marinhos <b>~</b> Departamento de Biologia Celular e Genética
 {{< /rawhtml >}}
 ***
 
@@ -73,27 +73,27 @@ Aug 2006 — Jul 2011 | <a href="https://www.ufrn.br/en" target="_blank"><i>Fede
 
 ##### EMBO Short-Term Fellowship    
 {{< rawhtml >}}
-23 Sep — 22 Dec 2019 | <a href="https://www.embo.org" target="_blank"><i>EMBO</i></a> • Germany
+23 Sep <b>—</b> 22 Dec 2019 <b>|</b> <a href="https://www.embo.org" target="_blank"><i>EMBO</i></a> • Germany
 {{< /rawhtml >}}
 
 ##### Full PhD Abroad Scholarship  
 {{< rawhtml >}}
-Nov 2014 — Oct 2018 | <a href="https://www.gov.br/cnpq/pt-br" target="_blank"><i>CNPq</i></a> • Brazil
+Nov 2014 <b>—</b> Oct 2018 <b>|</b> <a href="https://www.gov.br/cnpq/pt-br" target="_blank"><i>CNPq</i></a> • Brazil
 {{< /rawhtml >}}
 
 ##### Danish Government Scholarship and Tuition Fee Waiver    
 {{< rawhtml >}}
-Feb 2012 — Jan 2014 | <a href="https://ufm.dk/en" target="_blank"><i>Ministry of Higher Education & Science</i></a> • Denmark
+Feb 2012 <b>—</b> Jan 2014 <b>|</b> <a href="https://ufm.dk/en" target="_blank"><i>Ministry of Higher Education & Science</i></a> • Denmark
 {{< /rawhtml >}}
 
 ##### Student Assistant Scholarship   
 {{< rawhtml >}}
-Mar 2010 — Apr 2011 | <a href="https://www.gov.br/cnpq/pt-br" target="_blank"><i>CNPq</i></a> • Brazil
+Mar 2010 <b>—</b> Apr 2011 <b>|</b> <a href="https://www.gov.br/cnpq/pt-br" target="_blank"><i>CNPq</i></a> • Brazil
 {{< /rawhtml >}}  
 
 ##### Scientific Initiation Scholarship    
 {{< rawhtml >}}
-Feb 2009 — Jul 2011 | <a href="https://www.gov.br/cnpq/pt-br" target="_blank"><i>CNPq</i></a> • Brazil
+Feb 2009 <b>—</b> Jul 2011 <b>|</b> <a href="https://www.gov.br/cnpq/pt-br" target="_blank"><i>CNPq</i></a> • Brazil
 {{< /rawhtml >}} 
 ***
 
@@ -101,15 +101,15 @@ Feb 2009 — Jul 2011 | <a href="https://www.gov.br/cnpq/pt-br" target="_blank">
 
 ##### Lab Assistant  
 {{< rawhtml >}}
-Aug 2013 — May 2014 | <a href="https://www.ku.dk/english" target="_blank"><i>University of Copenhagen</i></a></p>
+Aug 2013 <b>—</b> May 2014 <b>|</b> <a href="https://www.ku.dk/english" target="_blank"><i>University of Copenhagen</i></a></p>
 <b>Employer:</b> <a href="https://globe.ku.dk/staff-list/?pure=en/persons/295003" target="_blank">Prof. Tom Gilbert</a></p>
-<b>Location:</b> <a href="https://globe.ku.dk/research/evogenomics" target="_blank"><i>Section for Evolutionary Genomics</i></a> ~ <a href="https://snm.ku.dk/english/" target="_blank"><i>Natural History Museum of Denmark</i></a>
+<b>Location:</b> <a href="https://globe.ku.dk/research/evogenomics" target="_blank"><i>Section for Evolutionary Genomics</i></a> <b>~</b> <a href="https://snm.ku.dk/english/" target="_blank"><i>Natural History Museum of Denmark</i></a>
 {{< /rawhtml >}}
 
 
 ##### Lab Intern  
 {{< rawhtml >}}
-Aug 2007 — Aug 2008 | <a href="https://www.ufrn.br/en" target="_blank"><i>Federal University of Rio Grande do Norte</i></a></p>
+Aug 2007 <b>—</b> Aug 2008 <b>|</b> <a href="https://www.ufrn.br/en" target="_blank"><i>Federal University of Rio Grande do Norte</i></a></p>
 <b>Advisor:</b> <a href="https://scholar.google.dk/citations?user=VTK_NLAAAAAJ&hl=en" target="_blank"> Prof. Lucymara Fassarella Agnez-Lima</a></p>
 <b>Location:</b> Laboratory of Molecular Biology and Genomics
 {{< /rawhtml >}}
@@ -118,12 +118,12 @@ Aug 2007 — Aug 2008 | <a href="https://www.ufrn.br/en" target="_blank"><i>Fede
 #### Research Visits/
 {{< rawhtml >}}
 <h5><a href="https://cibio.up.pt/people/details/mcarneir/student-supervisions/concluded?t=1" target="_blank"><b>Carneiro Lab</b></a></h5>
-23 Sep — 22 Dec 2019 | <a href="https://cibio.up.pt/" target="_blank"><i>CIBIO</i></a> ~ <a href="https://sigarra.up.pt/up/en/WEB_BASE.GERA_PAGINA?p_pagina=home" target="_blank"><i>University of Porto</i></a>
+23 Sep <b>—</b> 22 Dec 2019 <b>|</b> <a href="https://cibio.up.pt/" target="_blank"><i>CIBIO</i></a> <b>~</b> <a href="https://sigarra.up.pt/up/en/WEB_BASE.GERA_PAGINA?p_pagina=home" target="_blank"><i>University of Porto</i></a>
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
 <h5><a href="https://shapiro.biology.utah.edu/Shapiro_Lab/Index.html" target="_blank"><b>Shapiro Lab</b></a></h5>
-20 Apr — 19 May 2015 | <a href="https://www.biology.utah.edu/" target="_blank"><i>School of Biological Sciences</i></a> ~ <a href="https://www.utah.edu/" target="_blank"><i>The University of Utah</i></a>
+20 Apr <b>—</b> 19 May 2015 <b>|</b> <a href="https://www.biology.utah.edu/" target="_blank"><i>School of Biological Sciences</i></a> <b>~</b> <a href="https://www.utah.edu/" target="_blank"><i>The University of Utah</i></a>
 {{< /rawhtml >}}
 ***
 
@@ -131,14 +131,14 @@ Aug 2007 — Aug 2008 | <a href="https://www.ufrn.br/en" target="_blank"><i>Fede
 
 ##### Supervision of Several Users of the Molecular Labs
 {{< rawhtml >}}
-Feb 2014 — July 2018 | <a href="https://www.ku.dk/english" target="_blank"><i>University of Copenhagen</i></a></p>
+Feb 2014 <b>—</b> July 2018 <b>|</b> <a href="https://www.ku.dk/english" target="_blank"><i>University of Copenhagen</i></a></p>
 <b>Advisor:</b> <a href="https://globe.ku.dk/staff-list/?pure=en/persons/295003" target="_blank">Prof. Tom Gilbert</a></p>
-<b>Location:</b> <a href="https://globe.ku.dk/research/evogenomics" target="_blank"><i>Section for Evolutionary Genomics</i></a> ~ <a href="https://snm.ku.dk/english/" target="_blank"><i>Natural History Museum of Denmark</i></a>
+<b>Location:</b> <a href="https://globe.ku.dk/research/evogenomics" target="_blank"><i>Section for Evolutionary Genomics</i></a> <b>~</b> <a href="https://snm.ku.dk/english/" target="_blank"><i>Natural History Museum of Denmark</i></a>
 {{< /rawhtml >}}
 
 ##### Student Assistant of Entomology
 {{< rawhtml >}}
-Mar 2010 — Apr 2011 | <a href="https://www.ufrn.br/en" target="_blank"><i>Federal University of Rio Grande do Norte</i></a></p>
+Mar 2010 <b>—</b> Apr 2011 <b>|</b> <a href="https://www.ufrn.br/en" target="_blank"><i>Federal University of Rio Grande do Norte</i></a></p>
 <b>Advisor:</b> Prof. Ricardo Andreazze</p>
 <b>Location:</b> Laboratory of Entomology
 {{< /rawhtml >}}
@@ -147,33 +147,33 @@ Mar 2010 — Apr 2011 | <a href="https://www.ufrn.br/en" target="_blank"><i>Fede
 #### Selected Scientific Expedictions
 
 ##### Logistics Activities on the REBIO Atol das Rocas Conservation Unit
-Nov 2008 | Rio Grande do Norte State • Brazil
+Nov 2008 <b>|</b> Rio Grande do Norte State • Brazil
 
-##### Collection of Avian Samples | On behalf of the 10KBird Project
-Feb 2016 | Rukanga Region • Kenya
+##### Collection of Avian Samples <b>|</b> On behalf of the 10KBird Project
+Feb 2016 <b>|</b> Rukanga Region • Kenya
 
 ##### Collection of Avian Zooarchaeological Samples
-Feb 2016 | Negev Desert • Israel
+Feb 2016 <b>|</b> Negev Desert • Israel
 
 ##### Collection of Avian Samples
-Nov 2015 | Tórshavn Region • Faroe Islands
+Nov 2015 <b>|</b> Tórshavn Region • Faroe Islands
 ***
 
 #### Selected Scientific Events
 
 ##### II B10K Project Workshop
-Feb 2020 | Copenhagen • Denmark
+Feb 2020 <b>|</b> Copenhagen • Denmark
 
 ##### Genome 10K and Genome Science Conference
-Aug 2017 | Norwich • England
+Aug 2017 <b>|</b> Norwich • England
 
 ##### I B10K Project Workshop
-Oct 2016 | Beijing • China
+Oct 2016 <b>|</b> Beijing • China
 
 ##### XV Congress of the European Society for Evolutionary Biology
-Aug 2015 | Lausanne • Switzerland
+Aug 2015 <b>|</b> Lausanne • Switzerland
 
 ##### LX Brazilian Congress on Genetics
-Aug 2014 | Guarujá • Brazil
+Aug 2014 <b>|</b> Guarujá • Brazil
 ***
 
