@@ -5,7 +5,7 @@ description = "My research projects."
 
 {{< rawhtml >}}
 <blockquote>
-So far in my scientific carrer I have mainly worked on projects in the vein of <i>Animal Evolutionary Genomics</i>. To some of these I chiefly collaborated with wetlab work, while to others my contribution was on the drylab front, and yet to other projects I wore both the wetlab and the drylab hats (that was certainly the case for those projected I led). You will find below a selected list of the projects I have participated alongside with a short explaination on how I contributed to each of them. Please notice that the order used here is arbritary, and hence does not reflect the project's importances.   
+So far in my scientific carrer I have mainly worked on projects in the vein of <i>Animal Evolutionary Genomics</i>. To some of these I chiefly collaborated with wetlab work, while to others my contribution was on the drylab front, and yet to other projects I wore both the wetlab and the drylab hats (that was certainly the case for those projected I led). You will find below a selected list of the projects I have participated alongside with a short explaination on how I contributed to each of them. Please notice that the order used here is arbritary, and hence does not reflect the projects' importances.   
 </blockquote>
 {{< /rawhtml >}}
 ***
@@ -28,7 +28,7 @@ Pretty much unwittingly, I started working on this long-running project back in 
 <p id="ongoing"><b><i>Ongoing</i></b></p>
 <blockquote class="adoro">  
 <img class="ResearchImg" src="../Images/PigeonBreed.jpg" alt="My profile image">
-This was one of the main articles that composed my PhD thesis, thus I acted as the leader author of this study from its commencement until its end.</p>
+This was one of the main articles that composed my PhD thesis, thus I acted as the leader author of this study from its commencement until its end. </p>
 <b>Pictured:</b> Human-raised <i>white</i> pigeon inhabiting a modern columbarium in Doha, Qatar. Photo by <a href="https://machris.myportfolio.com/work" target="_blank">Marie-Christine Rufener</a>.
 </blockquote>
 {{< /rawhtml >}}
@@ -39,12 +39,15 @@ This was one of the main articles that composed my PhD thesis, thus I acted as t
 {{< rawhtml >}}
 <p id="finished"><b><i>Finished</i></b></p>
 <blockquote class="adoro">
-<img class="ResearchImg" src="../Images/PigeonBreed.jpg" alt="My profile image">
+<img class="ResearchImg" src="../Images/HeinExhibitionFantail.jpg" alt="My profile image">
 Pretty much unwittingly, I started working on this long-running project back in 2013 when my hired me as a reseach assistant during my MSc.
-Acting as the main responsible person for this large-scale genomic project in Copenhagen, I performed a massive amount of lab work for this study. Moreover, I also contributed to the drafting of this article and approved its final version. <a href="https://b10k.genomics.cn/" target="_blank">webpage</a>.
+Acting as the main responsible person for this large-scale genomic project in Copenhagen, I performed a massive amount of lab work for this study. Moreover, I also contributed to the drafting of this article and approved its final version. <a href="https://b10k.genomics.cn/" target="_blank">webpage</a>. </p>
+<b>Pictured:</b> Fancy pigeon individual belonging to Exhibition Fantail breed. Photo coutersy of <a href="https://www.nhm.ac.uk/our-science/departments-and-staff/staff-directory/hein-van%20grouw.html" target="_blank">Hein Van Grouw</a>.
 </blockquote>
 {{< /rawhtml >}}
 ***
+
+
 
 #### Vampire Bat Genomics/
 
