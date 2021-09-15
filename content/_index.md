@@ -3,7 +3,11 @@ description = "Intro"
 author = "George Pacheco"
 +++
 
-### Welcome.
+{{< rawhtml >}}
+<article>
+    <h1 class="title">Welcome.</h1>
+</article>
+{{< /rawhtml >}}
 
 {{< rawhtml >}}
 <img class=divProfileImg src="../Images/ProfileImage.jpg" alt="My profile image" style="height:20rem">
