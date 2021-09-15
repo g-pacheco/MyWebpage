@@ -8,10 +8,17 @@ description = "My publication list."
 {{< /rawhtml >}}
 ***
 
-#### 2021/
+### Submitted/
+
+* **Against the Odds: Hybrid Zones Between Mangrove Killifish Species with Different Mating Systems.**  
+Berbel-Filho et al. _Genes_.
 
 * **Conservation Genomics of the Endangered Seychelles Magpie Robin (_Copsychus sechellarum_): A Unique Insight into the History of a Precious Endemic Bird.**  
-Cavill et al. _IBIS_. / Accepted
+Cavill et al. _IBIS_.
+
+### Peer-reviewed/
+
+#### 2021/
 
 * **The Germline Mutational Process in Rhesus Macaque and Its Implications for Phylogenetic Dating.**  
 Bergeron et al. _GigaScience_.  

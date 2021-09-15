@@ -4,8 +4,6 @@ id = "typeform"
 description = "Contact me."
 +++
 
-hauahuahuahauhau
-
 {{< rawhtml >}}
 <blockquote>
 <b>George Pacheco</b>, PhD </p>
