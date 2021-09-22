@@ -10,9 +10,6 @@ description = "My publication list."
 
 ### Submitted/
 
-* **Against the Odds: Hybrid Zones Between Mangrove Killifish Species with Different Mating Systems.**  
-Berbel-Filho et al. _Genes_.
-
 * **Conservation Genomics of the Endangered Seychelles Magpie Robin (_Copsychus sechellarum_): A Unique Insight into the History of a Precious Endemic Bird.**  
 Cavill et al. _IBIS_.
 
@@ -20,9 +17,12 @@ Cavill et al. _IBIS_.
 
 #### 2021/
 
+{{< rawhtml >}}
+* **Against the Odds: Hybrid Zones Between Mangrove Killifish Species with Different Mating Systems.**  
+Berbel-Filho et al. _Genes_. [Accepted]
+
 * **The Germline Mutational Process in Rhesus Macaque and Its Implications for Phylogenetic Dating.**  
 Bergeron et al. _GigaScience_.  
-{{< rawhtml >}}
 <a href="https://academic.oup.com/gigascience/article/10/5/giab029/6269103" target="_blank">DOI</a>
 <b>~</b>
 <a href="/MyArticles/macaqueGigaScience.pdf" target="_blank">PDF</a>
