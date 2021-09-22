@@ -41,7 +41,7 @@ This was one of the main articles that composed my PhD thesis, thus I acted as t
 <blockquote class="adoro">
 <img class="ResearchImg" src="../Images/HeinExhibitionFantail.jpg" alt="My profile image">
 Pretty much unwittingly, I started working on this long-running project back in 2013 when my hired me as a reseach assistant during my MSc.
-Acting as the main responsible person for this large-scale genomic project in Copenhagen, I performed a massive amount of lab work for this study. Moreover, I also contributed to the drafting of this article and approved its final version. <a href="https://b10k.genomics.cn/" target="_blank">webpage</a>. </p>
+Acting as the main responsible person for this large-scale genomic project in Copenhagen, I performed a massive amount of lab work for this study. Moreover, I also contributed to the drafting of this article and approved its final version.</p>
 <b>Pictured:</b> Fancy pigeon individual belonging to Exhibition Fantail breed. Photo coutersy of <a href="https://www.nhm.ac.uk/our-science/departments-and-staff/staff-directory/hein-van%20grouw.html" target="_blank">Hein Van Grouw</a>.
 </blockquote>
 {{< /rawhtml >}}
@@ -55,8 +55,8 @@ Acting as the main responsible person for this large-scale genomic project in Co
 <p id="finished"><b><i>Finished</i></b></p>
 <blockquote class="adoro">  
 <img class="ResearchImg" src="../Images/batVitoria.jpg" alt="My profile image">
-I performed crucial lab work for this project, such as DNA extractions, molecular quality checks and PCR experiments. I also contributed to the article writing process and helped its main author to finish up its final draft version based on inputs from all other collaborators.</p>
-<b>Pictured:</b> Human-raised <i>white</i> pigeon inhabiting a modern columbarium in Doha, Qatar. Photo by <a href="(https://machris.myportfolio.com/work" target="_blank">Vitória Nunes</a>.
+By the middle of my doctoral studies, I was invited to participate in this study which was part of the PhD thesis of Dr. Lisandra Zepeda. I performed crucial lab work for this project, such as DNA extractions and molecular quality checks, as well as PCR experiments which sought to confirm some of the presented results. Naturally, I also contributed to the article writing process and helped Dr. Zepeda to finish up its final draft version based on inputs from all other collaborators. The article resulting from this interesting study can be found <a href="https://www.nature.com/articles/s41559-018-0476-8#citeas/" target="_blank">here</a>.</p>
+<b>Pictured:</b> Bat individual held by a human hand. Photo coutersy of <a href = "mailto: vivinunes@msn.com" target="_blank">Vitória F. Nunes</a>.
 </blockquote>
 {{< /rawhtml >}}
 ***
@@ -68,7 +68,7 @@ I performed crucial lab work for this project, such as DNA extractions, molecula
 <blockquote class="adoro">  
 <img class="ResearchImg" src="../Images/killerwhaleFoote.png" alt="My profile image">
 I performed crucial lab work for this project, such as sample acquisition, DNA extractions and molecular quality checks. I also received the leading author of this project (Dr. Andrew Foote) at our labs in Copenhagen and introduced him to some of the modern techniques that were used in this study. I also contributed to the article writing process and approved its final version together with all other authors.</p>
-<b>Pictured:</b> Human-raised <i>white</i> pigeon inhabiting a modern columbarium in Doha, Qatar. Photo by <a href="(https://machris.myportfolio.com/work" target="_blank">Andy Foote</a>.
+<b>Pictured:</b> Swimming killer whale. Photo coutersy of <a href="https://www.ntnu.edu/employees/andrew.foote" target="_blank">Andy Foote</a>.
 </blockquote>
 {{< /rawhtml >}}
 ***

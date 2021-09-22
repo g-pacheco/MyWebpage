@@ -5,6 +5,10 @@ description = "News on my academic Life."
 
 {{< rawhtml >}}
 <blockquote>
+<b>22 Sep 2021/</b> <a href="https://berbelfilho.wixsite.com/home" target="_blank">Waldir's</a> article was accepted and will be soon published by <a href="https://www.mdpi.com/journal/genes" target="_blank"><i>Genes</i></a>. Congratulations, Waldir!
+</blockquote>
+
+<blockquote>
 <b>15 Sep 2021/</b> I gave a mini-workshop this morning on how <i>Git</i> & <i>GitHub</i> <strike>can</strike> should be used in <i>Science</i>. You can see the short tutorial we used <a href="https://github.com/layka-pacheco-classes/quick-intro-do-git-github" target="_blank">here</a>. <i>#OpenScience!</i>
 </blockquote>
 
