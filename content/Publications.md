@@ -19,8 +19,12 @@ Cavill et al. _IBIS_.
 
 
 * **Against the Odds: Hybrid Zones Between Mangrove Killifish Species with Different Mating Systems.**  
-Berbel-Filho et al. _Genes_. [Accepted]  
+Berbel-Filho et al. _Genes_.    
 {{< rawhtml >}}
+<a href="https://www.mdpi.com/2073-4425/12/10/1486" target="_blank">DOI</a>
+<b>~</b>
+<a href="/MyArticles/killifishGenes.pdf" target="_blank">PDF</a>
+<b>~</b>
 <a href="https://github.com/waldirmbf/BerbelFilho_etal_KryptolebiasHybridisation/" target="_blank">CODE</a>
 {{< /rawhtml >}}
 
