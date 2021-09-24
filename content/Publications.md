@@ -23,7 +23,7 @@ Berbel-Filho et al. _Genes_.
 {{< rawhtml >}}
 <a href="https://www.mdpi.com/2073-4425/12/10/1486" target="_blank">DOI</a>
 <b>~</b>
-<a href="/MyArticles/killifishGenes.pdf" target="_blank">PDF</a>
+<a href="/MyArticles/killifishGenes.pdf">PDF</a>
 <b>~</b>
 <a href="https://github.com/waldirmbf/BerbelFilho_etal_KryptolebiasHybridisation/" target="_blank">CODE</a>
 {{< /rawhtml >}}
@@ -33,7 +33,7 @@ Bergeron et al. _GigaScience_.
 {{< rawhtml >}}
 <a href="https://academic.oup.com/gigascience/article/10/5/giab029/6269103" target="_blank">DOI</a>
 <b>~</b>
-<a href="/MyArticles/macaqueGigaScience.pdf" target="_blank">PDF</a>
+<a href="/MyArticles/macaqueGigaScience.pdf">PDF</a>
 {{< /rawhtml >}}
 ***
 
