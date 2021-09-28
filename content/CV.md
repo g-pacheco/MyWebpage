@@ -13,8 +13,7 @@ description = "My current CV."
 <h2>George Pacheco</h2></p>
 <div class="subtitlecv"><i><b>Evolutionary Biologist</b></i></div></p>
 DTU Aqua / Vejlsøvej 39, 8600 Silkeborg • Denmark</p>
-<p id="email">ganpa@aqua.dtu.dk</p></p>
-<p id="cellphone">+45 4088-8017</p>
+<a href = "mailto: ganpa@aqua.dtu.dk" target="_blank">ganpa@aqua.dtu.dk</a>
 </div>
 {{< /rawhtml >}}
 
