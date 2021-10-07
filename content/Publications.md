@@ -10,13 +10,12 @@ description = "My publication list."
 
 ### Submitted/
 
-* **Conservation Genomics of the Endangered Seychelles Magpie Robin (_Copsychus sechellarum_): A Unique Insight into the History of a Precious Endemic Bird.**  
-Cavill et al. _IBIS_.
-
 ### Peer-reviewed/
 
 #### 2021/
 
+* **Conservation Genomics of the Endangered Seychelles Magpie Robin (_Copsychus sechellarum_): A Unique Insight into the History of a Precious Endemic Bird.**  
+Cavill et al. _IBIS_. {Accepted}
 
 * **Against the Odds: Hybrid Zones Between Mangrove Killifish Species with Different Mating Systems.**  
 Berbel-Filho et al. _Genes_.    

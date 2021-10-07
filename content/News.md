@@ -5,6 +5,10 @@ description = "News on my academic Life."
 
 {{< rawhtml >}}
 <blockquote>
+<b>7 Oct 2021/</b> Another collaborative article of mine was accepted today to be published by the <a href="https://onlinelibrary.wiley.com/journal/1474919x" target="_blank"><i>International Journal of Avian Science</i></a>.
+</blockquote>
+
+<blockquote>
 <b>23 Sep 2021/</b> I had a brief participation in the courses on <i>Introductory Evolutionary Biology</i> taught by <a href="https://sites.google.com/view/rosemberg-menezes/home/about-me?authuser=0" target="_blank">Prof. Rosemberg Menezes</a> to the programmes in <i>Agronomy</i> & <i>Veterinary Medicine</i> at the <a href="https://www.ufpb.br/ufpb" target="_blank"><i>Federal University of Paraíba</i></a> in Brazil. I gave a short lecture to each class on general concepts in <i>Evolutionary Genomics</i>, and discoursed upon my career in this field so far. 
 </blockquote>
 

@@ -27,7 +27,7 @@ Initially trained in <i>Biology</i> in the Brazilian Northeast, I have worked on
 
 ##### Post-doc Researcher  
 {{< rawhtml >}}
-March 2021 <b>—</b> Present <b>|</b> <a href="https://www.dtu.dk/english" target="_blank"><i>Technical University of Denmark</i></a></p>
+Mar 2021 <b>—</b> Present <b>|</b> <a href="https://www.dtu.dk/english" target="_blank"><i>Technical University of Denmark</i></a></p>
 <b>Advisor:</b> <a href="https://orbit.dtu.dk/en/persons/jakob-hemmer-hansen" target="_blank">Dr. Jakob Hansen</a> & <a href="https://orbit.dtu.dk/en/persons/dorte-bekkevold" target="_blank">Dr. Dorte Bekkevold</a></p>
 <b>Location:</b> <a href="https://www.aqua.dtu.dk/english/Research/Population_genetics" target="_blank"><i>Section for Population Genetics</i></a> <b>~</b> <a href="https://www.aqua.dtu.dk/english" target="_blank"><i>DTU Aqua</i></a>
 {{< /rawhtml >}}
