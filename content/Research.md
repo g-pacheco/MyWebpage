@@ -28,7 +28,9 @@ Pretty much unwittingly, I started working on this long-running project back in 
 <p id="ongoing"><b><i>Ongoing</i></b></p>
 <blockquote class="adoro">  
 <img class="ResearchImg" src="../Images/PigeonBreed.jpg" alt="My profile image">
-This was one of the main articles that composed my PhD thesis, thus I acted as the leader author of this study from its commencement until its end. </p>
+This was one of the main articles that composed my PhD thesis, thus I acted as the leader author of this study from its commencement until its end. I honestly considered that I learned a great deal by leading this project, especially on the front of sample acquisiton as we suceeded to amass more than 700 samples covering all continents through close collaboration with international researchers. Besides, this was the posject that really pushed me in my transition. We are now working on the final analyses for this study, and a preprint article will be made available soon. Thus, stay tuned.   
+
+</p>
 <b>Pictured:</b> Human-raised <i>white</i> pigeon inhabiting a modern columbarium in Doha, Qatar. Photo by <a href="https://machris.myportfolio.com/work" target="_blank">Marie-Christine Rufener</a>.
 </blockquote>
 {{< /rawhtml >}}

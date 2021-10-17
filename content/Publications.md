@@ -8,17 +8,31 @@ description = "My publication list."
 {{< /rawhtml >}}
 ***
 
+### In Preparation/
+
+* **On the Origin and Spread of Feral Pigeons.**  
+{{< rawhtml >}}
+<p id=cellphone><b>Pacheco</b></p> et al.
+{{< /rawhtml >}}
+
 ### Submitted/
+
+* **None for now but soon to be updated.** 
 
 ### Peer-reviewed/
 
 #### 2021/
 
 * **Conservation Genomics of the Endangered Seychelles Magpie Robin (_Copsychus sechellarum_): A Unique Insight into the History of a Precious Endemic Bird.**  
-Cavill et al. _IBIS_. {Accepted}
+Cavill et al. _IBIS_.  
+{{< rawhtml >}}
+<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ibi.13023" target="_blank">DOI</a>
+<b>~</b>
+<a href="/MyArticles/magpie-robinIBIS_TEMP.pdf">PDF</a>
+{{< /rawhtml >}}
 
 * **Against the Odds: Hybrid Zones Between Mangrove Killifish Species with Different Mating Systems.**  
-Berbel-Filho et al. _Genes_.    
+Berbel-Filho et al. _Genes_.  
 {{< rawhtml >}}
 <a href="https://www.mdpi.com/2073-4425/12/10/1486" target="_blank">DOI</a>
 <b>~</b>
@@ -62,9 +76,10 @@ Godeiro et al. _Zoological Scripta_.
 <a href="/MyArticles/seirinaeZoologicalScripta.pdf">PDF</a>
 {{< /rawhtml >}}
 
-* **Darwin’s Fancy Revised: An Updated Understanding of the Genomic Constitution of Pigeon Breeds.**  
-Pacheco et al. _Genome Biology and Evolution_.  
+* **Darwin’s Fancy Revised: An Updated Understanding of the Genomic Constitution of Pigeon Breeds.**    
 {{< rawhtml >}}
+<p id=cellphone><b>Pacheco</b></p> et al.
+<i>Genome Biology and Evolution</i>.<p>
 <a href="https://academic.oup.com/gbe/article/12/3/136/5735467" target="_blank">DOI</a>
 <b>~</b>
 <a href="/MyArticles/pigeonbreedsGBE.pdf">PDF</a>
