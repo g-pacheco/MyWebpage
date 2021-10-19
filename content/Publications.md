@@ -15,6 +15,9 @@ description = "My publication list."
 <p id=cellphone><b>Pacheco</b></p> et al.
 {{< /rawhtml >}}
 
+* **Genomic Differentiation Among European Perch _Perca fluviatilis_ Reflects Colonization History, Environment Heterogeneity and Selection.**  
+Skovrind et al.  
+
 ### Submitted/
 
 * **None for now but soon to be updated.** 
