@@ -4,6 +4,11 @@ description = "News on my academic Life."
 +++
 
 {{< rawhtml >}}
+
+<blockquote>
+<b>27 Oct 2021/</b> For the next 2 days I will be attending the <a href="https://twitter.com/Margen_II" target="_blank">MarGen II</a> Annual Meeting held at the beautiful <a href="https://www.gu.se/tjarno" target="_blank">Tjärnö Marina Laboratorium</a>. It is my first time outside Denmark in almost 2 years 😨, and I am excited to share the incipient results coming from our <i>Baltic Sea Genomics</i> project.
+</blockquote>
+
 <blockquote>
 <b>7 Oct 2021/</b> Another collaborative article of mine was accepted today to be published by the <a href="https://onlinelibrary.wiley.com/journal/1474919x" target="_blank"><i>International Journal of Avian Science</i></a>.
 </blockquote>
