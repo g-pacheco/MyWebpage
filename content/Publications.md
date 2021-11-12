@@ -31,7 +31,7 @@ Cavill et al. _IBIS_.
 {{< rawhtml >}}
 <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ibi.13023" target="_blank">DOI</a>
 <b>~</b>
-<a href="/MyArticles/magpie-robinIBIS_TEMP.pdf">PDF</a>
+<a href="/MyArticles/magpie-robinIBIS.pdf">PDF</a>
 {{< /rawhtml >}}
 
 * **Against the Odds: Hybrid Zones Between Mangrove Killifish Species with Different Mating Systems.**  
