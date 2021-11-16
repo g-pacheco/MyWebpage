@@ -6,6 +6,10 @@ description = "News on my academic Life."
 {{< rawhtml >}}
 
 <blockquote>
+<b>16 Nov 2021/</b> I am already in Gothenburg, Sweden to attend the <a href="https://pgec2021.schlieplab.org/" target="_blank">Pangenomes: Evolution and Computation Meeting</a> to be held tomorrow at the <a href="https://medarbetarportalen.gu.se/service-stod/motesservice/wallenberg/?languageId=100001&skipSSOCheck=true&referer=https%3A%2F%2Fpgec2021.schlieplab.org%2F" target="_blank">Conference Centre Wallenberg</a> — <a href="https://www.gu.se/en" target="_blank"><i>University of Gothenburg</i></a>. I am very much looking forward to hearing from the experts in pangenomics about the advancements in this interesting front of modern <i>Biology</i>.
+</blockquote>
+
+<blockquote>
 <b>27 Oct 2021/</b> For the next 2 days I will be attending the <a href="https://twitter.com/Margen_II" target="_blank">MarGen II</a> Annual Meeting held at the beautiful <a href="https://www.gu.se/tjarno" target="_blank">Tjärnö Marina Laboratorium</a> in Sweden. It is my first time outside Denmark in almost 2 years 😨, and I am excited to share the incipient results coming from our <i>Baltic Sea Genomics</i> project.
 </blockquote>
 
