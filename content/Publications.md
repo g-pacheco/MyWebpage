@@ -4,7 +4,8 @@ description = "My publication list."
 +++
 
 {{< rawhtml >}}
-<h5>Please find below an abridged version of a list with plublication. You can download a detailed PDF version from <a href="/MyCV/PublicationList--GeorgePacheco.pdf">here</a>.</h5>
+<h5>Please find below an abridged version of a list with plublication (only the 3 first authorships are displayed).</p>
+You can download a detailed PDF version from <a href="/MyCV/PublicationList--GeorgePacheco.pdf">here</a>.</h5>
 {{< /rawhtml >}}
 ***
 
@@ -12,11 +13,15 @@ description = "My publication list."
 
 * **On the Origin and Spread of Feral Pigeons.**  
 {{< rawhtml >}}
-<p id=cellphone><b>Pacheco</b></p> et al.
+<p id=cellphone><b>Pacheco</b></p>, Vieira, Martin et al.
 {{< /rawhtml >}}
 
 * **Genomic Differentiation Among European Perch _Perca fluviatilis_ Reflects Colonization History, Environment Heterogeneity and Selection.**  
-Skovrind et al.  
+{{< rawhtml >}}
+<div>
+Skovrind, <p id=cellphone><b>Pacheco</b></p>, Christensen et al.
+</div>  
+{{< /rawhtml >}}
 
 ### Submitted/
 
@@ -27,16 +32,18 @@ Skovrind et al.
 #### 2021/
 
 * **Conservation Genomics of the Endangered Seychelles Magpie Robin (_Copsychus sechellarum_): A Unique Insight into the History of a Precious Endemic Bird.**  
-Cavill et al. _IBIS_.  
+Cavill, Gopalakrishnan, Puetz et al. _IBIS_.  
 {{< rawhtml >}}
 <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ibi.13023" target="_blank">DOI</a>
 <b>~</b>
 <a href="/MyArticles/magpie-robinIBIS.pdf">PDF</a>
 {{< /rawhtml >}}
 
-* **Against the Odds: Hybrid Zones Between Mangrove Killifish Species with Different Mating Systems.**  
-Berbel-Filho et al. _Genes_.  
+* **Against the Odds: Hybrid Zones Between Mangrove Killifish Species with Different Mating Systems.**    
 {{< rawhtml >}}
+<div>
+Berbel-Filho, Tatarenkov, <p id=cellphone><b>Pacheco</b></p> et al. <i>Genes</i>.
+</div>
 <a href="https://www.mdpi.com/2073-4425/12/10/1486" target="_blank">DOI</a>
 <b>~</b>
 <a href="/MyArticles/killifishGenes.pdf">PDF</a>
@@ -45,7 +52,7 @@ Berbel-Filho et al. _Genes_.
 {{< /rawhtml >}}
 
 * **The Germline Mutational Process in Rhesus Macaque and Its Implications for Phylogenetic Dating.**  
-Bergeron et al. _GigaScience_.  
+Bergeron, Besenbacher, Bakker et al. _GigaScience_.  
 {{< rawhtml >}}
 <a href="https://academic.oup.com/gigascience/article/10/5/giab029/6269103" target="_blank">DOI</a>
 <b>~</b>
@@ -56,7 +63,7 @@ Bergeron et al. _GigaScience_.
 #### 2020/
 
 * **Why Endogenous TRPV6 Currents Are Not Detectable - What Can We Learn From Bats?**  
-Wolske et al. _Cell Calcium_.  
+Wolske, Fecher-Trost, Wesely et al. _Cell Calcium_.  
 {{< rawhtml >}}
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0143416020301445" target="_blank">DOI</a>
 <b>~</b>
@@ -64,16 +71,18 @@ Wolske et al. _Cell Calcium_.
 {{< /rawhtml >}}
 
 * **Dense Sampling of Bird Diversity Increases Power of Comparative Genomics.**  
-Feng, Stiller, Deng & Armstrong et al. _Nature_.  
+Feng & Stiller & Deng & Armstrong, Fang, Reeve et al. _Nature_.  
 {{< rawhtml >}}
 <a href="https://www.nature.com/articles/s41586-020-2873-9" target="_blank">DOI</a>
 <b>~</b>
 <a href="/MyArticles/birdsNature.pdf">PDF</a>
 {{< /rawhtml >}}
 
-* **Phylogeny of Neotropical Seirinae (Collembola, Entomobryidae) Based on Mitochondrial Genomes.**  
-Godeiro et al. _Zoological Scripta_.  
+* **Phylogeny of Neotropical Seirinae (Collembola, Entomobryidae) Based on Mitochondrial Genomes.**    
 {{< rawhtml >}}
+<div>
+Godeiro, <p id=cellphone><b>Pacheco</b></p>, Liu et al. <i>Zoological Scripta</i>.
+</div>
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/zsc.12408" target="_blank">DOI</a>
 <b>~</b>
 <a href="/MyArticles/seirinaeZoologicalScripta.pdf">PDF</a>
@@ -81,7 +90,7 @@ Godeiro et al. _Zoological Scripta_.
 
 * **Darwin’s Fancy Revised: An Updated Understanding of the Genomic Constitution of Pigeon Breeds.**    
 {{< rawhtml >}}
-<p id=cellphone><b>Pacheco</b></p> et al.
+<p id=cellphone><b>Pacheco</b></p>, van Grouw, Shapiro et al.
 <i>Genome Biology and Evolution</i>.<p>
 <a href="https://academic.oup.com/gbe/article/12/3/136/5735467" target="_blank">DOI</a>
 <b>~</b>
@@ -91,7 +100,7 @@ Godeiro et al. _Zoological Scripta_.
 {{< /rawhtml >}}
 
 * **Evolutionary History, Genomic Adaptation to Toxic Diet, and Extinction of the Carolina Parakeet.**  
-Gelabert et al. _Current Biology_.  
+Gelabert, Sandoval-Velasco, Serres et al. _Current Biology_.  
 {{< rawhtml >}}
 <a href="https://www.sciencedirect.com/science/article/pii/S0960982219314381/" target="_blank">DOI</a>
 <b>~</b>
@@ -101,16 +110,18 @@ Gelabert et al. _Current Biology_.
 
 #### 2019/
 
-* **The Discovery of Neotropical _Lepidosira_ (Collembola, Entomobryidae) and Its Systematic Position.**  
-Godeiro et al. _Zoological Scripta_.  
+* **The Discovery of Neotropical _Lepidosira_ (Collembola, Entomobryidae) and Its Systematic Position.**    
 {{< rawhtml >}}
+<div>
+Nunes, Godeiro, <p id=cellphone><b>Pacheco</b></p> et al. <i>Zoological Scripta</i>.
+</div>
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/zsc.12377/" target="_blank">DOI</a>
 <b>~</b>
 <a href="/MyArticles/lepidosiraZoologicalScripta.pdf">PDF</a>
 {{< /rawhtml >}}
 
 * **High-coverage Genomes To Elucidate The Evolution of Penguins.**  
-Pan & Cole et al. _GigaScience_.  
+Pan & Cole, Bi, Fang et al. _GigaScience_.  
 {{< rawhtml >}}
 <a href="https://academic.oup.com/gigascience/article/8/9/giz117/5571031/" target="_blank">DOI</a>
 <b>~</b>
@@ -118,7 +129,7 @@ Pan & Cole et al. _GigaScience_.
 {{< /rawhtml >}}
 
 * **Killer Whale Genomes Reveal a Complex History of Recurrent Admixture and Vicariance.**  
-Foote et al. _Molecular Ecology_.  
+Foote, Martin, Louis et al. _Molecular Ecology_.  
 {{< rawhtml >}}
 <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.15099/" target="_blank">DOI</a>
 <b>~</b>
@@ -129,7 +140,7 @@ Foote et al. _Molecular Ecology_.
 #### 2018/
 
 * **Hologenomic Adaptations Underlying the Evolution of Sanguivory in the Common Vampire Bat.**  
-Mendoza & Escalera-Zamudio et al. _Nature Ecology & Evolution_.  
+Mendoza & Xiong, Escalera-Zamudio, Runge et al. _Nature Ecology & Evolution_.  
 {{< rawhtml >}}
 <a href="https://www.nature.com/articles/s41559-018-0476-8#citeas/" target="_blank">DOI</a>
 <b>~</b>
@@ -140,7 +151,7 @@ Mendoza & Escalera-Zamudio et al. _Nature Ecology & Evolution_.
 #### 2016/
 
 * **Genomic Population Structure of Freshwater‐resident and Anadromous Ide (_Leuciscus idus_) in North‐western Europe.**  
-Skovrind et al. _Ecology and Evolution_.  
+Skovrind, Olsen, Vieira et al. _Ecology and Evolution_.  
 {{< rawhtml >}}
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.1909/" target="_blank">DOI</a>
 <b>~</b>
@@ -150,9 +161,11 @@ Skovrind et al. _Ecology and Evolution_.
 
 #### 2014/
 
-* **Padrões Citogenéticos de duas Espécies de Ciclídeos de Bacias do Semi-Árido do Brasil: _Crenicichla menezesi_ e _Cichlasoma orientale_.**  
-Molina, Pacheco & Berbel-Filho. _Biota Amazônia_.    
+* **Padrões Citogenéticos de duas Espécies de Ciclídeos de Bacias do Semi-Árido do Brasil: _Crenicichla menezesi_ e _Cichlasoma orientale_.**      
 {{< rawhtml >}}
+<div>
+Molina, <p id=cellphone><b>Pacheco</b></p>, Berbel-Filho. <i>Biota Amazônia</i>.
+</div>
 <a href="https://periodicos.unifap.br/index.php/biota/article/view/1076/" target="_blank">DOI</a>
 <b>~</b>
 <a href="/MyArticles/cichlidsBiotaAmazonia.pdf">PDF</a>
