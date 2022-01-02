@@ -160,19 +160,30 @@ Nov 2015 <b>|</b> Tórshavn Region • Faroe Islands
 
 #### Selected Scientific Events
 
+##### Pangenomes — Evolution and Computation
+Nov 2021 *|* Gothenburg • Sweden
+
 ##### II B10K Project Workshop
-Feb 2020 <b>|</b> Copenhagen • Denmark
+Feb 2020 *|* Copenhagen • Denmark
 
 ##### Genome 10K and Genome Science Conference
-Aug 2017 <b>|</b> Norwich • England
+Aug 2017 *|* Norwich • England
+
+##### European Ornithologists’ Union Conference
+Aug 2017 *|* Turku • Finland  
+**Poster Pitching Presentation:** _Genomic Insights into the Natural and Artificial Histories of the Ubiquitous Pigeon._
 
 ##### I B10K Project Workshop
-Oct 2016 <b>|</b> Beijing • China
+Oct 2016 *|* Beijing • China
+
+##### X FENS Forum of Neuroscience
+Jul 2016 *|* Copenhagen • Denmark
 
 ##### XV Congress of the European Society for Evolutionary Biology
-Aug 2015 <b>|</b> Lausanne • Switzerland
+Aug 2015 *|* Lausanne • Switzerland
 
 ##### LX Brazilian Congress on Genetics
-Aug 2014 <b>|</b> Guarujá • Brazil
+Aug 2014 *|* Guarujá • Brazil  
+**Oral Presentation:** _Insights into the Feral Pigeon Global Community Gained from Population Genomics._
 ***
 

@@ -25,7 +25,12 @@ Skovrind, <p id=cellphone><b>Pacheco</b></p>, Christensen et al.
 
 ### Submitted/
 
-* **None for now but soon to be updated.** 
+* **Dog Introgression Drives Wolf Adaptation to Human-dominated Landscapes.**  
+{{< rawhtml >}}
+<div>
+Lobo, Silva, Morales et al. Submitted to <i>Nature</i>.
+</div>  
+{{< /rawhtml >}} 
 
 ### Peer-reviewed/
 
