@@ -27,7 +27,7 @@ Pretty much unwittingly, I started working on this long-running project back in 
 <p id="ongoing"><b><i>Ongoing</i></b></p>
 <blockquote class="adoro">  
 <img class="ResearchImg" src="../Images/PigeonBreed.jpg" alt="My profile image">
-This was one of the main articles that composed my PhD thesis, thus I acted as the leader author of this study from its commencement until its end. I honestly considered that I learned a great deal by leading this project, especially on the front of sample acquisiton as we suceeded to amass more than 700 samples covering all continents through close collaboration with international researchers. Besides, this was the posject that really pushed me in my transition. We are now working on the final analyses for this study, and a preprint article will be made available soon. Thus, stay tuned.   
+This was one of the main articles that composed my PhD thesis, thus I acted as the leader author of this study from its commencement until its end. I honestly consider that I learned a great deal by leading this project, especially on the front of sample acquisiton as we suceeded to amass more than 700 samples covering all continents through close collaboration with international researchers. Besides, this was the project that really pushed me in my transition from an only-wetlab-researcher to one that could also embark on and would enjoy bioinformatic analyses. I am not now working on the final acts for this study, and a preprint article will be made available soon. Thus, stay tuned!   
 
 </p>
 <b>Pictured:</b> Human-raised <i>white</i> pigeon inhabiting a modern columbarium in Doha, Qatar. Photo by <a href="https://machris.myportfolio.com/work" target="_blank">Marie-Christine Rufener</a>.
@@ -41,6 +41,10 @@ This was one of the main articles that composed my PhD thesis, thus I acted as t
 <p id="finished"><b><i>Finished</i></b></p>
 <blockquote class="adoro">
 <img class="ResearchImg" src="../Images/HeinExhibitionFantail.jpg" alt="My profile image">
+
+
+
+
 Pretty much unwittingly, I started working on this long-running project back in 2013 when my hired me as a reseach assistant during my MSc.
 Acting as the main responsible person for this large-scale genomic project in Copenhagen, I performed a massive amount of lab work for this study. Moreover, I also contributed to the drafting of this article and approved its final version.</p>
 <b>Pictured:</b> Fancy pigeon individual belonging to Exhibition Fantail breed. Photo coutersy of <a href="https://www.nhm.ac.uk/our-science/departments-and-staff/staff-directory/hein-van%20grouw.html" target="_blank">Hein Van Grouw</a>.
