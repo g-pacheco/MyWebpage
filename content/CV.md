@@ -28,7 +28,7 @@ Initially trained in <i>Biology</i> in the Brazilian Northeast, I have worked on
 ##### Post-doc Researcher  
 {{< rawhtml >}}
 Mar 2021 <b>—</b> Present <b>|</b> <a href="https://www.dtu.dk/english" target="_blank"><i>Technical University of Denmark</i></a></p>
-<b>Advisor:</b> <a href="https://orbit.dtu.dk/en/persons/jakob-hemmer-hansen" target="_blank">Dr. Jakob Hansen</a> & <a href="https://orbit.dtu.dk/en/persons/dorte-bekkevold" target="_blank">Dr. Dorte Bekkevold</a></p>
+<b>Advisors:</b> <a href="https://orbit.dtu.dk/en/persons/jakob-hemmer-hansen" target="_blank">Dr. Jakob Hansen</a> & <a href="https://orbit.dtu.dk/en/persons/dorte-bekkevold" target="_blank">Dr. Dorte Bekkevold</a></p>
 <b>Location:</b> <a href="https://www.aqua.dtu.dk/english/Research/Population_genetics" target="_blank"><i>Section for Population Genetics</i></a> <b>~</b> <a href="https://www.aqua.dtu.dk/english" target="_blank"><i>DTU Aqua</i></a>
 {{< /rawhtml >}}
 
@@ -46,7 +46,7 @@ Jan 2020 <b>—</b> Jun 2020 <b>|</b> <a href="https://www.ku.dk/english" target
 {{< rawhtml >}}
 Nov 2014 <b>—</b> Apr 2019 <b>|</b> <a href="https://www.ku.dk/english" target="_blank"><i>University of Copenhagen</i></a></p>  
 <b>Thesis:</b> Flying Rats Shall No Longer Be: A Population Genomic Analysis of Fancy and Feral Pigeons</p>
-<b>Advisor:</b> <a href="https://globe.ku.dk/staff-list/?pure=en/persons/295003" target="_blank">Prof. Tom Gilbert</a> & <a href="https://scholar.google.com/citations?user=gvZmPNQAAAAJ&hl=en" target="_blank">Dr. Filipe Vieira</a></p>
+<b>Advisors:</b> <a href="https://globe.ku.dk/staff-list/?pure=en/persons/295003" target="_blank">Prof. Tom Gilbert</a> & <a href="https://scholar.google.com/citations?user=gvZmPNQAAAAJ&hl=en" target="_blank">Dr. Filipe Vieira</a></p>
 <b>Location:</b> <a href="https://globe.ku.dk/research/evogenomics" target="_blank"><i>Section for Evolutionary Genomics</i></a> <b>~</b> <a href="https://snm.ku.dk/english/" target="_blank"><i>Natural History Museum of Denmark</i></a>
 {{< /rawhtml >}}
 
