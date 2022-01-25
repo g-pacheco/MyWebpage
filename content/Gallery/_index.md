@@ -5,7 +5,7 @@ type = "gallery"
 
 {{< rawhtml >}}
 <blockquote>
-All images displayed below are courtesy of <a href = "mailto: vivinunes@msn.com" target="_blank">Vitória F. Nunes</a>.
+All images displayed below are courtesy of Vitória F. Nunes (email: <a href = "mailto: vivinunes@msn.com" target="_blank">vivinunes@msn.com</a>).
 </blockquote>
 {{< /rawhtml >}}
 ***
