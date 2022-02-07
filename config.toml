@@ -17,7 +17,8 @@ paginate = 3 # articles per page
 	typeformid = "u6nTL7" # Required
 	typeformuser = "myuser" # Optional
 	typeformwidth = "100%" # Optional
-	typeformheight = "800px" # Optional^
+	typeformheight = "800px" # Optional
+	
 
 # Social Tags
 
