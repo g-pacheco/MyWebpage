@@ -12,7 +12,7 @@ pygmentscodefencesguesssyntax = true
 paginate = 3 # articles per page
 
 [params.site]
-	mode = "dark" # color-mode → light, dark or auto
+	mode = "light" # color-mode → light, dark or auto
 	useCDN = false # don't use CDNs for fonts and icons, instead serve them locally.
 	typeformid = "u6nTL7" # Required
 	typeformuser = "myuser" # Optional
