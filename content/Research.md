@@ -73,7 +73,7 @@ By the middle of my doctoral studies, I was invited to participate in this study
 <br></br>
 <b>Pictured/</b><p>
 Bat individual held by a human hand.<p>
-Photo coutersy of <a href = "mailto: vivinunes@msn.com" target="_blank">Vitória F. Nunes</a>.
+Photo coutersy of Vitória F. Nunes (email: <a href = "mailto: vivinunes@msn.com" target="_blank">vivinunes@msn.com</a>).
 </blockquote>
 {{< /rawhtml >}}
 ***
