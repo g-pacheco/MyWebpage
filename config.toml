@@ -8,8 +8,10 @@ theme = "archie"
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
-
 paginate = 3 # articles per page
+
+[params]
+	favicon = "https://img.icons8.com/fluency/96/000000/octopus.png"
 
 [params.site]
 	mode = "light" # color-mode → light, dark or auto
