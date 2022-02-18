@@ -9,7 +9,7 @@ I read quite a few <i>Science Communication</i> books throughout my bachelor tim
 </blockquote>
 </p>
 <blockquote>
-Having said that, what I present below is a list of titles revolving round the two subjects I intend to expertise, namely <i>Evolutionary Biology</i> & <i>Philosophy of Science</i>. The books I have already read (at least once) are marked in green, and a short commentary is provided. Please notice that this is for my own personal recording, and my impressions on these titles should be taken with care. Else, I have decided to list them in a chronological order because I find it revealing to realise how things unfolded historically. For instance, Huxley published this book on the evolution of <i>Homo sapiens</i> 8 years before Darwin presented his own work on this subject; or that Wallaced published his book on <i>Natural Selection</i> 20 years after Darwin's famous title had been published.
+Having said that, what I present below is a list of titles revolving round the two subjects I intend to expertise, namely <i>Evolutionary Biology</i> & <i>Philosophy of Science</i>. The books I have already read (at least once) are marked in green, and a short commentary is provided. Please acknowledge that this is for my own personal recording, and my impressions on these titles should be taken with care. Else, I have decided to list them in a chronological order because I find it revealing to realise how things unfolded historically. For instance, Huxley published his book on the evolution of <i>Homo sapiens</i> 8 years before Darwin presented his own work on this subject; or that Wallaced published his book on <i>Natural Selection</i> 20 years after Darwin's famous title had been published.
 </blockquote>
 
 {{< /rawhtml >}}
