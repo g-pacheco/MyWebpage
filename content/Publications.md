@@ -4,7 +4,7 @@ description = "My publication list."
 +++
 
 {{< rawhtml >}}
-<h5>Please find below an abridged version of my <i>Publication List</i> (please note that only the 3 first co-authors are displayed).</p>
+<h5>Please find below an abridged version of my list of publication (please note that only the 3 first co-authors are displayed).</p>
 You can download a detailed PDF version from <a href="/MyCV/PublicationList--GeorgePacheco.pdf">here</a>.</h5>
 {{< /rawhtml >}}
 ***
@@ -16,7 +16,7 @@ You can download a detailed PDF version from <a href="/MyCV/PublicationList--Geo
 <p id=cellphone><b>Pacheco</b></p>, Vieira, Martin et al.
 {{< /rawhtml >}}
 
-* **Genomic Differentiation Among European Perch _Perca fluviatilis_ Reflects Colonization History, Environment Heterogeneity and Selection.**  
+* **Genomic Differentiation Among European Perch _Perca fluviatilis_ in the Western Baltic Sea Reflects Colonisation History and Local Adaptation.**  
 {{< rawhtml >}}
 <div>
 Skovrind, <p id=cellphone><b>Pacheco</b></p>, Christensen et al.

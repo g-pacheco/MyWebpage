@@ -5,7 +5,7 @@ author = "George Pacheco"
 
 {{< rawhtml >}}
 <article>
-    <h1 class="title">Welcome.</h1>
+    <h1 class="title">Olá.</h1>
 </article>
 {{< /rawhtml >}}
 
