@@ -3,6 +3,7 @@ googleAnalytics = "G-6HEVWZ2M09"
 languageCode = "en-us"
 title = "George Pacheco:~"
 theme = "archie"
+description = "Personal webpage of evolutionary biologist George Pacheco, PhD."
 
 # Code Highlight
 pygmentsstyle = "monokai"
@@ -12,7 +13,6 @@ paginate = 3 # articles per page
 
 [params]
 	favicon = "https://img.icons8.com/fluency/96/000000/octopus.png"
-	description = "Personal webpage of evolutionary biologist George Pahceco, PhD."
 
 [params.site]
 	mode = "light" # color-mode → light, dark or auto
@@ -22,7 +22,6 @@ paginate = 3 # articles per page
 	typeformwidth = "100%" # Optional
 	typeformheight = "800px" # Optional
 	
-
 # Social Tags
 
 [[params.firsticon]]
