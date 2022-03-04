@@ -10,6 +10,7 @@ pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 paginate = 3 # articles per page
+enableEmoji = true
 
 [params]
 	favicon = "https://img.icons8.com/fluency/96/000000/octopus.png"

@@ -1,7 +1,6 @@
 +++
-title = "Contact/"
+title = "George Pacheco, PhD"
 id = "typeform"
-description = "Contact me."
 +++
 
 {{< rawhtml >}}

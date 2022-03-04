@@ -6,6 +6,10 @@ description = "News on my academic Life."
 {{< rawhtml >}}
 
 <blockquote>
+<b>01 Mar 2022/</b> I am glad to announce that I have accepted an offer to do a three-year post-doc together with <a href="https://www.mn.uio.no/cees/english/" target="_blank">Prof. Glenn-Peter Sætre</a>, <a href="https://markravinet.github.io/" target="_blank">Assist. Prof. Mark Ravinet</a> & <a href="https://therowelab.com/" target="_blank">Dr. Melissah Rowe</a>. I will be based at the <a href="https://www.mn.uio.no/cees/english/" target="_blank"><i>Centre for Ecological and Evolutionary Synthesis</i></a> at the <a href="https://www.uio.no/english/" target="_blank"><i>University of Oslo</i></a> in Norway. Leveraging large-scale genomic data, we will be investigating several aspects of the House Sparrow evolution. I am very excited to go back to the field of <i>Avian Genomics</i> 🐧 🦜 🐦, and also to move to a new country after more than 10 years living in Denmark 🙃 — the intended starting date is the 1st of September 2022.
+</blockquote>
+
+<blockquote>
 <b>16 Nov 2021/</b> I am already in Gothenburg, Sweden to attend the <a href="https://pgec2021.schlieplab.org/" target="_blank">Pangenomes: Evolution and Computation Meeting</a> to be held tomorrow at the <a href="https://medarbetarportalen.gu.se/service-stod/motesservice/wallenberg/?languageId=100001&skipSSOCheck=true&referer=https%3A%2F%2Fpgec2021.schlieplab.org%2F" target="_blank">Conference Centre Wallenberg</a> — <a href="https://www.gu.se/en" target="_blank"><i>University of Gothenburg</i></a>. I am very much looking forward to hearing from the experts in pangenomics about the advancements in this interesting front of modern <i>Biology</i>.
 </blockquote>
 
@@ -14,7 +18,7 @@ description = "News on my academic Life."
 </blockquote>
 
 <blockquote>
-<b>7 Oct 2021/</b> Another collaborative article of mine was accepted today to be published by the <a href="https://onlinelibrary.wiley.com/journal/1474919x" target="_blank"><i>International Journal of Avian Science</i></a>.
+<b>07 Oct 2021/</b> Another collaborative article of mine was accepted today to be published by the <a href="https://onlinelibrary.wiley.com/journal/1474919x" target="_blank"><i>International Journal of Avian Science</i></a>.
 </blockquote>
 
 <blockquote>
