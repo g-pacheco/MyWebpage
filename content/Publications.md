@@ -25,10 +25,17 @@ Skovrind, <p id=cellphone><b>Pacheco</b></p>, Christensen et al.
 
 ### Submitted/
 
+* **Phylogenomics Reveals Extensive Introgression and A Case of Mito-nuclear Discordance in the Killifish Genus _Kryptolebias_.**  
+{{< rawhtml >}}
+<div>
+Berbel-Filho, <p id=cellphone><b>Pacheco</b></p>, Tatarenkov et al. Under review at <a id=articles href="https://www.sciencedirect.com/journal/molecular-phylogenetics-and-evolution" target="_blank"><i>Molecular Phylogenetics and Evolution</i></a>. 
+</div>  
+{{< /rawhtml >}} 
+
 * **Dog Introgression Drives Wolf Adaptation to Human-dominated Landscapes.**  
 {{< rawhtml >}}
 <div>
-Lobo, Silva, Morales et al. Submitted to <a id=articles href="https://www.science.org/journal/sciadv" target="_blank"><i>Science Advances</i></a>.
+Lobo, Silva, Morales et al. Under review at <a id=articles href="https://academic.oup.com/mbe" target="_blank"><i>Molecular Biology and Evolution</i></a>.
 </div>  
 {{< /rawhtml >}} 
 

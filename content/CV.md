@@ -143,7 +143,7 @@ Mar 2010 <b>—</b> Apr 2011 <b>|</b> <a href="https://www.ufrn.br/en" target="_
 {{< /rawhtml >}}
 ***
 
-#### Selected Scientific Expedictions
+#### Selected Scientific Expedictions/
 
 ##### Logistics Activities on the REBIO Atol das Rocas Conservation Unit
 Nov 2008 <b>|</b> Rio Grande do Norte State • Brazil
@@ -158,7 +158,18 @@ Feb 2016 <b>|</b> Negev Desert • Israel
 Nov 2015 <b>|</b> Tórshavn Region • Faroe Islands
 ***
 
-#### Selected Scientific Events
+#### Academic Societies/ 
+
+##### European Society for Evolutionary Biology  
+{{< rawhtml >}}
+April 2022 <b>—</b> Present<p>
+<a href="https://eseb.org/" target="_blank">WEB</a>
+<b>~</b>
+<a href="https://twitter.com/eseb_org" target="_blank">TWITTER</a>
+{{< /rawhtml >}}
+***
+
+#### Selected Scientific Events/
 
 ##### Pangenomes — Evolution and Computation
 Nov 2021 *|* Gothenburg • Sweden
