@@ -6,6 +6,10 @@ description = "News on my academic Life."
 {{< rawhtml >}}
 
 <blockquote>
+<b>28 Apr 2022/</b> Since yesterday I have been attending the <a href="https://twitter.com/Margen_II" target="_blank">MarGen II</a> Meeting held at the <a href="https://coast.dtu.dk/english" target="_blank"><i>Danish Shellfish Centre</i> — <i>DTU Aqua</i></a> in Nykøbing Mors, Denmark. I has been great to hear the updates on all the projects 🦪 🦀 🦞. I also presented a quick update on our <i>Baltic Sea Genomics</i> project. The weather has been amazing! 😎
+</blockquote>
+
+<blockquote>
 <b>25 Apr 2022/</b> After being in the Northeast of Brazil for a whole amazing month on holidays, I am now back to work in Silkeborg. I have 6 months left to finalise our projects on fish 🐟 🐠 🐡 before I move to Oslo by the end of October. Work, work, work it is! 🤓
 </blockquote>
 
