@@ -47,6 +47,7 @@ Jan 2020 <b>—</b> Jun 2020 <b>|</b> <a href="https://www.ku.dk/english" target
 Nov 2014 <b>—</b> Apr 2019 <b>|</b> <a href="https://www.ku.dk/english" target="_blank"><i>University of Copenhagen</i></a></p>  
 <b>Thesis:</b> Flying Rats Shall No Longer Be: A Population Genomic Analysis of Fancy and Feral Pigeons</p>
 <b>Advisors:</b> <a href="https://globe.ku.dk/staff-list/?pure=en/persons/295003" target="_blank">Prof. Tom Gilbert</a> & <a href="https://scholar.google.com/citations?user=gvZmPNQAAAAJ&hl=en" target="_blank">Dr. Filipe Vieira</a></p>
+<b>Censors:</b> <a href="https://rutefonseca.wixsite.com/bioinformatics" target="_blank">Assoc. Prof. Rute da Fonseca</a> (Internal Chairperson), <a href="https://www.mn.uio.no/cees/english/people/core/sanneb/" target="_blank">Assoc. Prof. Sanne Boessenkool</a> & <a href="https://sites.google.com/sheffield.ac.uk/slate-lab" target="_blank"> Prof. Jon Stale</a></p>
 <b>Location:</b> <a href="https://globe.ku.dk/research/evogenomics" target="_blank"><i>Section for Evolutionary Genomics</i></a> <b>~</b> <a href="https://snm.ku.dk/english/" target="_blank"><i>Natural History Museum of Denmark</i></a>
 {{< /rawhtml >}}
 
@@ -56,6 +57,7 @@ Nov 2014 <b>—</b> Apr 2019 <b>|</b> <a href="https://www.ku.dk/english" target
 Feb 2012 <b>—</b> Aug 2014 <b>|</b> <a href="https://www.ku.dk/english" target="_blank"><i>University of Copenhagen</i></a></p>  
 <b>Thesis:</b> Insights into the Feral Pigeon Global Community Gained From Population Genomics</p>
 <b>Advisor:</b> <a href="https://globe.ku.dk/staff-list/?pure=en/persons/295003" target="_blank">Prof. Tom Gilbert</a></p>
+<b>Censor:</b> <a href="http://palaeogenetics.com/people/36-2/" target="_blank">Prof. Love Dalén</a></p>
 <b>Location:</b> <a href="https://globe.ku.dk/research/evogenomics" target="_blank"><i>Section for Evolutionary Genomics</i></a> <b>~</b> <a href="https://snm.ku.dk/english/" target="_blank"><i>Natural History Museum of Denmark</i></a>
 {{< /rawhtml >}}
 
