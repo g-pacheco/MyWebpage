@@ -6,6 +6,10 @@ description = "News on my academic Life."
 {{< rawhtml >}}
 
 <blockquote>
+<b>24 May 2022/</b> This week I am at by the <a href="https://en.wikipedia.org/wiki/Adriatic_Sea" target="_blank">Adriatic Sea</a> in Italy together with the Sparrow Group. Our intention is to catch and release many birds. The data produced out of this sampling effort will eventually be used my many researchers inclusing myself as a post-doc at the <a href="https://www.mn.uio.no/cees/english/" target="_blank"><i>Centre for Ecological and Evolutionary Synthesis</i></a> at the <a href="https://www.uio.no/english/" target="_blank"><i>University of Oslo</i></a> in Norway. So I hope we will be seeing loads of birds in our nets! 
+</blockquote>
+
+<blockquote>
 <b>28 Apr 2022/</b> Since yesterday I have been attending the <a href="https://twitter.com/Margen_II" target="_blank">MarGen II</a> Meeting held at the <a href="https://coast.dtu.dk/english" target="_blank"><i>Danish Shellfish Centre</i> — <i>DTU Aqua</i></a> in Nykøbing Mors, Denmark. I has been great to hear the updates on all the projects 🦪 🦀 🦞. I also presented a quick update on our <i>Baltic Sea Genomics</i> project. The weather has been amazing! 😎
 </blockquote>
 

@@ -19,7 +19,7 @@ DTU Aqua / Vejlsøvej 39, 8600 Silkeborg • Denmark</p>
 
 {{< rawhtml >}}
 <blockquote>
-Initially trained in <i>Biology</i> in the Brazilian Northeast, I have worked on several projects in the vein of animal evolutionary genomics investigating a diverse range of taxa<b>—</b>from tiny Collembolans to culturally evolving killer whales, which has given me a vast experience in the molecular lab and a fair understanding of the rationale behind bioinformatic analyses. During my scientific career, I have developed a profound interest in the genomic and epigenomic architecture of cognitive traits. Ultimately, I have a sound interest in the molecular mechanisms implicated in the emergence and maintenance of traits of medical relevance.
+Initially trained in <i>Biology</i> in the Brazilian Northeast, I have worked on several projects in the vein of animal evolutionary genomics investigating a diverse range of taxa <b>—</b> from tiny Collembolans to culturally evolving killer whales, which has given me a vast experience in the molecular lab and a fair understanding of the rationale behind bioinformatic analyses. During my scientific career, I have developed a profound interest in the genomic and epigenomic architecture of cognitive traits. Ultimately, I have a sound interest in the molecular mechanisms implicated in the emergence and maintenance of traits of medical relevance.
 </blockquote>
 {{< /rawhtml >}}
 
