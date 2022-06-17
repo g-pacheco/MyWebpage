@@ -15,25 +15,26 @@ Having said that, what I present below is a list of titles revolving round the t
 {{< /rawhtml >}}
 ***
 
-### Classics Works/
-
-* **Zoonomia; or the Laws of Organic Life** | Erasmus Darwin (1794)
-* **Zoological Philosophy, or Exposition with Regard to the Natural History of Animals** | Jean-Baptiste Lamarck (1809)
-* **The Voyage of the Beagle** | Charles Darwin (1839)
-* **On the Origin of Species** | Charles Darwin (1859)
-* **Evidence As To Man's Place In Nature** | Thomas Huxley (1863)
-* **The Malay Archipelago** | Alfred Wallace (1869)
-* **The Descent of Man, and Selection in Relation to Sex** | Charles Darwin (1871)
-* **The Expression of the Emotions in Man and Animals** | Charles Darwin (1872)
-* **Darwinism: An Exposition of the Theory of Natural Selection, with Some of Its Applications** | Alfred Wallace (1889)
-***
-
 ### Modern Works/
 
 {{< rawhtml >}}
 <h4>What Evolution Is | Ernst Mayr (2001)</h4>
 <blockquote class="adoromyReads">
 <img class="myReadsImg" src="../Images/BookCovers/WhatEvolutionIs.jpg" alt="My profile image"> Pretty much unwittingly, I started working on this long-running project back in 2013 during my MSc when I was hired as a lab assistant by my advisor <a href="(https://globe.ku.dk/staff-list/?pure=en/persons/295003" target="_blank">Prof. Tom Gilbert</a>, who was one of the leaders of the initial phase of this study. Later during my PhD also under Tom's supervision, my participation in this project was expanded, and I became the main person responsible for its weblab front in Copenhagen. Thus, my contribution here involved the coordination of samples alongside a considerable amount of lab work performing hundreds of DNA extractions. Moreover, I had the chance to participate in an expediction to the Kenyan Savanna, so we could sample an important missing species. I also contributed to the late-stage drafting as well as approved its final version of the flagship article related to the <a href="https://www.nature.com/articles/s41586-020-2873-9" target="_blank">Family Phase</a>. I learnt a lot from my particiation here, and although I no longer work on it, it is still rolling now in the genera phase. You can learn more about its progress on the project's <a href="https://b10k.genomics.cn/" target="_blank">webpage</a>.
+</blockquote>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<h4>Endless Forms Most Beautiful | Sean B. Carroll (2005)</h4>
+<blockquote class="adoromyReads">
+<img class="myReadsImg" src="../Images/BookCovers/EndlessFormsMostBeautiful.jpg" alt="My profile image"> Pretty much unwittingly, I started working on this long-running project back in 2013 during my MSc when I was hired as a lab assistant by my advisor <a href="(https://globe.ku.dk/staff-list/?pure=en/persons/295003" target="_blank">Prof. Tom Gilbert</a>, who was one of the leaders of the initial phase of this study. Later during my PhD also under Tom's supervision, my participation in this project was expanded, and I became the main person responsible for its weblab front in Copenhagen. Thus, my contribution here involved the coordination of samples alongside a considerable amount of lab work performing hundreds of DNA extractions. Moreover, I had the chance to participate in an expediction to the Kenyan Savanna, so we could sample an important missing species. I also contributed to the late-stage drafting as well as approved its final version of the flagship article related to the <a href="https://www.nature.com/articles/s41586-020-2873-9" target="_blank">Family Phase</a>. I learnt a lot from my particiation here, and although I no longer work on it, it is still rolling now in the genera phase. You can learn more about its progress on the project's <a href="https://b10k.genomics.cn/" target="_blank">webpage</a>.
+</blockquote>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<h4>Evolution In Four Dimensions | Eva Jablonka & Marion J. Lamb (2005)</h4>
+<blockquote class="adoromyReads">
+<img class="myReadsImg" src="../Images/BookCovers/EvolutionInFourDimensions.jpg" alt="My profile image"> Pretty much unwittingly, I started working on this long-running project back in 2013 during my MSc when I was hired as a lab assistant by my advisor <a href="(https://globe.ku.dk/staff-list/?pure=en/persons/295003" target="_blank">Prof. Tom Gilbert</a>, who was one of the leaders of the initial phase of this study. Later during my PhD also under Tom's supervision, my participation in this project was expanded, and I became the main person responsible for its weblab front in Copenhagen. Thus, my contribution here involved the coordination of samples alongside a considerable amount of lab work performing hundreds of DNA extractions. Moreover, I had the chance to participate in an expediction to the Kenyan Savanna, so we could sample an important missing species. I also contributed to the late-stage drafting as well as approved its final version of the flagship article related to the <a href="https://www.nature.com/articles/s41586-020-2873-9" target="_blank">Family Phase</a>. I learnt a lot from my particiation here, and although I no longer work on it, it is still rolling now in the genera phase. You can learn more about its progress on the project's <a href="https://b10k.genomics.cn/" target="_blank">webpage</a>.
 </blockquote>
 {{< /rawhtml >}}
 
@@ -45,9 +46,37 @@ Having said that, what I present below is a list of titles revolving round the t
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
+<h4>Your Inner Fish | Neil Shubin (2009)</h4>
+<blockquote class="adoromyReads">
+<img class="myReadsImg" src="../Images/BookCovers/YourInnerFish.jpg" alt="My profile image"> Pretty much unwittingly, I started working on this long-running project back in 2013 during my MSc when I was hired as a lab assistant by my advisor <a href="(https://globe.ku.dk/staff-list/?pure=en/persons/295003" target="_blank">Prof. Tom Gilbert</a>, who was one of the leaders of the initial phase of this study. Later during my PhD also under Tom's supervision, my participation in this project was expanded, and I became the main person responsible for its weblab front in Copenhagen. Thus, my contribution here involved the coordination of samples alongside a considerable amount of lab work performing hundreds of DNA extractions. Moreover, I had the chance to participate in an expediction to the Kenyan Savanna, so we could sample an important missing species. I also contributed to the late-stage drafting as well as approved its final version of the flagship article related to the <a href="https://www.nature.com/articles/s41586-020-2873-9" target="_blank">Family Phase</a>. I learnt a lot from my particiation here, and although I no longer work on it, it is still rolling now in the genera phase. You can learn more about its progress on the project's <a href="https://b10k.genomics.cn/" target="_blank">webpage</a>.
+</blockquote>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
 <h4>The Greatest Show on Earth | Richard Dawkins (2009)</h4>
 <blockquote class="adoromyReads">
 <img class="myReadsImg" src="../Images/BookCovers/TheGreatestShowOnEarth.jpg" alt="My profile image"> Pretty much unwittingly, I started working on this long-running project back in 2013 during my MSc when I was hired as a lab assistant by my advisor <a href="(https://globe.ku.dk/staff-list/?pure=en/persons/295003" target="_blank">Prof. Tom Gilbert</a>, who was one of the leaders of the initial phase of this study. Later during my PhD also under Tom's supervision, my participation in this project was expanded, and I became the main person responsible for its weblab front in Copenhagen. Thus, my contribution here involved the coordination of samples alongside a considerable amount of lab work performing hundreds of DNA extractions. Moreover, I had the chance to participate in an expediction to the Kenyan Savanna, so we could sample an important missing species. I also contributed to the late-stage drafting as well as approved its final version of the flagship article related to the <a href="https://www.nature.com/articles/s41586-020-2873-9" target="_blank">Family Phase</a>. I learnt a lot from my particiation here, and although I no longer work on it, it is still rolling now in the genera phase. You can learn more about its progress on the project's <a href="https://b10k.genomics.cn/" target="_blank">webpage</a>.
+</blockquote>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<h4>The Gene | Siddhartha Mukherjee (2017)</h4>
+<blockquote class="adoromyReads">
+<img class="myReadsImg" src="../Images/BookCovers/TheGene.jpg" alt="My profile image"> Pretty much unwittingly, I started working on this long-running project back in 2013 during my MSc when I was hired as a lab assistant by my advisor <a href="(https://globe.ku.dk/staff-list/?pure=en/persons/295003" target="_blank">Prof. Tom Gilbert</a>, who was one of the leaders of the initial phase of this study. Later during my PhD also under Tom's supervision, my participation in this project was expanded, and I became the main person responsible for its weblab front in Copenhagen. Thus, my contribution here involved the coordination of samples alongside a considerable amount of lab work performing hundreds of DNA extractions. Moreover, I had the chance to participate in an expediction to the Kenyan Savanna, so we could sample an important missing species. I also contributed to the late-stage drafting as well as approved its final version of the flagship article related to the <a href="https://www.nature.com/articles/s41586-020-2873-9" target="_blank">Family Phase</a>. I learnt a lot from my particiation here, and although I no longer work on it, it is still rolling now in the genera phase. You can learn more about its progress on the project's <a href="https://b10k.genomics.cn/" target="_blank">webpage</a>.
+</blockquote>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<h4>Other Minds | Peter Godfrey-Smith (2018)</h4>
+<blockquote class="adoromyReads">
+<img class="myReadsImg" src="../Images/BookCovers/OtherMinds.jpg" alt="My profile image"> Pretty much unwittingly, I started working on this long-running project back in 2013 during my MSc when I was hired as a lab assistant by my advisor <a href="(https://globe.ku.dk/staff-list/?pure=en/persons/295003" target="_blank">Prof. Tom Gilbert</a>, who was one of the leaders of the initial phase of this study. Later during my PhD also under Tom's supervision, my participation in this project was expanded, and I became the main person responsible for its weblab front in Copenhagen. Thus, my contribution here involved the coordination of samples alongside a considerable amount of lab work performing hundreds of DNA extractions. Moreover, I had the chance to participate in an expediction to the Kenyan Savanna, so we could sample an important missing species. I also contributed to the late-stage drafting as well as approved its final version of the flagship article related to the <a href="https://www.nature.com/articles/s41586-020-2873-9" target="_blank">Family Phase</a>. I learnt a lot from my particiation here, and although I no longer work on it, it is still rolling now in the genera phase. You can learn more about its progress on the project's <a href="https://b10k.genomics.cn/" target="_blank">webpage</a>.
+</blockquote>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<h4>She Has Her Mother's Laugh | Carl Zimmer (2018)</h4>
+<blockquote class="adoromyReads">
+<img class="myReadsImg" src="../Images/BookCovers/SheHasHerMothersLaugh.jpg" alt="My profile image"> Pretty much unwittingly, I started working on this long-running project back in 2013 during my MSc when I was hired as a lab assistant by my advisor <a href="(https://globe.ku.dk/staff-list/?pure=en/persons/295003" target="_blank">Prof. Tom Gilbert</a>, who was one of the leaders of the initial phase of this study. Later during my PhD also under Tom's supervision, my participation in this project was expanded, and I became the main person responsible for its weblab front in Copenhagen. Thus, my contribution here involved the coordination of samples alongside a considerable amount of lab work performing hundreds of DNA extractions. Moreover, I had the chance to participate in an expediction to the Kenyan Savanna, so we could sample an important missing species. I also contributed to the late-stage drafting as well as approved its final version of the flagship article related to the <a href="https://www.nature.com/articles/s41586-020-2873-9" target="_blank">Family Phase</a>. I learnt a lot from my particiation here, and although I no longer work on it, it is still rolling now in the genera phase. You can learn more about its progress on the project's <a href="https://b10k.genomics.cn/" target="_blank">webpage</a>.
 </blockquote>
 {{< /rawhtml >}}
 
@@ -57,49 +86,14 @@ Having said that, what I present below is a list of titles revolving round the t
 <img class="myReadsImg" src="../Images/BookCovers/TheRiseAndFallOfTheDinosaurs.jpg" alt="My profile image"> Pretty much unwittingly, I started working on this long-running project back in 2013 during my MSc when I was hired as a lab assistant by my advisor <a href="(https://globe.ku.dk/staff-list/?pure=en/persons/295003" target="_blank">Prof. Tom Gilbert</a>, who was one of the leaders of the initial phase of this study. Later during my PhD also under Tom's supervision, my participation in this project was expanded, and I became the main person responsible for its weblab front in Copenhagen. Thus, my contribution here involved the coordination of samples alongside a considerable amount of lab work performing hundreds of DNA extractions. Moreover, I had the chance to participate in an expediction to the Kenyan Savanna, so we could sample an important missing species. I also contributed to the late-stage drafting as well as approved its final version of the flagship article related to the <a href="https://www.nature.com/articles/s41586-020-2873-9" target="_blank">Family Phase</a>. I learnt a lot from my particiation here, and although I no longer work on it, it is still rolling now in the genera phase. You can learn more about its progress on the project's <a href="https://b10k.genomics.cn/" target="_blank">webpage</a>.
 </blockquote>
 {{< /rawhtml >}}
-
-* **The Selfish Gene** | Richard Dawkins (1976)
-* **The Mismeasure of Man** | Stephen Jay Gould (1981)
-* **The Extended Phenotype** | Richard Dawkins (1982)
-* **The Blind Watchmaker** | Richard Dawkins (1986)
-* **Wonderful Life** | Stephen Jay Gould (1989)
-* **The Third Chimpanzee** | Jared Diamond (1992)
-* **Darwin's Dangerous Idea** | Daniel Dennett (1995)
-* **The Major Transitions in Evolution** | John Maynard Smith & Eörs Szathmáry (1995)
-* **The Beak of the Finch** | Jonathan Weiner (1995)
-* **Evolution: What the Fossils Say and Why It Matters** | Donald Prothero (2007)
-* **Evolution: The First Four Billion Years** | Michael Ruse & Joseph Travis (2009)
-* **The Link: Uncovering Our Earliest Ancestor** | Colin Tudge (2009)
-* **Life Ascending: The Ten Great Inventions of Evolution** | Nick lane (2010)
-* **The Ancestor's Tale** | Richard Dawkins & Yan Wong (2016)
-* **Improbable Destinies** | Jonathan Losos (2017)
-* **The Evolution of Beauty** | Richard O. Prum (2018)
-***
-
-### Textbooks/ 
-
-* **Genetics and the Origin of Species** | Theodosius Dobzhansky (1937)
-* **Evolution: The Modern Synthesis** | Julian Huxley (1942)
-* **Systematics and the Origin of Species** | Ernst Mayr (1942)
-* **The Growth of Biological Thought: Diversity, Evolution, and Inheritance** | Ernst Mayr (1982)
-* **Toward a New Philosophy of Biology: Observations of an Evolutionist** | Ernst Mayr (1988)
-* **Speciation** | Jerry Coyne  & Allen Orr (2004)
-* **Evolution: the Extended Synthesis** | Massimo Pigliucci & Gerd B. Müller (2010)
-* **Evolutionary Analysis — 5th Edition** | Jon Herron & Scott Freeman (2013) 
-* **Essential Readings in Evolutionary Biology** | Francisco Ayala & John Avise (2014) 
-* **Evolution — 4th Edition** | Douglas Futuyma & Mark Kirkpatrick (2017) 
-* **Evolution: Making Sense of Life — 3rd Edition** | Douglas Emlen & Carl Zimmer (2019)
 ***
 
 ### Biographies/
 
-* **The Autobiography of Charles Darwin** | Darwin (1887)
-* **My Life: A Record of Events and Opinion** | Wallace (1905)
-* **Darwin: The Life of a Tormented Evolutionist** | Adrian Desmond & James Moore (1994)
-* **Charles Darwin: A Biography / Vol. 1 — Voyaging** | Janet Browne (1995)
-* **Charles Darwin: A Biography / Vol. 2 — The Power of Place** | Janet Browne (1995)
-* **Alfred Russel Wallace: A Life** | Peter Raby (2001)
-* **Alfred Russel Wallace: A Rediscovered Life** | Michael Flannery (2011)
-* **The Invention of Nature: Alexander von Humboldt's New World** | Andrea Wulf (2015)
-* **A Modest Genius: The Story of Darwin’s Life and How His Ideas Changed Everything** | Hanne Strager (2016)
+{{< rawhtml >}}
+<h4>The Invention of Nature | Andrea Wulf (2015)</h4>
+<blockquote class="adoromyReads">
+<img class="myReadsImg" src="../Images/BookCovers/TheInventionOfNature.jpg" alt="My profile image"> Pretty much unwittingly, I started working on this long-running project back in 2013 during my MSc when I was hired as a lab assistant by my advisor <a href="(https://globe.ku.dk/staff-list/?pure=en/persons/295003" target="_blank">Prof. Tom Gilbert</a>, who was one of the leaders of the initial phase of this study. Later during my PhD also under Tom's supervision, my participation in this project was expanded, and I became the main person responsible for its weblab front in Copenhagen. Thus, my contribution here involved the coordination of samples alongside a considerable amount of lab work performing hundreds of DNA extractions. Moreover, I had the chance to participate in an expediction to the Kenyan Savanna, so we could sample an important missing species. I also contributed to the late-stage drafting as well as approved its final version of the flagship article related to the <a href="https://www.nature.com/articles/s41586-020-2873-9" target="_blank">Family Phase</a>. I learnt a lot from my particiation here, and although I no longer work on it, it is still rolling now in the genera phase. You can learn more about its progress on the project's <a href="https://b10k.genomics.cn/" target="_blank">webpage</a>.
+</blockquote>
+{{< /rawhtml >}}
 ***
