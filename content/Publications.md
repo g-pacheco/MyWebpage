@@ -22,6 +22,7 @@ You can download a detailed PDF version from <a href="/MyCV/PublicationList--Geo
 Skovrind, <p id=cellphone><b>Pacheco</b></p>, Christensen et al.
 </div>  
 {{< /rawhtml >}}
+***
 
 ### Submitted/
 
@@ -37,7 +38,8 @@ Berbel-Filho, <p id=cellphone><b>Pacheco</b></p>, Tatarenkov et al. Under review
 <div>
 Lobo, Silva, Morales et al. Under review at <a id=articles href="https://academic.oup.com/mbe" target="_blank"><i>Molecular Biology and Evolution</i></a>.
 </div>  
-{{< /rawhtml >}} 
+{{< /rawhtml >}}
+***
 
 ### Peer-reviewed/
 
