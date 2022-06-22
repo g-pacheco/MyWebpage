@@ -40,13 +40,6 @@ type = "far"
 url = "mailto:ganpa@aqua.dtu.dk"
 
 [[params.icons]]
-name = "LinkedIn"
-prefix = "fa"
-icon = "linkedin-in"
-type = "fab"
-url = "https://www.linkedin.com/in/george-pacheco-2281b1106/"
-
-[[params.icons]]
 name = "ORCID"
 prefix = "ai"
 icon = "orcid-square"
@@ -66,6 +59,13 @@ prefix = "fa"
 icon = "github"
 type = "fa"
 url = "https://github.com/g-pacheco"
+
+[[params.icons]]
+name = "Twitter"
+prefix = "fa"
+icon = "twitter"
+type = "fab"
+url = "https://twitter.com/Pacheco_Evo"
 
 [[params.lasticon]]
 name = "Instagram"
