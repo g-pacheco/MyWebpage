@@ -67,12 +67,19 @@ icon = "twitter"
 type = "fab"
 url = "https://twitter.com/Pacheco_Evo"
 
-[[params.lasticon]]
+[[params.icon]]
 name = "Instagram"
 prefix = "fa"
 icon = "instagram"
 type = "fa"
 url = "https://www.instagram.com/menino.pacheco/"
+
+[[params.lasticon]]
+name = "YouTube"
+prefix = "fa"
+icon = "youtube"
+type = "fa"
+url = "https://www.youtube.com/channel/UCcjP3uH7VFk4n_lIc4bgxbQ"
 
 
 # Main menu Items

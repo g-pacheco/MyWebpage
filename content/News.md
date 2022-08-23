@@ -6,6 +6,10 @@ description = "News on my academic Life."
 {{< rawhtml >}}
 
 <blockquote>
+<b>24 Aug 2022/</b> Later today I will be going to Kristiansand — ¡it will be my first time in Norway! — to attent the Final <a href="https://twitter.com/Margen_II" target="_blank">MarGen II</a> Meeting. I am looking forward to meeting everyone a last time, and to hearing about the developments of all the other projects as well as presenting my own advancements. 🤓💻    
+</blockquote>
+
+<blockquote>
 <b>17 Jun 2022/</b> I finished reading <a href="https://www.amazon.co.uk/Evolution-True-Oxford-Landmark-Science/dp/0199230854/ref=sr_1_1?crid=2W927MMYDAHBX&keywords=why+evolution+is+true&qid=1655481359&s=books&sprefix=why+evolution+is+true%2Cstripbooks%2C77&sr=1-1" target="_blank"><i>Why Evolution is True</i></a> by <a href="https://en.wikipedia.org/wiki/Jerry_Coyne" target="_blank">Jerry A. Coyne</a>. A couple os weeks ago I also finished reading <a href="https://www.amazon.co.uk/What-Evolution-Theory-Science-Masters/dp/0753813688/ref=sr_1_1?crid=2YR625943V7AM&keywords=What+Evolution+Is&qid=1655481454&s=books&sprefix=what+evolution+is%2Cstripbooks%2C83&sr=1-1" target="_blank"><i>What Evolution Is</i></a> by <a href="https://en.wikipedia.org/wiki/Ernst_Mayr" target="_blank">Ernst Mayr</a>, so it was a good opportunity to compare these two books directly. I will now read some <i>Literature</i>, but soon I will be back to my studies on <i>Evolutionary Biology</i>. 📚🤓
 </blockquote>
 
