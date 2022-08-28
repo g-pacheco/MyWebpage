@@ -41,7 +41,7 @@ Lobo, Silva, Morales et al. Under revision by <a id=articles href="https://acade
 * **Phylogenomics Reveals Extensive Introgression and a Case of Mito-nuclear Discordance in the Killifish Genus _Kryptolebias_.**  
 {{< rawhtml >}}
 <div>
-Berbel-Filho, <p id=cellphone><b>Pacheco</b></p>, Tatarenkov et al. <a id=articles href="https://www.sciencedirect.com/journal/molecular-phylogenetics-and-evolution" target="_blank"><i>Molecular Phylogenetics and Evolution</i></a>. (In Press)
+Berbel-Filho, <p id=cellphone><b>Pacheco</b></p>, Tatarenkov et al. <a id=articles href="https://www.sciencedirect.com/journal/molecular-phylogenetics-and-evolution" target="_blank"><i>Molecular Phylogenetics and Evolution</i></a>.
 </div>
 <a href="https://www.sciencedirect.com/science/article/pii/S1055790322002305" target="_blank">DOI</a>
 <b>~</b>
