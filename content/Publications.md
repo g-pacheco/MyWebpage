@@ -43,7 +43,11 @@ Lobo, Silva, Morales et al. Under revision by <a id=articles href="https://acade
 <div>
 Berbel-Filho, <p id=cellphone><b>Pacheco</b></p>, Tatarenkov et al. <a id=articles href="https://www.sciencedirect.com/journal/molecular-phylogenetics-and-evolution" target="_blank"><i>Molecular Phylogenetics and Evolution</i></a>. (In Press)
 </div>
-<a href="https://github.com/waldirmbf/KryptolebiasGenomics" target="_blank">CODE</a>  
+<a href="https://www.sciencedirect.com/science/article/pii/S1055790322002305" target="_blank">DOI</a>
+<b>~</b>
+<a href="/MyArticles/KryptolebiasTemp.pdf">PDF</a>
+<b>~</b>
+<a href="https://github.com/waldirmbf/KryptolebiasGenomics" target="_blank">CODE</a>
 {{< /rawhtml >}}
 ***
 
