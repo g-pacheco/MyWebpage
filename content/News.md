@@ -6,6 +6,10 @@ description = "News on my academic Life."
 {{< rawhtml >}}
 
 <blockquote>
+<b>31 Aug 2022/</b> My collaboration with <a href="https://waldirmbf.github.io" target="_blank">Waldir Miron</a> bears one more fruit: <a href="https://www.sciencedirect.com/science/article/pii/S1055790322002305" target="_blank">new article</a> on the phylogenomic relationships of <i>Kryptolebias</i>. 🐟🧬    
+</blockquote>
+
+<blockquote>
 <b>24 Aug 2022/</b> Later today I will be going to Kristiansand — ¡it will be my first time in Norway! — to attent the Final <a href="https://twitter.com/Margen_II" target="_blank">MarGen II</a> Meeting. I am looking forward to meeting everyone a last time, and to hearing about the developments of all the other projects as well as presenting my own advancements. 🤓💻    
 </blockquote>
 
@@ -46,7 +50,7 @@ description = "News on my academic Life."
 </blockquote>
 
 <blockquote>
-<b>22 Sep 2021/</b> <a href="https://berbelfilho.wixsite.com/home" target="_blank">Waldir's</a> article was accepted and will be soon published by <a href="https://www.mdpi.com/journal/genes" target="_blank"><i>Genes</i></a>. Congratulations, Waldir!
+<b>22 Sep 2021/</b> <a href="https://waldirmbf.github.io" target="_blank">Waldir's</a> article was accepted and will be soon published by <a href="https://www.mdpi.com/journal/genes" target="_blank"><i>Genes</i></a>. Congratulations, Waldir!
 </blockquote>
 
 <blockquote>

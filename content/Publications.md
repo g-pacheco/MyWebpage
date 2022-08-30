@@ -45,7 +45,7 @@ Berbel-Filho, <p id=cellphone><b>Pacheco</b></p>, Tatarenkov et al. <a id=articl
 </div>
 <a href="https://www.sciencedirect.com/science/article/pii/S1055790322002305" target="_blank">DOI</a>
 <b>~</b>
-<a href="/MyArticles/KryptolebiasTemp.pdf">PDF</a>
+<a href="/MyArticles/kryptolebiasMPE.pdf">PDF</a>
 <b>~</b>
 <a href="https://github.com/waldirmbf/KryptolebiasGenomics" target="_blank">CODE</a>
 {{< /rawhtml >}}
