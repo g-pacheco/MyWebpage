@@ -38,6 +38,15 @@ Lobo, Silva, Morales et al. Under revision by <a id=articles href="https://acade
 
 #### 2022/
 
+
+* **Additive and Non-additive Epigenetic Signatures of Natural Hybridisation Between Fish Species with Different Mating Systems.**  
+{{< rawhtml >}}
+<div>
+Berbel-Filho, Tatarenkov, <p id=cellphone><b>Pacheco</b></p> et al. <a id=articles href="https://www.tandfonline.com/journals/kepi20" target="_blank"><i>Epigenetics</i></a> (In Press).
+</div>
+<a href="https://doi.org/10.1080/15592294.2022.2123014" target="_blank">DOI</a>
+{{< /rawhtml >}}
+
 * **Phylogenomics Reveals Extensive Introgression and a Case of Mito-nuclear Discordance in the Killifish Genus _Kryptolebias_.**  
 {{< rawhtml >}}
 <div>
