@@ -45,6 +45,8 @@ Lobo, Silva, Morales et al. Under revision by <a id=articles href="https://acade
 Berbel-Filho, <p id=cellphone><b>Pacheco</b></p>, Lira et al. <a id=articles href="https://www.tandfonline.com/journals/kepi20" target="_blank"><i>Epigenetics</i></a> (In Press).
 </div>
 <a href="https://doi.org/10.1080/15592294.2022.2123014" target="_blank">DOI</a>
+<b>~</b>
+<a href="/MyArticles/matingsystemsEpigenetics.pdf">PDF</a>
 {{< /rawhtml >}}
 
 * **Phylogenomics Reveals Extensive Introgression and a Case of Mito-nuclear Discordance in the Killifish Genus _Kryptolebias_.**  
