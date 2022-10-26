@@ -104,8 +104,8 @@ url = "/Publications"
 weight = 4
 
 [[menu.main]]
-name = "myReads/"
-url = "/myReads"
+name = "Reads/"
+url = "/Reads"
 weight = 5
 
 [[menu.main]]
