@@ -22,17 +22,25 @@ DTU Aqua / Vejlsøvej 39, 8600 Silkeborg • Denmark</p>
 Initially trained in <i>Biology</i> in the Brazilian Northeast, I have worked on several projects in the vein of animal evolutionary genomics investigating a diverse range of taxa <b>—</b> from tiny Collembolans to culturally evolving killer whales, which has given me a vast experience in the molecular lab and a fair understanding of the rationale behind bioinformatic analyses. During my scientific career, I have developed a profound interest in the genomic and epigenomic architecture of cognitive traits. Ultimately, I have a sound interest in the molecular mechanisms implicated in the emergence and maintenance of traits of medical relevance.
 </blockquote>
 {{< /rawhtml >}}
+***
 
-#### Academic Positions/
-
-##### Post-doc Researcher  
+### Academic Positions/
+  
+#### Technical Postdoc
 {{< rawhtml >}}
-Mar 2021 <b>—</b> Present <b>|</b> <a href="https://www.dtu.dk/english" target="_blank"><i>Technical University of Denmark</i></a></p>
+Nov 2022 <strong>—</strong> Present <b>|</b> <a href="https://www.dtu.dk/english" target="_blank"><i>University of Oslo</i></a></p>
+<em>Advisors:</em> <a href="https://www.mn.uio.no/cees/english/people/core/glennp/" target="_blank">Prof. Glenn-Peter Sætre</a>, <a href="https://therowelab.com/" target="_blank">Dr. Melissah Rowe</a> & <a href="https://markravinet.github.io/" target="_blank">Assist. Prof. Mark Ravinet</a> </p>
+<b>Location:</b> <a href="https://www.mn.uio.no/cees/english/" target="_blank"><i>Centre for Ecological and Evolutionary Synthesis</i></a>
+{{< /rawhtml >}}
+
+#### Technical Postdoc  
+{{< rawhtml >}}
+Mar 2021 <b>—</b> Oct 2022 <b>|</b> <a href="https://www.dtu.dk/english" target="_blank"><i>Technical University of Denmark</i></a></p>
 <b>Advisors:</b> <a href="https://orbit.dtu.dk/en/persons/jakob-hemmer-hansen" target="_blank">Dr. Jakob Hansen</a> & <a href="https://orbit.dtu.dk/en/persons/dorte-bekkevold" target="_blank">Dr. Dorte Bekkevold</a></p>
 <b>Location:</b> <a href="https://www.aqua.dtu.dk/english/Research/Population_genetics" target="_blank"><i>Section for Population Genetics</i></a> <b>~</b> <a href="https://www.aqua.dtu.dk/english" target="_blank"><i>DTU Aqua</i></a>
 {{< /rawhtml >}}
 
-##### Post-doc Researcher
+#### Technical Postdoc
 {{< rawhtml >}}  
 Jan 2020 <b>—</b> Jun 2020 <b>|</b> <a href="https://www.ku.dk/english" target="_blank"><i>University of Copenhagen</i></a></p>
 <b>Advisor:</b> <a href="https://globe.ku.dk/staff-list/?pure=en/persons/295003" target="_blank">Prof. Tom Gilbert</a></p>
@@ -40,9 +48,9 @@ Jan 2020 <b>—</b> Jun 2020 <b>|</b> <a href="https://www.ku.dk/english" target
 {{< /rawhtml >}}
 ***
 
-#### Academic Education/
+### Academic Education/
 
-##### PhD in Evolutionary Genomics    
+#### PhD in Evolutionary Genomics    
 {{< rawhtml >}}
 Nov 2014 <b>—</b> Apr 2019 <b>|</b> <a href="https://www.ku.dk/english" target="_blank"><i>University of Copenhagen</i></a></p>  
 <b>Thesis:</b> Flying Rats Shall No Longer Be: A Population Genomic Analysis of Fancy and Feral Pigeons</p>
@@ -52,7 +60,7 @@ Nov 2014 <b>—</b> Apr 2019 <b>|</b> <a href="https://www.ku.dk/english" target
 {{< /rawhtml >}}
 
 
-##### MSc in Biology
+#### MSc in Biology
 {{< rawhtml >}}  
 Feb 2012 <b>—</b> Aug 2014 <b>|</b> <a href="https://www.ku.dk/english" target="_blank"><i>University of Copenhagen</i></a></p>  
 <b>Thesis:</b> Insights into the Feral Pigeon Global Community Gained From Population Genomics</p>
@@ -61,7 +69,7 @@ Feb 2012 <b>—</b> Aug 2014 <b>|</b> <a href="https://www.ku.dk/english" target
 <b>Location:</b> <a href="https://globe.ku.dk/research/evogenomics" target="_blank"><i>Section for Evolutionary Genomics</i></a> <b>~</b> <a href="https://snm.ku.dk/english/" target="_blank"><i>Natural History Museum of Denmark</i></a>
 {{< /rawhtml >}}
 
-##### Full Licensing & BSc in Biological Sciences  
+#### Full Licensing & BSc in Biological Sciences  
 {{< rawhtml >}}
 Aug 2006 <b>—</b> Jul 2011 <b>|</b> <a href="https://www.ufrn.br/en" target="_blank"><i>Federal University of Rio Grande do Norte</i></a></p>
 <b>Thesis:</b> Cytogenetics Characterisation of the Species <i>Cichlasoma orientale</i> (Teleostei: Cichlidae: Cichlinae)</p> 
@@ -70,37 +78,37 @@ Aug 2006 <b>—</b> Jul 2011 <b>|</b> <a href="https://www.ufrn.br/en" target="_
 {{< /rawhtml >}}
 ***
 
-#### Grants/
+### Grants/
 
-##### EMBO Short-Term Fellowship    
+#### EMBO Short-Term Fellowship    
 {{< rawhtml >}}
 23 Sep <b>—</b> 22 Dec 2019 <b>|</b> <a href="https://www.embo.org" target="_blank"><i>EMBO</i></a> • Germany
 {{< /rawhtml >}}
 
-##### Full PhD Abroad Scholarship  
+#### Full PhD Abroad Scholarship  
 {{< rawhtml >}}
 Nov 2014 <b>—</b> Oct 2018 <b>|</b> <a href="https://www.gov.br/cnpq/pt-br" target="_blank"><i>CNPq</i></a> • Brazil
 {{< /rawhtml >}}
 
-##### Danish Government Scholarship and Tuition Fee Waiver    
+#### Danish Government Scholarship and Tuition Fee Waiver    
 {{< rawhtml >}}
 Feb 2012 <b>—</b> Jan 2014 <b>|</b> <a href="https://ufm.dk/en" target="_blank"><i>Ministry of Higher Education & Science</i></a> • Denmark
 {{< /rawhtml >}}
 
-##### Student Assistant Scholarship   
+#### Student Assistant Scholarship   
 {{< rawhtml >}}
 Mar 2010 <b>—</b> Apr 2011 <b>|</b> <a href="https://www.gov.br/cnpq/pt-br" target="_blank"><i>CNPq</i></a> • Brazil
 {{< /rawhtml >}}  
 
-##### Scientific Initiation Scholarship    
+#### Scientific Initiation Scholarship    
 {{< rawhtml >}}
 Feb 2009 <b>—</b> Jul 2011 <b>|</b> <a href="https://www.gov.br/cnpq/pt-br" target="_blank"><i>CNPq</i></a> • Brazil
 {{< /rawhtml >}} 
 ***
 
-#### Extra Lab Experience/
+### Extra Lab Experience/
 
-##### Lab Assistant  
+#### Lab Assistant  
 {{< rawhtml >}}
 Aug 2013 <b>—</b> May 2014 <b>|</b> <a href="https://www.ku.dk/english" target="_blank"><i>University of Copenhagen</i></a></p>
 <b>Employer:</b> <a href="https://globe.ku.dk/staff-list/?pure=en/persons/295003" target="_blank">Prof. Tom Gilbert</a></p>
@@ -108,7 +116,7 @@ Aug 2013 <b>—</b> May 2014 <b>|</b> <a href="https://www.ku.dk/english" target
 {{< /rawhtml >}}
 
 
-##### Lab Intern  
+#### Lab Intern  
 {{< rawhtml >}}
 Aug 2007 <b>—</b> Aug 2008 <b>|</b> <a href="https://www.ufrn.br/en" target="_blank"><i>Federal University of Rio Grande do Norte</i></a></p>
 <b>Advisor:</b> <a href="https://scholar.google.dk/citations?user=VTK_NLAAAAAJ&hl=en" target="_blank"> Prof. Lucymara Fassarella Agnez-Lima</a></p>
@@ -116,7 +124,7 @@ Aug 2007 <b>—</b> Aug 2008 <b>|</b> <a href="https://www.ufrn.br/en" target="_
 {{< /rawhtml >}}
 ***
 
-#### Research Visits/
+### Research Visits/
 {{< rawhtml >}}
 <h5><a href="https://cibio.up.pt/people/details/mcarneir/student-supervisions/concluded?t=1" target="_blank"><b>Carneiro Lab</b></a></h5>
 23 Sep <b>—</b> 22 Dec 2019 <b>|</b> <a href="https://cibio.up.pt/" target="_blank"><i>CIBIO</i></a> <b>~</b> <a href="https://sigarra.up.pt/up/en/WEB_BASE.GERA_PAGINA?p_pagina=home" target="_blank"><i>University of Porto</i></a>
@@ -128,16 +136,16 @@ Aug 2007 <b>—</b> Aug 2008 <b>|</b> <a href="https://www.ufrn.br/en" target="_
 {{< /rawhtml >}}
 ***
 
-#### Teaching Experience/
+### Teaching Experience/
 
-##### Supervision of Several Users of the Molecular Labs
+#### Supervision of Several Users of the Molecular Labs
 {{< rawhtml >}}
 Feb 2014 <b>—</b> July 2018 <b>|</b> <a href="https://www.ku.dk/english" target="_blank"><i>University of Copenhagen</i></a></p>
 <b>Advisor:</b> <a href="https://globe.ku.dk/staff-list/?pure=en/persons/295003" target="_blank">Prof. Tom Gilbert</a></p>
 <b>Location:</b> <a href="https://globe.ku.dk/research/evogenomics" target="_blank"><i>Section for Evolutionary Genomics</i></a> <b>~</b> <a href="https://snm.ku.dk/english/" target="_blank"><i>Natural History Museum of Denmark</i></a>
 {{< /rawhtml >}}
 
-##### Student Assistant of Entomology
+#### Student Assistant of Entomology
 {{< rawhtml >}}
 Mar 2010 <b>—</b> Apr 2011 <b>|</b> <a href="https://www.ufrn.br/en" target="_blank"><i>Federal University of Rio Grande do Norte</i></a></p>
 <b>Advisor:</b> Prof. Ricardo Andreazze</p>
@@ -145,24 +153,24 @@ Mar 2010 <b>—</b> Apr 2011 <b>|</b> <a href="https://www.ufrn.br/en" target="_
 {{< /rawhtml >}}
 ***
 
-#### Selected Scientific Expedictions/
+### Selected Scientific Expedictions/
 
-##### Logistics Activities on the REBIO Atol das Rocas Conservation Unit
+#### Logistics Activities on the REBIO Atol das Rocas Conservation Unit
 Nov 2008 <b>|</b> Rio Grande do Norte State • Brazil
 
-##### Collection of Avian Samples <b>|</b> On behalf of the 10KBird Project
+#### Collection of Avian Samples <b>|</b> On behalf of the 10KBird Project
 Feb 2016 <b>|</b> Rukanga Region • Kenya
 
-##### Collection of Avian Zooarchaeological Samples
+#### Collection of Avian Zooarchaeological Samples
 Feb 2016 <b>|</b> Negev Desert • Israel
 
-##### Collection of Avian Samples
+#### Collection of Avian Samples
 Nov 2015 <b>|</b> Tórshavn Region • Faroe Islands
 ***
 
-#### Academic Societies/ 
+### Academic Societies/ 
 
-##### European Society for Evolutionary Biology  
+#### European Society for Evolutionary Biology  
 {{< rawhtml >}}
 April 2022 <b>—</b> Present<p>
 <a href="https://eseb.org/" target="_blank">WEB</a>
@@ -171,32 +179,31 @@ April 2022 <b>—</b> Present<p>
 {{< /rawhtml >}}
 ***
 
-#### Selected Scientific Events/
+### Selected Scientific Events/
 
-##### Pangenomes — Evolution and Computation
+#### Pangenomes — Evolution and Computation
 Nov 2021 *|* Gothenburg • Sweden
 
-##### II B10K Project Workshop
+#### II B10K Project Workshop
 Feb 2020 *|* Copenhagen • Denmark
 
-##### Genome 10K and Genome Science Conference
+#### Genome 10K and Genome Science Conference
 Aug 2017 *|* Norwich • England
 
-##### European Ornithologists’ Union Conference
+#### European Ornithologists’ Union Conference
 Aug 2017 *|* Turku • Finland  
 **Poster Pitching Presentation:** _Genomic Insights into the Natural and Artificial Histories of the Ubiquitous Pigeon._
 
-##### I B10K Project Workshop
+#### I B10K Project Workshop
 Oct 2016 *|* Beijing • China
 
-##### X FENS Forum of Neuroscience
+#### X FENS Forum of Neuroscience
 Jul 2016 *|* Copenhagen • Denmark
 
-##### XV Congress of the European Society for Evolutionary Biology
+#### XV Congress of the European Society for Evolutionary Biology
 Aug 2015 *|* Lausanne • Switzerland
 
-##### LX Brazilian Congress on Genetics
+#### LX Brazilian Congress on Genetics
 Aug 2014 *|* Guarujá • Brazil  
 **Oral Presentation:** _Insights into the Feral Pigeon Global Community Gained from Population Genomics._
 ***
-
