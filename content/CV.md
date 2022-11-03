@@ -10,10 +10,10 @@ description = "My current CV."
 
 {{< rawhtml >}}
 <div class="cvhead">
-<h2>George Pachecoaaaa</h2></p>
+<h2>George Pacheco</h2></p>
 <div class="subtitlecv"><i><b>Evolutionary Biologist</b></i></div></p>
-DTU Aqua / Vejlsøvej 39, 8600 Silkeborg • Denmark</p>
-<a href = "mailto: ganpa@aqua.dtu.dk" target="_blank">ganpa@aqua.dtu.dk</a>
+CEES / Blindernveien 31, 0371 Oslo • Norway</p>
+<a href = "mailto: george.pacheco@ibv.uio.no" target="_blank">george.pacheco@ibv.uio.no</a>
 </div>
 {{< /rawhtml >}}
 

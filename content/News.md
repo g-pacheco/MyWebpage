@@ -6,7 +6,11 @@ description = "News on my academic Life."
 {{< rawhtml >}}
 
 <blockquote>
-<b>27-28 Oct 2022aaa/</b> Today and tomorrow I will be at <a href="https://www.mn.uio.no/cees/english/" target="_blank"><i>CEES</i></a> participating in the kick-off meeting of our <i>Sparrow Genomics</i> project. I am looking forward to discuss together with my peers ideas regarding the evolution of these ubiquitous little feathered dinosaurs. 🤓 📚
+<b>01-02 Nov 2022/</b> After a nice 17-hour boat trip between Copenhagen and Oslo where I learnt a little bit about the <i>History</i> of alcohol, I have now officially started a new position at <a href="https://www.mn.uio.no/cees/english/" target="_blank"><i>CEES</i></a>. I really hope that I will have a great time here taking the opportunity to explore the Norwegian Nature during the months to come! 🏔️  
+</blockquote>
+
+<blockquote>
+<b>27-28 Oct 2022/</b> Today and tomorrow I will be at <a href="https://www.mn.uio.no/cees/english/" target="_blank"><i>CEES</i></a> participating in the kick-off meeting of our <i>Sparrow Genomics</i> project. I am looking forward to discuss together with my peers ideas regarding the evolution of these ubiquitous little feathered dinosaurs. 🤓 📚
 </blockquote>
 
 <blockquote>
