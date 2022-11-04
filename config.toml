@@ -37,7 +37,7 @@ name = "Email"
 prefix = "fa"
 icon = "envelope"
 type = "far"
-url = "mailto:ganpa@aqua.dtu.dk"
+url = "mailto:george.pacheco@ibv.uio.no"
 
 [[params.icons]]
 name = "ORCID"
