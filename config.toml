@@ -1,10 +1,9 @@
 baseURL = "https://g-pacheco.github.io/"
-homepage = "https://g-pacheco.github.io/"
 googleAnalytics = "G-6HEVWZ2M09"
 languageCode = "en-us"
 title = "George Pacheco:~"
 theme = "archie"
-description = "Personal webpage of evolutionary biologist George Pacheco, PhDmmmmmm."
+description = "Personal webpage of evolutionary biologist George Pacheco, PhD."
 
 # Code Highlight
 pygmentsstyle = "monokai"
