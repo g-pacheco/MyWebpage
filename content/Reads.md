@@ -82,6 +82,21 @@ Having said that, what I present below is a list of titles revolving round the t
 ***
 
 {{< rawhtml >}}
+<h4>Life Ascending | Nick Lane (2010)</h4>
+<blockquote class="adoromyReads">
+<img class="myReadsImg" src="../Images/BookCovers/LifeAscending.jpg"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a dui suscipit, dignissim quam in, egestas turpis. Praesent at sapien tellus. Fusce mollis porta cursus. Quisque libero tortor, commodo sed sollicitudin in, consequat eu sem. Ut elementum porta purus eu tincidunt. Nulla hendrerit diam sit amet lectus feugiat ultricies. Etiam placerat metus vel nunc varius eleifend. Curabitur luctus turpis id ipsum molestie rutrum quis sit amet mauris. Integer imperdiet augue in sodales maximus. Mauris pretium arcu non nunc efficitur, a viverra tellus consequat. Proin convallis sapien non tincidunt fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+<br></br>
+<b>Amazon Links: </b>
+<a href="https://amzn.to/3hjGAY4" target="_blank"><b>USA</b></a>
+<b>~</b>
+<a href="https://amzn.to/3zOxAkm" target="_blank"><b>UK</b></a>
+<b>~</b>
+<a href="https://amzn.to/3UoKjlq" target="_blank"><b>BR</b> (Original)</a>
+</blockquote>
+{{< /rawhtml >}}
+***
+
+{{< rawhtml >}}
 <h4>The Human Advantage | Suzana Herculano–Houze (2016)</h4>
 <blockquote class="adoromyReads">
 <img class="myReadsImg" src="../Images/BookCovers/TheHumanAdvantage.jpeg"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a dui suscipit, dignissim quam in, egestas turpis. Praesent at sapien tellus. Fusce mollis porta cursus. Quisque libero tortor, commodo sed sollicitudin in, consequat eu sem. Ut elementum porta purus eu tincidunt. Nulla hendrerit diam sit amet lectus feugiat ultricies. Etiam placerat metus vel nunc varius eleifend. Curabitur luctus turpis id ipsum molestie rutrum quis sit amet mauris. Integer imperdiet augue in sodales maximus. Mauris pretium arcu non nunc efficitur, a viverra tellus consequat. Proin convallis sapien non tincidunt fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
