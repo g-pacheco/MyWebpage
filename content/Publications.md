@@ -15,16 +15,16 @@ You can download a detailed PDF version from <a href="/MyCV/PublicationList--Geo
 {{< rawhtml >}}
 <p id=cellphone><b>Pacheco</b></p>, Vieira, Martin et al.
 {{< /rawhtml >}}
+***
+
+### Submitted/
 
 * **Genomic Differentiation Among European Perch _Perca fluviatilis_ in the Western Baltic Sea Reflects Colonisation History and Local Adaptation.**  
 {{< rawhtml >}}
 <div>
-Skovrind, <p id=cellphone><b>Pacheco</b></p>, Christensen et al.
+Skovrind, <p id=cellphone><b>Pacheco</b></p>, Christensen et al. Submitted to <a id=articles href="https://www.sciencedirect.com/journal/marine-genomics" target="_blank"><i>Marine Genomics</i></a>.
 </div>  
 {{< /rawhtml >}}
-***
-
-### Submitted/
 
 * **Dog Introgression Drives Wolf Adaptation to Human-dominated Landscapes.**  
 {{< rawhtml >}}

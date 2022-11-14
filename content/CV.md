@@ -28,7 +28,7 @@ Initially trained in <i>Biology</i> in the Brazilian Northeast, I have worked on
   
 #### Technical Postdoc
 {{< rawhtml >}}
-Nov 2022 <strong>—</strong> Present <b>|</b> <a href="https://www.dtu.dk/english" target="_blank"><i>University of Oslo</i></a></p>
+Nov 2022 <strong>—</strong> Present <b>|</b> <a href="https://www.uio.no/english/" target="_blank"><i>University of Oslo</i></a></p>
 <em>Advisors:</em> <a href="https://www.mn.uio.no/cees/english/people/core/glennp/" target="_blank">Prof. Glenn-Peter Sætre</a>, <a href="https://therowelab.com/" target="_blank">Dr. Melissah Rowe</a> & <a href="https://markravinet.github.io/" target="_blank">Assist. Prof. Mark Ravinet</a> </p>
 <b>Location:</b> <a href="https://www.mn.uio.no/cees/english/" target="_blank"><i>Centre for Ecological and Evolutionary Synthesis</i></a>
 {{< /rawhtml >}}
