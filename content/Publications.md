@@ -22,7 +22,7 @@ You can download a detailed PDF version from <a href="/MyCV/PublicationList--Geo
 * **Genomic Differentiation Among European Perch _Perca fluviatilis_ in the Western Baltic Sea Reflects Colonisation History and Local Adaptation.**  
 {{< rawhtml >}}
 <div>
-Skovrind, <p id=cellphone><b>Pacheco</b></p>, Christensen et al. Submitted to <a id=articles href="https://www.sciencedirect.com/journal/marine-genomics" target="_blank"><i>Marine Genomics</i></a>.
+Skovrind, <p id=cellphone><b>Pacheco</b></p>, Christensen et al. Submitted to <a id=articles href="https://www.sciencedirect.com/journal/fisheries-research" target="_blank"><i>Fisheries Research</i></a>.
 </div>  
 {{< /rawhtml >}}
 
