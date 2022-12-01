@@ -167,6 +167,22 @@ Having said that, what I present below is a list of titles revolving round the t
 ***
 
 {{< rawhtml >}}
+<h4>Darwin Comes to Town | Menno Schilthuizen (2018)</h4>
+<blockquote class="adoromyReads">
+<img class="myReadsImg" src="../Images/BookCovers/DarwinComesToTown.webp"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a dui suscipit, dignissim quam in, egestas turpis. Praesent at sapien tellus. Fusce mollis porta cursus. Quisque libero tortor, commodo sed sollicitudin in, consequat eu sem. Ut elementum porta purus eu tincidunt. Nulla hendrerit diam sit amet lectus feugiat ultricies. Etiam placerat metus vel nunc varius eleifend. Curabitur luctus turpis id ipsum molestie rutrum quis sit amet mauris. Integer imperdiet augue in sodales maximus. Mauris pretium arcu non nunc efficitur, a viverra tellus consequat. Proin convallis sapien non tincidunt fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+<br></br>
+<b>Amazon Links: </b>
+<a href="https://amzn.to/3VFSLxs" target="_blank"><b>USA</b></a>
+<b>~</b>
+<a href="https://amzn.to/3Flpt20" target="_blank"><b>UK</b></a>
+<b>~</b>
+<a href="https://amzn.to/3Uo6Puu" target="_blank"><b>BR</b> (Original)</a>
+</blockquote>
+</blockquote>
+{{< /rawhtml >}}
+***
+
+{{< rawhtml >}}
 <h4>The Rise and Fall of the Dinosaurs | Steve Brusatte (2019)</h4>
 <blockquote class="adoromyReads">
 <img class="myReadsImg" src="../Images/BookCovers/TheRiseAndFallOfTheDinosaurs.jpg"> This book was my companion during the first lockdown caused by the COVID-19 pandemic. Maybe it was not the best idea to be reading about an <i>almost</i> extinct lineage of animals during such dreadful times, but it just happened to be. Written by <a href="https://sites.google.com/site/brusatte/stephen-brusatte-university-of-edinburgh?authuser=0" target="_blank">Steve Brusatte</a>, who is the Professor of Palaeontology and Evolution of the <a href="https://www.ed.ac.uk/" target="_blank"><i>University of Edinburgh</i></a>, this title is probably the best description of 
