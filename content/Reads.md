@@ -11,7 +11,24 @@ I read quite a few <i>Science Communication</i> books throughout my bachelor tim
 <blockquote>
 Having said that, what I present below is a list of titles revolving round the two subjects I intend to expertise, namely <i>Evolutionary Biology</i> & <i>Philosophy of Science</i>. The books I have already read (at least once) are marked in green, and a short commentary is provided. Please acknowledge that this is for my own personal recording, and my impressions on these titles should be taken with care. Else, I have decided to list them in a chronological order because I find it revealing to realise how things unfolded historically. For instance, Huxley published his book on the evolution of <i>Homo sapiens</i> 8 years before Darwin presented his own work on this subject; or that Wallaced published his book on <i>Natural Selection</i> 20 years after Darwin's famous title had been published.
 </blockquote>
+{{< /rawhtml >}}
+***
 
+### Classical Works/
+
+{{< rawhtml >}}
+<h4>The Voyage of the Beagle | Charles Darwin (1839)</h4>
+<blockquote class="adoromyReads">
+<img class="myReadsImg" src="../Images/BookCovers/TheVoyage.jpeg"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a dui suscipit, dignissim quam in, egestas turpis. Praesent at sapien tellus. Fusce mollis porta cursus. Quisque libero tortor, commodo sed sollicitudin in, consequat eu sem. Ut elementum porta purus eu tincidunt. Nulla hendrerit diam sit amet lectus feugiat ultricies. Etiam placerat metus vel nunc varius eleifend. Curabitur luctus turpis id ipsum molestie rutrum quis sit amet mauris. Integer imperdiet augue in sodales maximus. Mauris pretium arcu non nunc efficitur, a viverra tellus consequat. Proin convallis sapien non tincidunt fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+</blockquote>
+{{< /rawhtml >}}
+***
+
+{{< rawhtml >}}
+<h4>On the Origin of Species | Charles Darwin (1859)</h4>
+<blockquote class="adoromyReads">
+<img class="myReadsImg" src="../Images/BookCovers/OnTheOrigin.jpeg"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a dui suscipit, dignissim quam in, egestas turpis. Praesent at sapien tellus. Fusce mollis porta cursus. Quisque libero tortor, commodo sed sollicitudin in, consequat eu sem. Ut elementum porta purus eu tincidunt. Nulla hendrerit diam sit amet lectus feugiat ultricies. Etiam placerat metus vel nunc varius eleifend. Curabitur luctus turpis id ipsum molestie rutrum quis sit amet mauris. Integer imperdiet augue in sodales maximus. Mauris pretium arcu non nunc efficitur, a viverra tellus consequat. Proin convallis sapien non tincidunt fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+</blockquote>
 {{< /rawhtml >}}
 ***
 
@@ -45,6 +62,14 @@ Having said that, what I present below is a list of titles revolving round the t
 <h4>Evolution In Four Dimensions | Eva Jablonka & Marion J. Lamb (2005)</h4>
 <blockquote class="adoromyReads">
 <img class="myReadsImg" src="../Images/BookCovers/EvolutionInFourDimensions.jpg"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a dui suscipit, dignissim quam in, egestas turpis. Praesent at sapien tellus. Fusce mollis porta cursus. Quisque libero tortor, commodo sed sollicitudin in, consequat eu sem. Ut elementum porta purus eu tincidunt. Nulla hendrerit diam sit amet lectus feugiat ultricies. Etiam placerat metus vel nunc varius eleifend. Curabitur luctus turpis id ipsum molestie rutrum quis sit amet mauris. Integer imperdiet augue in sodales maximus. Mauris pretium arcu non nunc efficitur, a viverra tellus consequat. Proin convallis sapien non tincidunt fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+</blockquote>
+{{< /rawhtml >}}
+***
+
+{{< rawhtml >}}
+<h4>Our Inner Ape | Frans de Waal (2006)</h4>
+<blockquote class="adoromyReads">
+<img class="myReadsImg" src="../Images/BookCovers/OurInnerApe.jpeg"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a dui suscipit, dignissim quam in, egestas turpis. Praesent at sapien tellus. Fusce mollis porta cursus. Quisque libero tortor, commodo sed sollicitudin in, consequat eu sem. Ut elementum porta purus eu tincidunt. Nulla hendrerit diam sit amet lectus feugiat ultricies. Etiam placerat metus vel nunc varius eleifend. Curabitur luctus turpis id ipsum molestie rutrum quis sit amet mauris. Integer imperdiet augue in sodales maximus. Mauris pretium arcu non nunc efficitur, a viverra tellus consequat. Proin convallis sapien non tincidunt fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 </blockquote>
 {{< /rawhtml >}}
 ***
@@ -243,3 +268,23 @@ what has transpired during the evolution of these majestic beings. Thus, I am lo
 </blockquote>
 {{< /rawhtml >}}
 ***
+
+{{< rawhtml >}}
+<h4>Sapiens | Yuval Noah Harari (2015)</h4>
+<blockquote class="adoromyReads">
+<img class="myReadsImg" src="../Images/BookCovers/Sapiens.jpeg"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a dui suscipit, dignissim quam in, egestas turpis. Praesent at sapien tellus. Fusce mollis porta cursus. Quisque libero tortor, commodo sed sollicitudin in, consequat eu sem. Ut elementum porta purus eu tincidunt. Nulla hendrerit diam sit amet lectus feugiat ultricies. Etiam placerat metus vel nunc varius eleifend. Curabitur luctus turpis id ipsum molestie rutrum quis sit amet mauris. Integer imperdiet augue in sodales maximus. Mauris pretium arcu non nunc efficitur, a viverra tellus consequat. Proin convallis sapien non tincidunt fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+</blockquote>
+{{< /rawhtml >}}
+***
+
+{{< rawhtml >}}
+<h4>Homo Deus | Yuval Noah Harari (2016)</h4>
+<blockquote class="adoromyReads">
+<img class="myReadsImg" src="../Images/BookCovers/HomoDeus.jpeg"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a dui suscipit, dignissim quam in, egestas turpis. Praesent at sapien tellus. Fusce mollis porta cursus. Quisque libero tortor, commodo sed sollicitudin in, consequat eu sem. Ut elementum porta purus eu tincidunt. Nulla hendrerit diam sit amet lectus feugiat ultricies. Etiam placerat metus vel nunc varius eleifend. Curabitur luctus turpis id ipsum molestie rutrum quis sit amet mauris. Integer imperdiet augue in sodales maximus. Mauris pretium arcu non nunc efficitur, a viverra tellus consequat. Proin convallis sapien non tincidunt fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+</blockquote>
+{{< /rawhtml >}}
+***
+
+
+
+
