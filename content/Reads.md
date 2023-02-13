@@ -244,6 +244,14 @@ what has transpired during the evolution of these majestic beings. Thus, I am lo
 {{< /rawhtml >}}
 ***
 
+{{< rawhtml >}}
+<h4>The Last Days of the Dinosaurs | Riley Black (2022)</h4>
+<blockquote class="adoromyReads">
+<img class="myReadsImg" src="../Images/BookCovers/TheLastDayOfTheDinosaurs.jpeg"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a dui suscipit, dignissim quam in, egestas turpis. Praesent at sapien tellus. Fusce mollis porta cursus. Quisque libero tortor, commodo sed sollicitudin in, consequat eu sem. Ut elementum porta purus eu tincidunt. Nulla hendrerit diam sit amet lectus feugiat ultricies. Etiam placerat metus vel nunc varius eleifend. Curabitur luctus turpis id ipsum molestie rutrum quis sit amet mauris. Integer imperdiet augue in sodales maximus. Mauris pretium arcu non nunc efficitur, a viverra tellus consequat. Proin convallis sapien non tincidunt fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+</blockquote>
+{{< /rawhtml >}}
+***
+
 ### Biographies/
 
 {{< rawhtml >}}
