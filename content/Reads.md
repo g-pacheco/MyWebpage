@@ -43,6 +43,23 @@ Having said that, what I present below is a list of titles revolving round the t
 ***
 
 {{< rawhtml >}}
+<h4>Evolution | Carl Zimmer (2001)</h4>
+<blockquote class="adoromyReads">
+<img class="myReadsImg" src="../Images/BookCovers/EvolutionTriumph.jpeg"> This is the thrid book I read within this theme — a title that intends to explain <i>Evolution</i> to the general public. Although well-meant, I found that this title is not the best choice available. I think that the 2009 book <i>Why Evolution is True</i> by Jerry A. Coyne (see below) is a better work. Zimmer´s book resembles the also 2001 title <i>What Evolution Is</i> by Ernst Mayr (see below) — they are formed by a collection of facts on <i>Evolution</i> but they still fail to explain our current understanding of the natural laws governing biological change on Earth. Besides, this book contains at least a few factural errors that are quite disturbing to accept. However, I must say that a newer version is available and I am not sure if these errors were corrected. Despite all this, this title is worth reading without a doubt!
+<br></br>
+<b>Amazon Links: </b>
+<a href="https://www.amazon.com/Evolution-Triumph-Idea-Carl-Zimmer/dp/0061138401/ref=sr_1_1?crid=PN0CVGA24MPI&keywords=evolution+carl+zimmer&qid=1680957254&sprefix=evolution+carl+zimme%2Caps%2C358&sr=8-1" target="_blank"><b>USA</b></a>
+<b>~</b>
+<a href="https://www.amazon.co.uk/Evolution-Triumph-Idea-Carl-Zimmer/dp/0060199067/ref=sr_1_2?crid=209JCX5YX4HP8&keywords=evolution+carl+zimmer&qid=1680957323&sprefix=evolution+carl+zimmer%2Caps%2C246&sr=8-2" target="_blank"><b>UK</b></a>
+<b>~</b>
+<a href="https://www.amazon.com.br/Evolution-Triumph-Idea-Carl-Zimmer/dp/0061138401/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1680957362&sr=8-1" target="_blank"><b>BR</b> (Original)</a>
+</blockquote>
+
+</blockquote>
+{{< /rawhtml >}}
+***
+
+{{< rawhtml >}}
 <h4>What Evolution Is | Ernst Mayr (2001)</h4>
 <blockquote class="adoromyReads">
 <img class="myReadsImg" src="../Images/BookCovers/WhatEvolutionIs.jpg"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a dui suscipit, dignissim quam in, egestas turpis. Praesent at sapien tellus. Fusce mollis porta cursus. Quisque libero tortor, commodo sed sollicitudin in, consequat eu sem. Ut elementum porta purus eu tincidunt. Nulla hendrerit diam sit amet lectus feugiat ultricies. Etiam placerat metus vel nunc varius eleifend. Curabitur luctus turpis id ipsum molestie rutrum quis sit amet mauris. Integer imperdiet augue in sodales maximus. Mauris pretium arcu non nunc efficitur, a viverra tellus consequat. Proin convallis sapien non tincidunt fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.

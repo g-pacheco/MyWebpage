@@ -6,11 +6,12 @@ description = "News on my academic Life."
 {{< rawhtml >}}
 
 <blockquote>
-<b>08-10 Feb 2023/</b> During this week, I attended my very first conference in Norway: <a href="https://www.mn.uio.no/cees/english/research/news/events/research/other/2023/norwegian-biodiversity-genomics-conference.html" target="_blank"><i>Norwegian Biodiversity & Genomics Conference</i></a>. It was a great pleasure to network with both local and international peers working on <i>Genomics</i>. Reflecting upon everything that was discussed, I am left with the impression that the current state of the field with so many consortia and a sheer amount of data being generated is similar to that of the <a href="https://en.wikipedia.org/wiki/Hubble_Deep_Field" target="_blank">Hubble Deep Field</a> — we do not really know what this exposure will reveal, but it is still worth collectiong the data. 📊 📈 🗣️
+<b>16 Mar 2023/</b> Once again I participated in the courses on <i>Introductory Evolutionary Biology</i> taught by <a href="https://sites.google.com/view/rosemberg-menezes/home/about-me?authuser=0" target="_blank">Prof. Rosemberg Menezes</a> to the programmes in <i>Agronomy</i> & <i>Veterinary Medicine</i> at the <a href="https://www.ufpb.br/ufpb" target="_blank"><i>Federal University of Paraíba</i></a> in Brazil. After my short lecture to each class on general concepts in <i>Evolutionary Genomics</i>, we had a lively discussion on the topic of <i>Evoltuion</i> and its clear implications to these derived fields. 🏥 🌾 
 </blockquote>
 
-
-
+<blockquote>
+<b>08-10 Feb 2023/</b> During this week, I attended my very first conference in Norway: <a href="https://www.mn.uio.no/cees/english/research/news/events/research/other/2023/norwegian-biodiversity-genomics-conference.html" target="_blank"><i>Norwegian Biodiversity & Genomics Conference</i></a>. It was a great pleasure to network with both local and international peers working on <i>Genomics</i>. Reflecting upon everything that was discussed, I am left with the impression that the current state of the field with so many consortia and a sheer amount of data being generated is similar to that of the <a href="https://en.wikipedia.org/wiki/Hubble_Deep_Field" target="_blank">Hubble Deep Field</a> — we do not really know what this exposure will reveal, but it is still worth collectiong the data. 📊 📈 🗣️
+</blockquote>
 
 <blockquote>
 <b>01-02 Nov 2022/</b> After a nice 17-hour boat trip between Copenhagen and Oslo where I learnt a little bit about the <i>History</i> of alcohol, I have now officially started a new position at <a href="https://www.mn.uio.no/cees/english/" target="_blank"><i>CEES</i></a>. I really hope that I will have a great time here taking the opportunity to explore the Norwegian Nature during the months to come! 🏔️ 🥾 ⛺
