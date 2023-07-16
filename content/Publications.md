@@ -3,14 +3,8 @@ title = "Publications/"
 description = "My publication list."
 +++
 
-Hello. Could we get RAxML-NG installed as a module, please?
-https://github.com/amkozlov/raxml-ng/releases
-
-Telefon: 22 34 21 00
-E-post: post.oslo@politiet.no
-
 {{< rawhtml >}}
-<h5>Please find below an abridged version of my list of publication (please note that only the 3 first co-authors are displayed).</p>
+<h5>Please find below an abridged version of my list of publication (please note that only the 3 first co-authors are displayed).</p>s
 You can download a detailed PDF version from <a href="/MyCV/PublicationList--GeorgePacheco.pdf">here</a>.</h5>
 {{< /rawhtml >}}
 ***

@@ -155,17 +155,20 @@ Mar 2010 <b>—</b> Apr 2011 <b>|</b> <a href="https://www.ufrn.br/en" target="_
 
 ### Selected Scientific Expedictions/
 
-#### Logistics Activities on the REBIO Atol das Rocas Conservation Unit
-Nov 2008 <b>|</b> Rio Grande do Norte State • Brazil
-
-#### Collection of Avian Samples <b>|</b> On behalf of the 10KBird Project
-Feb 2016 <b>|</b> Rukanga Region • Kenya
+#### Sparrow Group 2023 Field Season
+May-Jun 2023 <b>|</b> Chokpak Station • Kazakhstan
 
 #### Collection of Avian Zooarchaeological Samples
 Feb 2016 <b>|</b> Negev Desert • Israel
 
+#### Collection of Avian Samples <b>|</b> On behalf of the 10KBird Project
+Feb 2016 <b>|</b> Rukanga Region • Kenya
+
 #### Collection of Avian Samples
 Nov 2015 <b>|</b> Tórshavn Region • Faroe Islands
+
+#### Logistics Activities on the REBIO Atol das Rocas Conservation Unit
+Nov 2008 <b>|</b> Rio Grande do Norte State • Brazil
 ***
 
 ### Academic Societies/ 
