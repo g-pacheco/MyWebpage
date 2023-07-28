@@ -173,9 +173,17 @@ Nov 2008 <b>|</b> Rio Grande do Norte State • Brazil
 
 ### Academic Societies/ 
 
+#### Sociedade Brasileira de Ornitologia  
+{{< rawhtml >}}
+Jul 2023 <b>—</b> Present<p>
+<a href="https://ararajuba.org.br/" target="_blank">WEB</a>
+<b>~</b>
+<a href="https://twitter.com/SocBrOrnito" target="_blank">TWITTER</a>
+{{< /rawhtml >}}
+
 #### European Society for Evolutionary Biology  
 {{< rawhtml >}}
-April 2022 <b>—</b> Present<p>
+Apr 2022 <b>—</b> Present<p>
 <a href="https://eseb.org/" target="_blank">WEB</a>
 <b>~</b>
 <a href="https://twitter.com/eseb_org" target="_blank">TWITTER</a>
