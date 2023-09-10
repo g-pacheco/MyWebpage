@@ -4,8 +4,7 @@ description = "My publication list."
 +++
 
 {{< rawhtml >}}
-<h5>Please find below an abridged version of my list of publication (please note that only the 3 first co-authors are displayed).</p>s
-You can download a detailed PDF version from <a href="/MyCV/PublicationList--GeorgePacheco.pdf">here</a>.</h5>
+<h5>Please find below an abridged version of my list of publication (please note that only the 3 first co-authors are displayed).</p> You can download a detailed PDF version from <a href="/MyCV/PublicationList--GeorgePacheco.pdf">here</a>.</h5>
 {{< /rawhtml >}}
 ***
 
