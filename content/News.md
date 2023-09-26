@@ -6,6 +6,10 @@ description = "News on my academic Life."
 {{< rawhtml >}}
 
 <blockquote>
+<b>26 Sep 2023/</b> I am happy to say that my last collaboration with <a id=articles href="https://scholar.google.com/citations?user=PBnqVkoAAAAJ&hl=en" target="_blank">Mikkel Skovrind</a> is finally out in <a id=articles href="https://www.sciencedirect.com/journal/fisheries-research" target="_blank"><i>Fisheries Research</i></a>. This goes way back, has to do with Perch in the Baltic Sea & you can read it <a href="https://doi.org/10.1016/j.fishres.2023.106846" target="_blank">here</a>. 🐟 🌊 🎣
+</blockquote>
+
+<blockquote>
 <b>28 Jul 2023/</b> I am glad to announce that I just affiliated myself to the <a href="https://ararajuba.org.br/" target="_blank"><i>Sociedade Brasileira de Ornitologia</i></a> 🐧 🦜 🐦. After being outside Brazil for so many years, I do want now to start expanding my network there. Thus, this affiliation is also in preparation for my participation in the <a href="https://www.cbz2024.com.br/" target="_blank"><i>XXXV Brazilian Congress on Zoology</i></a> that will be held in the beautiful <a href="https://en.wikipedia.org/wiki/Porto_de_Galinhas" target="_blank">Porto de Galinhas</a> by the end of February next year. I am looking forward to finding myself discussing <i>Avian Biology</i> with Brazilian scholars in the vicinity of my hometown! 🌞 🌊 🏖️
 </blockquote>
 

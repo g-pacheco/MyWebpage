@@ -30,11 +30,16 @@ Lobo, Silva, Morales et al. Under revision by <a id=articles href="https://acade
 
 #### 2023/
 
-* **Uncovering neutral and adaptive genomic differentiation among European perch with brackish water and freshwater origin in the western Baltic Sea region.**  
+* **Uncovering Neutral and Adaptive Genomic Differentiation Among European Perch with Brackish Water and Freshwater Origin in the Western Baltic Sea Region.**  
 {{< rawhtml >}}
 <div>
-Skovrind, <p id=cellphone><b>Pacheco</b></p>, Christensen et al. In Press. <a id=articles href="https://www.sciencedirect.com/journal/fisheries-research" target="_blank"><i>Fisheries Research</i></a>.
-</div>  
+Skovrind, <p id=cellphone><b>Pacheco</b></p>, Christensen et al. <a id=articles href="https://www.sciencedirect.com/journal/fisheries-research" target="_blank"><i>Fisheries Research</i></a>.
+</div>
+<a href="https://doi.org/10.1016/j.fishres.2023.106846" target="_blank">DOI</a>
+<b>~</b>
+<a href="/MyArticles/perchFisheries.pdf">PDF</a>
+<b>~</b>
+<a href="https://github.com/g-pacheco/PerchGenomics" target="_blank">CODE</a>
 {{< /rawhtml >}}
 ***
 
