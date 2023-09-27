@@ -6,7 +6,7 @@ description = "News on my academic Life."
 {{< rawhtml >}}
 
 <blockquote>
-<b>26 Sep 2023/</b> I am happy to say that my last collaboration with <a id=articles href="https://scholar.google.com/citations?user=PBnqVkoAAAAJ&hl=en" target="_blank">Mikkel Skovrind</a> is finally out in <a id=articles href="https://www.sciencedirect.com/journal/fisheries-research" target="_blank"><i>Fisheries Research</i></a>. This goes way back, has to do with Perch in the Baltic Sea & you can read it <a href="https://doi.org/10.1016/j.fishres.2023.106846" target="_blank">here</a>. 🐟 🌊 🎣
+<b>26 Sep 2023/</b> I am happy to say that my last collaboration with <a href="https://scholar.google.com/citations?user=PBnqVkoAAAAJ&hl=en" target="_blank">Mikkel Skovrind</a> is finally out in <a href="https://www.sciencedirect.com/journal/fisheries-research" target="_blank"><i>Fisheries Research</i></a>. This goes way back, has to do with Perch in the Baltic Sea & you can read it <a href="https://doi.org/10.1016/j.fishres.2023.106846" target="_blank">here</a>. 🐟 🌊 🎣
 </blockquote>
 
 <blockquote>
