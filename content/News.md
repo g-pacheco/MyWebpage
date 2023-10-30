@@ -6,6 +6,10 @@ description = "News on my academic Life."
 {{< rawhtml >}}
 
 <blockquote>
+<b>11 Oct 2023/</b> I gave a small presentation at the <a href="https://www.mn.uio.no/cees/english/research/news/events/research/other/2023/cees-student-conference-2023.html" target="_blank"><i>The Annual CEES Student Conference 2023</i></a> about the progress of my post-doc at <a href="https://www.mn.uio.no/cees/english/" target="_blank"><i>CEES</i></a>. I presented very incipient results but I will sure that I will have much more to say during the conference to be held next year — so stay tuned! 💬 📊 🐦
+</blockquote>
+
+<blockquote>
 <b>26 Sep 2023/</b> I am happy to say that my last collaboration with <a href="https://scholar.google.com/citations?user=PBnqVkoAAAAJ&hl=en" target="_blank">Mikkel Skovrind</a> is finally out in <a href="https://www.sciencedirect.com/journal/fisheries-research" target="_blank"><i>Fisheries Research</i></a>. This goes way back, has to do with Perch in the Baltic Sea & you can read it <a href="https://doi.org/10.1016/j.fishres.2023.106846" target="_blank">here</a>. 🐟 🌊 🎣
 </blockquote>
 

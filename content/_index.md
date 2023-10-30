@@ -10,7 +10,7 @@ author = "George Pacheco"
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<img class=divProfileImg src="../Images/ProfileImage.jpg" alt="My profile image" style="height:20rem">
+<img class=divProfileImg src="../Images/Profile_KAZ.jpeg" alt="My profile image" style="height:20rem">
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
