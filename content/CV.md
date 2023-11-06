@@ -80,6 +80,12 @@ Aug 2006 <b>—</b> Jul 2011 <b>|</b> <a href="https://www.ufrn.br/en" target="_
 
 ### Grants/
 
+#### SMBE Interdisciplinary & Regional Meetings Grant
+{{< rawhtml >}}
+<p id="ongoing"><b></b><i>Together with five other Brazilian colleagues.</i></p>
+05 Nov 2023 <b>|</b> <a href="https://www.smbe.org/smbe" target="_blank"><i>SMBE</i></a> • USA
+{{< /rawhtml >}}
+
 #### EMBO Short-Term Fellowship    
 {{< rawhtml >}}
 23 Sep <b>—</b> 22 Dec 2019 <b>|</b> <a href="https://www.embo.org" target="_blank"><i>EMBO</i></a> • Germany

@@ -6,6 +6,10 @@ description = "News on my academic Life."
 {{< rawhtml >}}
 
 <blockquote>
+<b>05 Nov 2023/</b> I am very happy to communicate that I was awarded the <i>SMBE Interdisciplinary & Regional Meetings Grant</i> together with five other Brazilian colleagues. This grant will not only help us to create the <i>Brazilian Society for Evolutionary Biology</i>, but also hold an inaugural congress where the newly created society will be made known. More about it soon!     
+</blockquote>
+
+<blockquote>
 <b>11 Oct 2023/</b> I gave a small presentation at the <a href="https://www.mn.uio.no/cees/english/research/news/events/research/other/2023/cees-student-conference-2023.html" target="_blank"><i>The Annual CEES Student Conference 2023</i></a> about the progress of my post-doc at <a href="https://www.mn.uio.no/cees/english/" target="_blank"><i>CEES</i></a>. I presented very incipient results but I will sure that I will have much more to say during the conference to be held next year — so stay tuned! 💬 📊 🐦
 </blockquote>
 
