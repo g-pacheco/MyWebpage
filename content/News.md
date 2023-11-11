@@ -6,6 +6,10 @@ description = "News on my academic Life."
 {{< rawhtml >}}
 
 <blockquote>
+<b>11 Nov 2023/</b> I am pleased to inform that <a href="https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msad243/7405376" target="_blank">one more article</a> coming out from my time in Copenhagen is now published in <a href="https://academic.oup.com/mbe" target="_blank"><i>Molecular Biology and Evolution</i></a>. I had the initial idea for this project and collected its preliminary data. Then, it was transferred to <a href="https://scholar.google.com/citations?user=K_bW-dMAAAAJ&hl=en" target="_blank">Germán Hernández-Alonso</a>, who lead and greatly expanded this project as part of his PhD.
+</blockquote>
+
+<blockquote>
 <b>05 Nov 2023/</b> I am very happy to communicate that I was awarded the <i>SMBE Interdisciplinary & Regional Meetings Grant</i> together with five other Brazilian colleagues. This grant will not only help us to create the <i>Brazilian Society for Evolutionary Biology</i>, but also hold an inaugural congress where the newly created society will be made known. More about it soon!     
 </blockquote>
 
