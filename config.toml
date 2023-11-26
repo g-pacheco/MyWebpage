@@ -33,13 +33,6 @@ type = "far"
 url = "https://www.google.com/maps/place/Kristine+Bonnevies+hus/@59.9380751,10.7224508,17z/data=!4m13!1m7!3m6!1s0x46416de767a63a63:0x4df685f0b22d4fcb!2sBlindernveien+31,+0371+Oslo!3b1!8m2!3d59.9380724!4d10.7246395!3m4!1s0x46416de751f5a9b5:0xd2a3806479c4436c!8m2!3d59.9383743!4d10.7219023"
 
 [[params.icons]]
-name = "Email"
-prefix = "fa"
-icon = "envelope"
-type = "far"
-url = "mailto:george.pacheco@ibv.uio.no"
-
-[[params.icons]]
 name = "ORCID"
 prefix = "ai"
 icon = "orcid-square"
@@ -54,6 +47,13 @@ type = "ai"
 url = "https://scholar.google.dk/citations?user=FSCWyqAAAAAJ&hl=en"
 
 [[params.icons]]
+name = "Lattes"
+prefix = "ai"
+icon = "lattes-square"
+type = "ai"
+url = "http://lattes.cnpq.br/8779597063731617"
+
+[[params.icons]]
 name = "GitHub"
 prefix = "fa"
 icon = "github"
@@ -63,7 +63,7 @@ url = "https://github.com/g-pacheco"
 [[params.icons]]
 name = "Twitter"
 prefix = "fa"
-icon = "twitter"
+icon = "twitter-square"
 type = "fab"
 url = "https://twitter.com/Pacheco_Evo"
 
@@ -80,6 +80,13 @@ prefix = "fa"
 icon = "youtube"
 type = "fa"
 url = "https://www.youtube.com/channel/UCcjP3uH7VFk4n_lIc4bgxbQ"
+
+[[params.icons]]
+name = "Email"
+prefix = "fa"
+icon = "envelope"
+type = "far"
+url = "mailto:george.pacheco@ibv.uio.no"
 
 # Main menu Items
 
