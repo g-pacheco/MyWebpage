@@ -80,6 +80,12 @@ Aug 2006 <b>—</b> Jul 2011 <b>|</b> <a href="https://www.ufrn.br/en" target="_
 
 ### Grants/
 
+#### UiO:Life Science Internationalisation Support
+{{< rawhtml >}}
+<p id="ongoing"><b>31.100 NOK</b> (~ $2,983 / ~ €2,733)</p>
+18 Dec 2023 <b>|</b><a href="https://www.uio.no/english/research/strategic-research-areas/life-science/news-and-events/calls/internationalization-support_12.html" target="_blank"><i>University of Oslo</i></a> • Norway
+{{< /rawhtml >}}
+
 #### SMBE Interdisciplinary & Regional Meetings Grant
 {{< rawhtml >}}
 <p id="ongoing"><b></b><i>Together with five other Brazilian colleagues.</i></p>

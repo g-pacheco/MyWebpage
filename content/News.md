@@ -6,6 +6,10 @@ description = "News on my academic Life."
 {{< rawhtml >}}
 
 <blockquote>
+<b>18 Dec 2023/</b> I got the great news today that I was awarded the <a href="https://www.uio.no/english/research/strategic-research-areas/life-science/news-and-events/calls/internationalization-support_12.html" target="_blank">UiO:Life Science Internationalisation Support</a> to help me with my fieldwork to collect tree sparrows & visit the lab of <a href="http://ecogen.sakura.ne.jp/index-e.html" target="_blank">Prof. Kitano</a> in Japan next year. I am really looking forward to this field season and to all new collabarations I will be involved with. 🇯🇵 🌸 🇳🇴
+</blockquote>
+
+<blockquote>
 <b>11 Nov 2023/</b> I am pleased to inform that <a href="https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msad243/7405376" target="_blank">one more article</a> coming out from my time in Copenhagen is now published in <a href="https://academic.oup.com/mbe" target="_blank"><i>Molecular Biology and Evolution</i></a>. I had the initial idea for this project and collected its preliminary data. Then, it was transferred to <a href="https://scholar.google.com/citations?user=K_bW-dMAAAAJ&hl=en" target="_blank">Germán Hernández-Alonso</a>, who lead and greatly expanded this project as part of his PhD.
 </blockquote>
 
