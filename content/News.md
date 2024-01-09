@@ -6,6 +6,10 @@ description = "News on my academic Life."
 {{< rawhtml >}}
 
 <blockquote>
+<b>09 Jan 2024/</b> First post of 2024! I am happy to share that I will be a lecturer in the <a href="https://site.nord.no/landscapegenomics/2023/11/23/population-genomicsnord-2024/" target="_blank">2024 PhD Course in Population Genomics</a> at the <a href="https://www.nord.no/en" target="_blank"><i>Nord University</i></a> in the beautiful region of <a href="https://en.wikipedia.org/wiki/Bod%C3%B8" target="_blank">Bodø</a>. I am sure this will be a great opportunity for me to spread the knowledge I have acquired within the field of <i>Evolutionary Genomics</i>. 💬 🧊 🌌
+</blockquote>
+
+<blockquote>
 <b>18 Dec 2023/</b> I got the great news today that I was awarded the <a href="https://www.uio.no/english/research/strategic-research-areas/life-science/news-and-events/calls/internationalization-support_12.html" target="_blank">UiO:Life Science Internationalisation Support</a> to help me with my fieldwork to collect tree sparrows & visit the lab of <a href="http://ecogen.sakura.ne.jp/index-e.html" target="_blank">Prof. Kitano</a> in Japan next year. I am really looking forward to this field season and to all new collabarations I will be involved with. 🇯🇵 🌸 🇳🇴
 </blockquote>
 
