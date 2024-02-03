@@ -6,6 +6,10 @@ description = "News on my academic Life."
 {{< rawhtml >}}
 
 <blockquote>
+<b>03 Feb 2024/</b> I am very glad to be going to Brazil tomorrow for some holidays! During my <b>40 days</b> in the South — beside a well-deserved time with my family & friends — I will be participating in the <a href="https://www.cbz2024.com.br/" target="_blank"><i>XXXV Brazilian Congress on Zoology</i></a>. I am looking forward to taking advantage of this opportunity to expand my Brazilian <i>Evolutionary Biology</i> network. Finally, during my time there I will be working on the advancement of the procedures for the establishment of the <i>Brazilian Society for Evolutionary Biology</i>. 🍹 🐚 ☀️
+</blockquote>
+
+<blockquote>
 <b>09 Jan 2024/</b> First post of 2024! I am happy to share that I will be a lecturer in the <a href="https://site.nord.no/landscapegenomics/2023/11/23/population-genomicsnord-2024/" target="_blank">2024 PhD Course in Population Genomics</a> at the <a href="https://www.nord.no/en" target="_blank"><i>Nord University</i></a> in the beautiful region of <a href="https://en.wikipedia.org/wiki/Bod%C3%B8" target="_blank">Bodø</a>. I am sure this will be a great opportunity for me to spread the knowledge I have acquired within the field of <i>Evolutionary Genomics</i>. 💬 🧊 🌌
 </blockquote>
 

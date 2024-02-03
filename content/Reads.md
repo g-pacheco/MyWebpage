@@ -304,6 +304,14 @@ what has transpired during the evolution of these majestic beings. Thus, I am lo
 ***
 
 {{< rawhtml >}}
+<h4>Darwin | Adrian Desmond & James Moore (1991)</h4>
+<blockquote class="adoromyReads">
+<img class="myReadsImg" src="../Images/BookCovers/DarwinDesmondMoore.jpg"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a dui suscipit, dignissim quam in, egestas turpis. Praesent at sapien tellus. Fusce mollis porta cursus. Quisque libero tortor, commodo sed sollicitudin in, consequat eu sem. Ut elementum porta purus eu tincidunt. Nulla hendrerit diam sit amet lectus feugiat ultricies. Etiam placerat metus vel nunc varius eleifend. Curabitur luctus turpis id ipsum molestie rutrum quis sit amet mauris. Integer imperdiet augue in sodales maximus. Mauris pretium arcu non nunc efficitur, a viverra tellus consequat. Proin convallis sapien non tincidunt fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+</blockquote>
+{{< /rawhtml >}}
+***
+
+{{< rawhtml >}}
 <h4>The Invention of Nature | Andrea Wulf (2015)</h4>
 <blockquote class="adoromyReads">
 <img class="myReadsImg" src="../Images/BookCovers/TheInventionOfNature.jpg"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a dui suscipit, dignissim quam in, egestas turpis. Praesent at sapien tellus. Fusce mollis porta cursus. Quisque libero tortor, commodo sed sollicitudin in, consequat eu sem. Ut elementum porta purus eu tincidunt. Nulla hendrerit diam sit amet lectus feugiat ultricies. Etiam placerat metus vel nunc varius eleifend. Curabitur luctus turpis id ipsum molestie rutrum quis sit amet mauris. Integer imperdiet augue in sodales maximus. Mauris pretium arcu non nunc efficitur, a viverra tellus consequat. Proin convallis sapien non tincidunt fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -354,6 +362,14 @@ what has transpired during the evolution of these majestic beings. Thus, I am lo
 ***
 
 {{< rawhtml >}}
+<h4>The Future of the Brain | Edited by Gary Marcus & Jeremy Freeman (2014)</h4>
+<blockquote class="adoromyReads">
+<img class="myReadsImg" src="../Images/BookCovers/FutureOfBrain.jpg"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a dui suscipit, dignissim quam in, egestas turpis. Praesent at sapien tellus. Fusce mollis porta cursus. Quisque libero tortor, commodo sed sollicitudin in, consequat eu sem. Ut elementum porta purus eu tincidunt. Nulla hendrerit diam sit amet lectus feugiat ultricies. Etiam placerat metus vel nunc varius eleifend. Curabitur luctus turpis id ipsum molestie rutrum quis sit amet mauris. Integer imperdiet augue in sodales maximus. Mauris pretium arcu non nunc efficitur, a viverra tellus consequat. Proin convallis sapien non tincidunt fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+</blockquote>
+{{< /rawhtml >}}
+***
+
+{{< rawhtml >}}
 <h4>Sapiens | Yuval Noah Harari (2015)</h4>
 <blockquote class="adoromyReads">
 <img class="myReadsImg" src="../Images/BookCovers/Sapiens.jpeg"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a dui suscipit, dignissim quam in, egestas turpis. Praesent at sapien tellus. Fusce mollis porta cursus. Quisque libero tortor, commodo sed sollicitudin in, consequat eu sem. Ut elementum porta purus eu tincidunt. Nulla hendrerit diam sit amet lectus feugiat ultricies. Etiam placerat metus vel nunc varius eleifend. Curabitur luctus turpis id ipsum molestie rutrum quis sit amet mauris. Integer imperdiet augue in sodales maximus. Mauris pretium arcu non nunc efficitur, a viverra tellus consequat. Proin convallis sapien non tincidunt fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -368,7 +384,3 @@ what has transpired during the evolution of these majestic beings. Thus, I am lo
 </blockquote>
 {{< /rawhtml >}}
 ***
-
-
-
-
