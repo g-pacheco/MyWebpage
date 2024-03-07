@@ -21,7 +21,7 @@ description = "My publication list."
 * **Dog Introgression Drives Wolf Adaptation to Human-dominated Landscapes.**  
 {{< rawhtml >}}
 <div>
-Lobo, Silva, Morales et al. Under revision by <a id=articles href="https://academic.oup.com/mbe" target="_blank"><i>Molecular Biology and Evolution</i></a>.
+Lobo, Silva, Morales et al. To be submitted to <a id=articles href="https://genome.cshlp.org/" target="_blank"><i>Genome Research</i></a>.
 </div>  
 {{< /rawhtml >}}
 ***
