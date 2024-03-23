@@ -6,6 +6,14 @@ description = "News on my academic Life."
 {{< rawhtml >}}
 
 <blockquote>
+<b>23 Mar 2024/</b> After my well-deserved time in Brazil visiting family & attending a national conference, I am finally back to Norway. I returned already going to Bodø to serve as a lecturer in the <a href="https://site.nord.no/landscapegenomics/2023/11/23/population-genomicsnord-2024/" target="_blank">2024 PhD Course in Population Genomics</a> at the <a href="https://www.nord.no/en" target="_blank"><i>Nord University</i></a> but I am now back to Oslo and looking forward to resuming my postdoctoral activities.
+</blockquote>
+
+<blockquote>
+<b>19 Mar 2024/</b> Together with two other young researchers, it is great that I was awared a <a href="https://www.nig.ac.jp/nig/research-infrastructure-collaboration/nig-collaboration-grant" target="_blank">NIG-JOINT (A) grant</a>. The value of this small grant is 150.000 Yen (~ 10.700 NOK), and it will help facilitating our upcoming sparrow sampling in Japan during May — June later this year. 🇯🇵 🌸 🐦
+</blockquote>
+
+<blockquote>
 <b>03 Feb 2024/</b> I am very glad to be going to Brazil tomorrow for some holidays! During my <b>40 days</b> in the South — beside a well-deserved time with my family & friends — I will be participating in the <a href="https://www.cbz2024.com.br/" target="_blank"><i>XXXV Brazilian Congress on Zoology</i></a>. I am looking forward to taking advantage of this opportunity to expand my Brazilian <i>Evolutionary Biology</i> network. Finally, during my time there I will be working on the advancement of the procedures for the establishment of the <i>Brazilian Society for Evolutionary Biology</i>. 🍹 🐚 ☀️
 </blockquote>
 

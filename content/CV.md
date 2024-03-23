@@ -80,6 +80,13 @@ Aug 2006 <b>—</b> Jul 2011 <b>|</b> <a href="https://www.ufrn.br/en" target="_
 
 ### Grants/
 
+#### NIG-JOINT (A) Grant
+{{< rawhtml >}}
+<p id="ongoing"><b></b><i>Together with two other young researchers colleagues.</i></p>
+<p id="ongoing"><b>150.000 Yen</b> (~ $990 / ~ €916)</p>
+19 Mar 2024 <b>|</b><a href="https://www.nig.ac.jp/nig/" target="_blank"><i>National Institute of Genetics</i></a> • Japan
+{{< /rawhtml >}}
+
 #### UiO:Life Science Internationalisation Support
 {{< rawhtml >}}
 <p id="ongoing"><b>31.100 NOK</b> (~ $2,983 / ~ €2,733)</p>
