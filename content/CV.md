@@ -157,6 +157,14 @@ Aug 2007 <b>—</b> Aug 2008 <b>|</b> <a href="https://www.ufrn.br/en" target="_
 
 ### Teaching Experience/
 
+#### Population Genomics @ Nord 2024
+{{< rawhtml >}}
+<a href="https://site.nord.no/landscapegenomics/2023/11/23/population-genomicsnord-2024/" target="_blank"><p id="ongoing"><b></b>Programme</p></a>
+18 - 22 Mar 2024 <b>|</b> <a href="https://www.nord.no/en" target="_blank"><i>Nord University</i></a></p>
+<b>Position:</b> Lecturer & Teaching Assistant</p>
+<b>Coordinator:</b> <a href="https://site.nord.no/landscapegenomics/team/joost-raeymaekers/" target="_blank">Joost Raeymaekers</a></p>
+{{< /rawhtml >}}
+
 #### Supervision of Several Users of the Molecular Labs
 {{< rawhtml >}}
 Feb 2014 <b>—</b> July 2018 <b>|</b> <a href="https://www.ku.dk/english" target="_blank"><i>University of Copenhagen</i></a></p>
