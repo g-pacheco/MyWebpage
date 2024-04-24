@@ -18,10 +18,17 @@ description = "My publication list."
 
 ### Submitted/
 
+* **Understanding Human-Commensalism Through an Ecological and Evolutionary Framework.**
+{{< rawhtml >}}
+<div>
+Fawthrop, Cerca, <p id=cellphone><b>Pacheco</b></p> et al. Submitted to <a id=articles href="https://www.cell.com/trends/ecology-evolution/home" target="_blank"><i>Trends in Ecology & Evolution</i></a>.
+</div>  
+{{< /rawhtml >}}
+
 * **Dog Introgression Drives Wolf Adaptation to Human-dominated Landscapes.**  
 {{< rawhtml >}}
 <div>
-Lobo, Silva, Morales et al. To be submitted to <a id=articles href="https://genome.cshlp.org/" target="_blank"><i>Genome Research</i></a>.
+Lobo, Silva, Morales et al. Submitted to <a id=articles href="https://genome.cshlp.org/" target="_blank"><i>Genome Research</i></a>.
 </div>  
 {{< /rawhtml >}}
 ***
