@@ -19,7 +19,7 @@ CEES / Blindernveien 31, 0371 Oslo • Norway</p>
 
 {{< rawhtml >}}
 <blockquote>
-Initially trained in <i>Biology</i> in the Brazilian Northeast, I have worked on several projects in the vein of animal evolutionary genomics investigating a diverse range of taxa <b>—</b> from tiny Collembolans to culturally evolving killer whales, which has given me a vast experience in the molecular lab and a fair understanding of the rationale behind bioinformatic analyses. During my scientific career, I have developed a profound interest in the genomic and epigenomic architecture of cognitive traits. Ultimately, I have a sound interest in the molecular mechanisms implicated in the emergence and maintenance of traits of medical relevance.
+Initially trained in <i>Biology</i> in the Brazilian Northeast, I have worked on several projects in the vein of animal evolutionary genomics investigating a diverse range of taxa <b>—</b> from tiny Collembolans to culturally evolving killer whales, which has given me a vast experience in the molecular lab and a fair understanding of the rationale behind bioinformatic analyses. During my scientific career, I have developed a profound interest in the genomic architecture controling the emergence and maintenance of cognitive traits, specially those implicated in spatial memory.
 </blockquote>
 {{< /rawhtml >}}
 ***
@@ -125,36 +125,6 @@ Feb 2009 <b>—</b> Jul 2011 <b>|</b> <a href="https://www.gov.br/cnpq/pt-br" ta
 {{< /rawhtml >}} 
 ***
 
-### Extra Lab Experience/
-
-#### Lab Assistant  
-{{< rawhtml >}}
-Aug 2013 <b>—</b> May 2014 <b>|</b> <a href="https://www.ku.dk/english" target="_blank"><i>University of Copenhagen</i></a></p>
-<b>Employer:</b> <a href="https://globe.ku.dk/staff-list/?pure=en/persons/295003" target="_blank">Prof. Tom Gilbert</a></p>
-<b>Location:</b> <a href="https://globe.ku.dk/research/evogenomics" target="_blank"><i>Section for Evolutionary Genomics</i></a> <b>~</b> <a href="https://snm.ku.dk/english/" target="_blank"><i>Natural History Museum of Denmark</i></a>
-{{< /rawhtml >}}
-
-
-#### Lab Intern  
-{{< rawhtml >}}
-Aug 2007 <b>—</b> Aug 2008 <b>|</b> <a href="https://www.ufrn.br/en" target="_blank"><i>Federal University of Rio Grande do Norte</i></a></p>
-<b>Advisor:</b> <a href="https://scholar.google.dk/citations?user=VTK_NLAAAAAJ&hl=en" target="_blank"> Prof. Lucymara Fassarella Agnez-Lima</a></p>
-<b>Location:</b> Laboratory of Molecular Biology and Genomics
-{{< /rawhtml >}}
-***
-
-### Research Visits/
-{{< rawhtml >}}
-<h5><a href="https://cibio.up.pt/people/details/mcarneir/student-supervisions/concluded?t=1" target="_blank"><b>Carneiro Lab</b></a></h5>
-23 Sep <b>—</b> 22 Dec 2019 <b>|</b> <a href="https://cibio.up.pt/" target="_blank"><i>CIBIO</i></a> <b>~</b> <a href="https://sigarra.up.pt/up/en/WEB_BASE.GERA_PAGINA?p_pagina=home" target="_blank"><i>University of Porto</i></a>
-{{< /rawhtml >}}
-
-{{< rawhtml >}}
-<h5><a href="https://shapiro.biology.utah.edu/Shapiro_Lab/Index.html" target="_blank"><b>Shapiro Lab</b></a></h5>
-20 Apr <b>—</b> 19 May 2015 <b>|</b> <a href="https://www.biology.utah.edu/" target="_blank"><i>School of Biological Sciences</i></a> <b>~</b> <a href="https://www.utah.edu/" target="_blank"><i>The University of Utah</i></a>
-{{< /rawhtml >}}
-***
-
 ### Teaching Experience/
 
 #### Population Genomics @ Nord 2024
@@ -177,6 +147,41 @@ Feb 2014 <b>—</b> July 2018 <b>|</b> <a href="https://www.ku.dk/english" targe
 Mar 2010 <b>—</b> Apr 2011 <b>|</b> <a href="https://www.ufrn.br/en" target="_blank"><i>Federal University of Rio Grande do Norte</i></a></p>
 <b>Advisor:</b> Prof. Ricardo Andreazze</p>
 <b>Location:</b> Laboratory of Entomology
+{{< /rawhtml >}}
+***
+
+### Research Visits/
+{{< rawhtml >}}
+<h4><a href="https://ecogen.sakura.ne.jp/index-e.html" target="_blank"><b>Kitano Lab</b></a></h4>
+08 May <b>—</b> 04 Jun 2024 <b>|</b> <a href="https://www.nig.ac.jp/nig/" target="_blank"><i>National Institute of Genetics</i></a> • Japan
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<h4><a href="https://cibio.up.pt/people/details/mcarneir/student-supervisions/concluded?t=1" target="_blank"><b>Carneiro Lab</b></a></h4>
+23 Sep <b>—</b> 22 Dec 2019 <b>|</b> <a href="https://cibio.up.pt/" target="_blank"><i>CIBIO</i></a> <b>~</b> <a href="https://sigarra.up.pt/up/en/WEB_BASE.GERA_PAGINA?p_pagina=home" target="_blank"><i>University of Porto</i></a> • Portugal
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<h4><a href="https://shapiro.biology.utah.edu/Shapiro_Lab/Index.html" target="_blank"><b>Shapiro Lab</b></a></h4>
+20 Apr <b>—</b> 19 May 2015 <b>|</b> <a href="https://www.biology.utah.edu/" target="_blank"><i>School of Biological Sciences</i></a> <b>~</b> <a href="https://www.utah.edu/" target="_blank"><i>The University of Utah</i></a> • USA
+{{< /rawhtml >}}
+***
+
+### Extra Lab Experience/
+
+#### Lab Assistant  
+{{< rawhtml >}}
+Aug 2013 <b>—</b> May 2014 <b>|</b> <a href="https://www.ku.dk/english" target="_blank"><i>University of Copenhagen</i></a></p>
+<b>Employer:</b> <a href="https://globe.ku.dk/staff-list/?pure=en/persons/295003" target="_blank">Prof. Tom Gilbert</a></p>
+<b>Location:</b> <a href="https://globe.ku.dk/research/evogenomics" target="_blank"><i>Section for Evolutionary Genomics</i></a> <b>~</b> <a href="https://snm.ku.dk/english/" target="_blank"><i>Natural History Museum of Denmark</i></a>
+{{< /rawhtml >}}
+
+
+#### Lab Intern  
+{{< rawhtml >}}
+Aug 2007 <b>—</b> Aug 2008 <b>|</b> <a href="https://www.ufrn.br/en" target="_blank"><i>Federal University of Rio Grande do Norte</i></a></p>
+<b>Advisor:</b> <a href="https://scholar.google.dk/citations?user=VTK_NLAAAAAJ&hl=en" target="_blank"> Prof. Lucymara Fassarella Agnez-Lima</a></p>
+<b>Location:</b> Laboratory of Molecular Biology and Genomics
 {{< /rawhtml >}}
 ***
 
