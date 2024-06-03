@@ -82,7 +82,7 @@ Aug 2006 <b>—</b> Jul 2011 <b>|</b> <a href="https://www.ufrn.br/en" target="_
 
 #### NIG-JOINT (A) Grant
 {{< rawhtml >}}
-<p id="ongoing"><b></b><i>Together with two other young researchers colleagues.</i></p>
+<p id="ongoing"><b></b><i>Together with two other young researcher colleagues.</i></p>
 <p id="ongoing"><b>150.000 Yen</b> (~ $990 / ~ €916)</p>
 19 Mar 2024 <b>|</b><a href="https://www.nig.ac.jp/nig/" target="_blank"><i>National Institute of Genetics</i></a> • Japan
 {{< /rawhtml >}}
@@ -186,6 +186,9 @@ Aug 2007 <b>—</b> Aug 2008 <b>|</b> <a href="https://www.ufrn.br/en" target="_
 ***
 
 ### Selected Scientific Expedictions/
+
+#### Sparrow Group 2024 Field Season
+May-Jun 2024 <b>|</b> Mishima • Japan
 
 #### Sparrow Group 2023 Field Season
 May-Jun 2023 <b>|</b> Chokpak Station • Kazakhstan
