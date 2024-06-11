@@ -14,6 +14,13 @@ description = "My publication list."
 {{< rawhtml >}}
 <p id=cellphone><b>Pacheco</b></p>, Vieira, Martin et al.
 {{< /rawhtml >}}
+
+* **Genome-wide Population Structure in a Marine Keystone Species, the European Flat Oyster (_Ostrea edulis_).**  
+{{< rawhtml >}}
+<div>
+Monteiro, Bekkevold, <p id=cellphone><b>Pacheco</b></p> et al.
+</div>
+{{< /rawhtml >}}
 ***
 
 ### Submitted/

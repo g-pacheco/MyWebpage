@@ -5,7 +5,7 @@ author = "George Pacheco"
 
 {{< rawhtml >}}
 <article>
-    <h1 class="title">Á na márië.</h1>
+    <h1 class="title">Saravá!</h1>
 </article>
 {{< /rawhtml >}}
 
