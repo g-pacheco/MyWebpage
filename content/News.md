@@ -4,6 +4,9 @@ description = "News on my academic Life."
 +++
 
 {{< rawhtml >}}
+<blockquote>
+<b>08 Jul 2024/</b> I am back to Oslo to enjoy the Scandinavian summer! I really enjoyed my time visiting the lab of <a href="http://ecogen.sakura.ne.jp/index-e.html" target="_blank">Prof. Kitano</a> at <a href="https://www.nig.ac.jp/nig/" target="_blank">NIG</a>, sampling & touristing in Japan, but I am also happy to be back to Norway! 🇳🇴 🌡️ 🏖️
+</blockquote>
 
 <blockquote>
 <b>23 Mar 2024/</b> After my well-deserved time in Brazil visiting family & attending a national conference, I am finally back to Norway. I returned already going to Bodø to serve as a lecturer in the <a href="https://site.nord.no/landscapegenomics/2023/11/23/population-genomicsnord-2024/" target="_blank">2024 PhD Course in Population Genomics</a> at the <a href="https://www.nord.no/en" target="_blank"><i>Nord University</i></a> but I am now back to Oslo and looking forward to resuming my postdoctoral activities.

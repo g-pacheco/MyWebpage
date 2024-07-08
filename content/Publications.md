@@ -14,16 +14,16 @@ description = "My publication list."
 {{< rawhtml >}}
 <p id=cellphone><b>Pacheco</b></p>, Vieira, Martin et al.
 {{< /rawhtml >}}
+***
+
+### Submitted/
 
 * **Genome-wide Population Structure in a Marine Keystone Species, the European Flat Oyster (_Ostrea edulis_).**  
 {{< rawhtml >}}
 <div>
-Monteiro, Bekkevold, <p id=cellphone><b>Pacheco</b></p> et al.
+Monteiro, Bekkevold, <p id=cellphone><b>Pacheco</b></p> et al. Submitted to <a id=articles href="https://onlinelibrary.wiley.com/journal/1365294x" target="_blank"><i>Molecular Ecology</i></a>.
 </div>
 {{< /rawhtml >}}
-***
-
-### Submitted/
 
 * **Understanding Human-Commensalism Through an Ecological and Evolutionary Framework.**
 {{< rawhtml >}}
