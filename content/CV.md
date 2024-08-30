@@ -208,20 +208,37 @@ Nov 2008 <b>|</b> Rio Grande do Norte State • Brazil
 
 ### Academic Societies/ 
 
+#### Sociedade Brasileira de Biologia Evolutiva  
+{{< rawhtml >}}
+<p id="ongoing"><b></b><b>Founding Member</b></p>
+Jul 2024 <b>—</b> Present<p>
+<a href="https://sbbevol.org/" target="_blank">WEB</a>
+<b>~</b>
+<a href="https://www.instagram.com/sbbeoficial" target="_blank">Instagram</a>
+<b>~</b>
+<a href="https://x.com/sbbe_oficial" target="_blank">X</a>
+{{< /rawhtml >}}
+
 #### Sociedade Brasileira de Ornitologia  
 {{< rawhtml >}}
 Jul 2023 <b>—</b> Present<p>
 <a href="https://ararajuba.org.br/" target="_blank">WEB</a>
 <b>~</b>
-<a href="https://twitter.com/SocBrOrnito" target="_blank">TWITTER</a>
+<a href="https://twitter.com/SocBrOrnito" target="_blank">X</a>
 {{< /rawhtml >}}
 
 #### European Society for Evolutionary Biology  
 {{< rawhtml >}}
 Apr 2022 <b>—</b> Present<p>
-<a href="https://eseb.org/" target="_blank">WEB</a>
+<a href="https://eseb.org/" target="_blank">WEB</a> 
 <b>~</b>
-<a href="https://twitter.com/eseb_org" target="_blank">TWITTER</a>
+<a href="https://twitter.com/eseb_org" target="_blank">X</a>
+{{< /rawhtml >}}
+
+#### Society for the Study of Evolution  
+{{< rawhtml >}}
+Aug 2024 <b>—</b> Present<p>
+<a href="https://www.evolutionsociety.org/" target="_blank">WEB</a>
 {{< /rawhtml >}}
 ***
 
