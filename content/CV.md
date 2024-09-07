@@ -242,6 +242,21 @@ Aug 2024 <b>—</b> Present<p>
 {{< /rawhtml >}}
 ***
 
+### Organisation of Scientific Events/
+
+#### I Congresso Brasileiro de Biologia Evolutiva  
+{{< rawhtml >}}
+20 <b>—</b> 22 November 2024 <b>|</b> Curitiba • Brazil<p>
+<p id="ongoing"><b></b><b>Student Commission <b>|</b> Scientific Commission</b></p>
+<a href="https://sbbevol.org/" target="_blank">WEB</a>
+{{< /rawhtml >}}
+
+#### 59º Congresso Nacional de Botânica  
+{{< rawhtml >}}
+02 <b>—</b> 08 August 2008 <b>|</b> Natal • Brazil<p>
+<p id="ongoing"><b></b><b>Monitor <b>|</b> Commission of Infrastructure, Lodging and Transportation</b></p>
+{{< /rawhtml >}}
+
 ### Selected Scientific Events/
 
 #### Pangenomes — Evolution and Computation
