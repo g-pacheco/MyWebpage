@@ -256,6 +256,7 @@ Aug 2024 <b>—</b> Present<p>
 02 <b>—</b> 08 August 2008 <b>|</b> Natal • Brazil<p>
 <p id="ongoing"><b></b><b>Monitor <b>|</b> Commission of Infrastructure, Lodging and Transportation</b></p>
 {{< /rawhtml >}}
+***
 
 ### Selected Scientific Events/
 
