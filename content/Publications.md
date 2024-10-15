@@ -18,13 +18,6 @@ description = "My publication list."
 
 ### Submitted/
 
-* **Genome-wide Population Structure in a Marine Keystone Species, the European Flat Oyster (_Ostrea edulis_).**  
-{{< rawhtml >}}
-<div>
-Monteiro, Bekkevold, <p id=cellphone><b>Pacheco</b></p> et al. Submitted to <a id=articles href="https://onlinelibrary.wiley.com/journal/1365294x" target="_blank"><i>Molecular Ecology</i></a>.
-</div>
-{{< /rawhtml >}}
-
 * **Understanding Human-Commensalism Through an Ecological and Evolutionary Framework.**
 {{< rawhtml >}}
 <div>
@@ -41,6 +34,16 @@ Lobo, Silva, Morales et al. Submitted to <a id=articles href="https://genome.csh
 ***
 
 ### Peer-reviewed/
+
+#### 2024/
+
+* **Genome-wide Population Structure in a Marine Keystone Species, the European Flat Oyster (_Ostrea edulis_).**  
+{{< rawhtml >}}
+<div>
+Monteiro, Bekkevold, <p id=cellphone><b>Pacheco</b></p> et al. IN PRESS. <a id=articles href="https://onlinelibrary.wiley.com/journal/1365294x" target="_blank"><i>Molecular Ecology</i></a>.
+</div>
+{{< /rawhtml >}}
+***
 
 #### 2023/
 
