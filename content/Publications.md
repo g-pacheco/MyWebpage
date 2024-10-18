@@ -18,13 +18,6 @@ description = "My publication list."
 
 ### Submitted/
 
-* **Understanding Human-Commensalism Through an Ecological and Evolutionary Framework.**
-{{< rawhtml >}}
-<div>
-Fawthrop, Cerca, <p id=cellphone><b>Pacheco</b></p> et al. Submitted to <a id=articles href="https://www.cell.com/trends/ecology-evolution/home" target="_blank"><i>Trends in Ecology & Evolution</i></a>.
-</div>  
-{{< /rawhtml >}}
-
 * **Dog Introgression Drives Wolf Adaptation to Human-dominated Landscapes.**  
 {{< rawhtml >}}
 <div>
@@ -37,10 +30,17 @@ Lobo, Silva, Morales et al. Submitted to <a id=articles href="https://genome.csh
 
 #### 2024/
 
+* **Understanding Human-Commensalism Through an Ecological and Evolutionary Framework.**
+{{< rawhtml >}}
+<div>
+Fawthrop, Cerca, <p id=cellphone><b>Pacheco</b></p> et al. IN PRESS. <a id=articles href="https://www.cell.com/trends/ecology-evolution/home" target="_blank"><i>Trends in Ecology & Evolution</i></a>.
+</div>  
+{{< /rawhtml >}}
+
 * **Genome-wide Population Structure in a Marine Keystone Species, the European Flat Oyster (_Ostrea edulis_).**  
 {{< rawhtml >}}
 <div>
-Monteiro, Bekkevold, <p id=cellphone><b>Pacheco</b></p> et al. IN PRESS. <a id=articles href="https://onlinelibrary.wiley.com/journal/1365294x" target="_blank"><i>Molecular Ecology</i></a>.
+Monteiro, Bekkevold, <p id=cellphone><b>Pacheco</b></p> et al. <a id=articles href="https://onlinelibrary.wiley.com/journal/1365294x" target="_blank"><i>Molecular Ecology</i></a>.
 </div>
 {{< /rawhtml >}}
 ***
