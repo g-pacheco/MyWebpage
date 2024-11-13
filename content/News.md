@@ -5,6 +5,10 @@ description = "News on my academic Life."
 
 {{< rawhtml >}}
 <blockquote>
+<b>13 Nov 2024/</b> I am glad to report that Homère Monteiro´s <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17573" target="_blank">article</a> is now published in <a href="https://onlinelibrary.wiley.com/journal/1365294x" target="_blank"><i>Molecular Ecology</i></a>. It was lovely to interect with Homère during my time as a post-doc in 🇩🇰, and it is wonderful to see this resulting paper now out. 🌊 🦪 🧬
+</blockquote>
+
+<blockquote>
 <b>08 Jul 2024/</b> I am back to Oslo to enjoy the Scandinavian summer! I really enjoyed my time visiting the lab of <a href="http://ecogen.sakura.ne.jp/index-e.html" target="_blank">Prof. Kitano</a> at <a href="https://www.nig.ac.jp/nig/" target="_blank">NIG</a>, sampling & touristing in Japan, but I am also happy to be back to Norway! 🇳🇴 🌡️ 🏖️
 </blockquote>
 

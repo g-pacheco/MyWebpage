@@ -34,7 +34,7 @@ Lobo, Silva, Morales et al. Submitted to <a id=articles href="https://genome.csh
 {{< rawhtml >}}
 <div>
 Fawthrop, Cerca, <p id=cellphone><b>Pacheco</b></p> et al. IN PRESS. <a id=articles href="https://www.cell.com/trends/ecology-evolution/home" target="_blank"><i>Trends in Ecology & Evolution</i></a>.
-</div>  
+</div>
 {{< /rawhtml >}}
 
 * **Genome-wide Population Structure in a Marine Keystone Species, the European Flat Oyster (_Ostrea edulis_).**  
@@ -42,6 +42,11 @@ Fawthrop, Cerca, <p id=cellphone><b>Pacheco</b></p> et al. IN PRESS. <a id=artic
 <div>
 Monteiro, Bekkevold, <p id=cellphone><b>Pacheco</b></p> et al. <a id=articles href="https://onlinelibrary.wiley.com/journal/1365294x" target="_blank"><i>Molecular Ecology</i></a>.
 </div>
+<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17573" target="_blank">DOI</a>
+<b>~</b>
+<a href="/MyArticles/HomerosMolEcol.pdf">PDF</a>
+<b>~</b>
+<a href="https://github.com/HomereAMK/EUostrea" target="_blank">CODE</a>
 {{< /rawhtml >}}
 ***
 
