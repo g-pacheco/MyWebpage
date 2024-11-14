@@ -33,8 +33,11 @@ Lobo, Silva, Morales et al. Submitted to <a id=articles href="https://genome.csh
 * **Understanding Human-Commensalism Through an Ecological and Evolutionary Framework.**
 {{< rawhtml >}}
 <div>
-Fawthrop, Cerca, <p id=cellphone><b>Pacheco</b></p> et al. IN PRESS. <a id=articles href="https://www.cell.com/trends/ecology-evolution/home" target="_blank"><i>Trends in Ecology & Evolution</i></a>.
+Fawthrop, Cerca, <p id=cellphone><b>Pacheco</b></p> et al. <a id=articles href="https://www.cell.com/trends/ecology-evolution/home" target="_blank"><i>Trends in Ecology & Evolution</i></a>.
 </div>
+<a href="https://www.sciencedirect.com/science/article/pii/S016953472400257X" target="_blank">DOI</a>
+<b>~</b>
+<a href="/MyArticles/FawthropTREE.pdf">PDF</a>
 {{< /rawhtml >}}
 
 * **Genome-wide Population Structure in a Marine Keystone Species, the European Flat Oyster (_Ostrea edulis_).**  
