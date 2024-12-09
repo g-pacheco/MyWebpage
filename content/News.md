@@ -5,6 +5,12 @@ description = "News on my academic Life."
 
 {{< rawhtml >}}
 <blockquote>
+<b>22 Nov 2024/</b> Having conceived the idea for the foundation of a <i>Society</i> solely devoted to the realm of <i>Evolutionary Biology</i> in Brazil at the beginning of 2022 inspired by reading Andrea Wulf’s biography of Humboldt, it gives me immense pleasure that the very first congress (<a href="https://sbbevol.org/estatuto/" target="_blank"><b>SBBE24</b></a>) of the recently-established <i>Brazilian Society for Evolutionary Biology</i> (<a href="https://sbbevol.org/" target="_blank"><b>SBBE</b></a>) successfully took place in Curitiba — Paraná from the 20th to the 22nd of November of 2024. Although fully remote, my participation in the foundation of the <i>Society</i> and organisation of its  first event was a rather enriching experience to me. Many kudos to the incumbent <a href="https://sbbevol.org/" target="_blank"><b>SBBE</b></a> <b>Board</b> and <a href="https://sbbevol.org/estatuto/" target="_blank"><b>SBBE24</b></a> <b>Local Committee</b> — a truly Humboldtian feat! 🎉 I warmly wish the <i>Society</i> long-lasting prosperity, and I am already looking forward to attending its next event. 🇧🇷 💬 ⏭️
+</blockquote>
+
+<img class="NewsImg" src="../Images/SBBE24.jpeg" alt="SBBE24">
+
+<blockquote>
 <b>13 Nov 2024/</b> I am glad to report that Homère Monteiro´s <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17573" target="_blank">article</a> is now published in <a href="https://onlinelibrary.wiley.com/journal/1365294x" target="_blank"><i>Molecular Ecology</i></a>. It was lovely to interect with Homère during my time as a post-doc in 🇩🇰, and it is wonderful to see this resulting paper now out. 🌊 🦪 🧬
 </blockquote>
 

@@ -32,6 +32,40 @@ Having said that, what I present below is a list of titles revolving round the t
 {{< /rawhtml >}}
 ***
 
+### Biographies/
+
+{{< rawhtml >}}
+<h4>The Autobiography of Charles Darwin | Edited by Francis Darwin (1887)</h4>
+<blockquote class="adoromyReads">
+<img class="myReadsImg" src="../Images/BookCovers/AutobiographyDarwin.jpg"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a dui suscipit, dignissim quam in, egestas turpis. Praesent at sapien tellus. Fusce mollis porta cursus. Quisque libero tortor, commodo sed sollicitudin in, consequat eu sem. Ut elementum porta purus eu tincidunt. Nulla hendrerit diam sit amet lectus feugiat ultricies. Etiam placerat metus vel nunc varius eleifend. Curabitur luctus turpis id ipsum molestie rutrum quis sit amet mauris. Integer imperdiet augue in sodales maximus. Mauris pretium arcu non nunc efficitur, a viverra tellus consequat. Proin convallis sapien non tincidunt fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+</blockquote>
+{{< /rawhtml >}}
+***
+
+{{< rawhtml >}}
+<h4>Darwin | Adrian Desmond & James Moore (1991)</h4>
+<blockquote class="adoromyReads">
+<img class="myReadsImg" src="../Images/BookCovers/DarwinDesmondMoore.jpg"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a dui suscipit, dignissim quam in, egestas turpis. Praesent at sapien tellus. Fusce mollis porta cursus. Quisque libero tortor, commodo sed sollicitudin in, consequat eu sem. Ut elementum porta purus eu tincidunt. Nulla hendrerit diam sit amet lectus feugiat ultricies. Etiam placerat metus vel nunc varius eleifend. Curabitur luctus turpis id ipsum molestie rutrum quis sit amet mauris. Integer imperdiet augue in sodales maximus. Mauris pretium arcu non nunc efficitur, a viverra tellus consequat. Proin convallis sapien non tincidunt fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+</blockquote>
+{{< /rawhtml >}}
+***
+
+{{< rawhtml >}}
+<h4>Alfred Russel Wallace | Peter Raby (2001)</h4>
+<blockquote class="adoromyReads">
+<img class="myReadsImg" src="../Images/BookCovers/ALife.jpg"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a dui suscipit, dignissim quam in, egestas turpis. Praesent at sapien tellus. Fusce mollis porta cursus. Quisque libero tortor, commodo sed sollicitudin in, consequat eu sem. Ut elementum porta purus eu tincidunt. Nulla hendrerit diam sit amet lectus feugiat ultricies. Etiam placerat metus vel nunc varius eleifend. Curabitur luctus turpis id ipsum molestie rutrum quis sit amet mauris. Integer imperdiet augue in sodales maximus. Mauris pretium arcu non nunc efficitur, a viverra tellus consequat. Proin convallis sapien non tincidunt fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+</blockquote>
+{{< /rawhtml >}}
+***
+
+{{< rawhtml >}}
+<h4>The Invention of Nature | Andrea Wulf (2015)</h4>
+<blockquote class="adoromyReads">
+<img class="myReadsImg" src="../Images/BookCovers/TheInventionOfNature.jpg"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a dui suscipit, dignissim quam in, egestas turpis. Praesent at sapien tellus. Fusce mollis porta cursus. Quisque libero tortor, commodo sed sollicitudin in, consequat eu sem. Ut elementum porta purus eu tincidunt. Nulla hendrerit diam sit amet lectus feugiat ultricies. Etiam placerat metus vel nunc varius eleifend. Curabitur luctus turpis id ipsum molestie rutrum quis sit amet mauris. Integer imperdiet augue in sodales maximus. Mauris pretium arcu non nunc efficitur, a viverra tellus consequat. Proin convallis sapien non tincidunt fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+</blockquote>
+{{< /rawhtml >}}
+***
+
 ### Modern Works/
 
 {{< rawhtml >}}
@@ -297,32 +331,6 @@ what has transpired during the evolution of these majestic beings. Thus, I am lo
 <h4>The Last Days of the Dinosaurs | Riley Black (2022)</h4>
 <blockquote class="adoromyReads">
 <img class="myReadsImg" src="../Images/BookCovers/TheLastDayOfTheDinosaurs.jpeg"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a dui suscipit, dignissim quam in, egestas turpis. Praesent at sapien tellus. Fusce mollis porta cursus. Quisque libero tortor, commodo sed sollicitudin in, consequat eu sem. Ut elementum porta purus eu tincidunt. Nulla hendrerit diam sit amet lectus feugiat ultricies. Etiam placerat metus vel nunc varius eleifend. Curabitur luctus turpis id ipsum molestie rutrum quis sit amet mauris. Integer imperdiet augue in sodales maximus. Mauris pretium arcu non nunc efficitur, a viverra tellus consequat. Proin convallis sapien non tincidunt fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-</blockquote>
-{{< /rawhtml >}}
-***
-
-### Biographies/
-
-{{< rawhtml >}}
-<h4>The Autobiography of Charles Darwin | Edited by Francis Darwin (1887)</h4>
-<blockquote class="adoromyReads">
-<img class="myReadsImg" src="../Images/BookCovers/AutobiographyDarwin.jpg"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a dui suscipit, dignissim quam in, egestas turpis. Praesent at sapien tellus. Fusce mollis porta cursus. Quisque libero tortor, commodo sed sollicitudin in, consequat eu sem. Ut elementum porta purus eu tincidunt. Nulla hendrerit diam sit amet lectus feugiat ultricies. Etiam placerat metus vel nunc varius eleifend. Curabitur luctus turpis id ipsum molestie rutrum quis sit amet mauris. Integer imperdiet augue in sodales maximus. Mauris pretium arcu non nunc efficitur, a viverra tellus consequat. Proin convallis sapien non tincidunt fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-</blockquote>
-{{< /rawhtml >}}
-***
-
-{{< rawhtml >}}
-<h4>Darwin | Adrian Desmond & James Moore (1991)</h4>
-<blockquote class="adoromyReads">
-<img class="myReadsImg" src="../Images/BookCovers/DarwinDesmondMoore.jpg"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a dui suscipit, dignissim quam in, egestas turpis. Praesent at sapien tellus. Fusce mollis porta cursus. Quisque libero tortor, commodo sed sollicitudin in, consequat eu sem. Ut elementum porta purus eu tincidunt. Nulla hendrerit diam sit amet lectus feugiat ultricies. Etiam placerat metus vel nunc varius eleifend. Curabitur luctus turpis id ipsum molestie rutrum quis sit amet mauris. Integer imperdiet augue in sodales maximus. Mauris pretium arcu non nunc efficitur, a viverra tellus consequat. Proin convallis sapien non tincidunt fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-</blockquote>
-{{< /rawhtml >}}
-***
-
-{{< rawhtml >}}
-<h4>The Invention of Nature | Andrea Wulf (2015)</h4>
-<blockquote class="adoromyReads">
-<img class="myReadsImg" src="../Images/BookCovers/TheInventionOfNature.jpg"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a dui suscipit, dignissim quam in, egestas turpis. Praesent at sapien tellus. Fusce mollis porta cursus. Quisque libero tortor, commodo sed sollicitudin in, consequat eu sem. Ut elementum porta purus eu tincidunt. Nulla hendrerit diam sit amet lectus feugiat ultricies. Etiam placerat metus vel nunc varius eleifend. Curabitur luctus turpis id ipsum molestie rutrum quis sit amet mauris. Integer imperdiet augue in sodales maximus. Mauris pretium arcu non nunc efficitur, a viverra tellus consequat. Proin convallis sapien non tincidunt fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 </blockquote>
 {{< /rawhtml >}}
 ***
