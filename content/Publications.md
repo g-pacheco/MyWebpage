@@ -16,17 +16,17 @@ description = "My publication list."
 {{< /rawhtml >}}
 ***
 
-### Submitted/
+### Peer-reviewed/
 
-* **Dog Introgression Drives Wolf Adaptation to Human-dominated Landscapes.**  
+#### 2025/
+
+* **Ancient Dog Introgression into the Iberian Wolf Genome May Have Facilitated Adaptation to Human-dominated Landscapes.**  
 {{< rawhtml >}}
 <div>
-Lobo, Silva, Morales et al. Submitted to <a id=articles href="https://genome.cshlp.org/" target="_blank"><i>Genome Research</i></a>.
+Lobo, Morales, van Oosterhout et al. IN PRESS. <a id=articles href="https://genome.cshlp.org/" target="_blank"><i>Genome Research</i></a>.
 </div>  
 {{< /rawhtml >}}
 ***
-
-### Peer-reviewed/
 
 #### 2024/
 
