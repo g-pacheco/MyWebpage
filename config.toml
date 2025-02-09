@@ -60,12 +60,12 @@ icon = "github"
 type = "fa"
 url = "https://github.com/g-pacheco"
 
-[[params.icons]]
-name = "Twitter"
-prefix = "fa"
-icon = "twitter-square"
-type = "fab"
-url = "https://twitter.com/Pacheco_Evo"
+#[[params.icons]]
+#name = "Twitter"
+#refix = "fa"
+#icon = "twitter-square"
+#type = "fab"
+#url = "https://twitter.com/Pacheco_Evo"
 
 [[params.icons]]
 name = "Instagram"
