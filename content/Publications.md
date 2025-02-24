@@ -206,7 +206,7 @@ Pan & Cole, Bi, Fang et al. <a id=articles href="https://academic.oup.com/gigasc
 Foote, Martin, Louis et al. <a id=articles href="https://onlinelibrary.wiley.com/journal/1365294x/" target="_blank"><i>Molecular Ecology</i></a>.</p>  
 <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.15099/" target="_blank">DOI</a>
 <b>~</b>
-<a href="/MyArticles/killerwhalesMolecularEcology.pdf">PDF</a>
+<a href="/MyArticles/KillerwhaleFoote.pdf">PDF</a>
 {{< /rawhtml >}}
 ***
 
