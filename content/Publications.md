@@ -23,8 +23,11 @@ description = "My publication list."
 * **Ancient Dog Introgression into the Iberian Wolf Genome May Have Facilitated Adaptation to Human-dominated Landscapes.**  
 {{< rawhtml >}}
 <div>
-Lobo, Morales, van Oosterhout et al. IN PRESS. <a id=articles href="https://genome.cshlp.org/" target="_blank"><i>Genome Research</i></a>.
-</div>  
+Lobo, Morales, van Oosterhout et al. <a id=articles href="https://genome.cshlp.org/" target="_blank"><i>Genome Research</i></a>.
+</div>
+<a href="https://genome.cshlp.org/content/early/2025/03/04/gr.279093.124" target="_blank">DOI</a>
+<b>~</b>
+<a href="/MyArticles/LoboGenomeResearch.pdf">PDF</a>  
 {{< /rawhtml >}}
 ***
 
