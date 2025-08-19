@@ -10,9 +10,14 @@ description = "My publication list."
 
 ### In Preparation/
 
+* **The Birth of the Brazilian Society for Evolutionary Biology (SBBE) — Making Amends with History at Long Last.**  
+{{< rawhtml >}}
+<p id=cellphone><b>Pacheco</b></p>, Torquato, Caron <i>et al.</i>
+{{< /rawhtml >}}
+
 * **On the Origin and Spread of Feral Pigeons.**  
 {{< rawhtml >}}
-<p id=cellphone><b>Pacheco</b></p>, Vieira, Martin et al.
+<p id=cellphone><b>Pacheco</b></p>, Vieira, Martin <i>et al.</i>
 {{< /rawhtml >}}
 ***
 
@@ -23,7 +28,7 @@ description = "My publication list."
 * **Ancient Dog Introgression into the Iberian Wolf Genome May Have Facilitated Adaptation to Human-dominated Landscapes.**  
 {{< rawhtml >}}
 <div>
-Lobo, Morales, van Oosterhout et al. <a id=articles href="https://genome.cshlp.org/" target="_blank"><i>Genome Research</i></a>.
+Lobo, Morales, van Oosterhout <i>et al.</i> <a id=articles href="https://genome.cshlp.org/" target="_blank"><i>Genome Research</i></a>.
 </div>
 <a href="https://genome.cshlp.org/content/early/2025/03/04/gr.279093.124" target="_blank">DOI</a>
 <b>~</b>
@@ -36,7 +41,7 @@ Lobo, Morales, van Oosterhout et al. <a id=articles href="https://genome.cshlp.o
 * **Understanding Human-Commensalism Through an Ecological and Evolutionary Framework.**
 {{< rawhtml >}}
 <div>
-Fawthrop, Cerca, <p id=cellphone><b>Pacheco</b></p> et al. <a id=articles href="https://www.cell.com/trends/ecology-evolution/home" target="_blank"><i>Trends in Ecology & Evolution</i></a>.
+Fawthrop, Cerca, <p id=cellphone><b>Pacheco</b></p> <i>et al.</i> <a id=articles href="https://www.cell.com/trends/ecology-evolution/home" target="_blank"><i>Trends in Ecology & Evolution</i></a>.
 </div>
 <a href="https://www.sciencedirect.com/science/article/pii/S016953472400257X" target="_blank">DOI</a>
 <b>~</b>
@@ -46,7 +51,7 @@ Fawthrop, Cerca, <p id=cellphone><b>Pacheco</b></p> et al. <a id=articles href="
 * **Genome-wide Population Structure in a Marine Keystone Species, the European Flat Oyster (_Ostrea edulis_).**  
 {{< rawhtml >}}
 <div>
-Monteiro, Bekkevold, <p id=cellphone><b>Pacheco</b></p> et al. <a id=articles href="https://onlinelibrary.wiley.com/journal/1365294x" target="_blank"><i>Molecular Ecology</i></a>.
+Monteiro, Bekkevold, <p id=cellphone><b>Pacheco</b></p> <i>et al.</i> <a id=articles href="https://onlinelibrary.wiley.com/journal/1365294x" target="_blank"><i>Molecular Ecology</i></a>.
 </div>
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17573" target="_blank">DOI</a>
 <b>~</b>
@@ -61,7 +66,7 @@ Monteiro, Bekkevold, <p id=cellphone><b>Pacheco</b></p> et al. <a id=articles hr
 * **Redefining the Evolutionary History of the Rock Dove, _Columba livia_, Using Whole Genome Sequences.**  
 {{< rawhtml >}}
 <div>
-Hernández-Alonso, Ramos-Madrigal, van Grouw et al. <a id=articles href="https://academic.oup.com/mbe" target="_blank"><i>Molecular Biology and Evolution</i></a>.
+Hernández-Alonso, Ramos-Madrigal, van Grouw <i>et al.</i> <a id=articles href="https://academic.oup.com/mbe" target="_blank"><i>Molecular Biology and Evolution</i></a>.
 </div>
 <a href="https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msad243/7405376" target="_blank">DOI</a>
 <b>~</b>
@@ -71,7 +76,7 @@ Hernández-Alonso, Ramos-Madrigal, van Grouw et al. <a id=articles href="https:/
 * **Uncovering Neutral and Adaptive Genomic Differentiation Among European Perch with Brackish Water and Freshwater Origin in the Western Baltic Sea Region.**  
 {{< rawhtml >}}
 <div>
-Skovrind, <p id=cellphone><b>Pacheco</b></p>, Christensen et al. <a id=articles href="https://www.sciencedirect.com/journal/fisheries-research" target="_blank"><i>Fisheries Research</i></a>.
+Skovrind, <p id=cellphone><b>Pacheco</b></p>, Christensen <i>et al.</i> <a id=articles href="https://www.sciencedirect.com/journal/fisheries-research" target="_blank"><i>Fisheries Research</i></a>.
 </div>
 <a href="https://doi.org/10.1016/j.fishres.2023.106846" target="_blank">DOI</a>
 <b>~</b>
@@ -86,7 +91,7 @@ Skovrind, <p id=cellphone><b>Pacheco</b></p>, Christensen et al. <a id=articles 
 * **Additive and Non-additive Epigenetic Signatures of Natural Hybridisation Between Fish Species with Different Mating Systems.**  
 {{< rawhtml >}}
 <div>
-Berbel-Filho, <p id=cellphone><b>Pacheco</b></p>, Lira et al. <a id=articles href="https://www.tandfonline.com/journals/kepi20" target="_blank"><i>Epigenetics</i></a>.
+Berbel-Filho, <p id=cellphone><b>Pacheco</b></p>, Lira <i>et al.</i> <a id=articles href="https://www.tandfonline.com/journals/kepi20" target="_blank"><i>Epigenetics</i></a>.
 </div>
 <a href="https://doi.org/10.1080/15592294.2022.2123014" target="_blank">DOI</a>
 <b>~</b>
@@ -96,7 +101,7 @@ Berbel-Filho, <p id=cellphone><b>Pacheco</b></p>, Lira et al. <a id=articles hre
 * **Phylogenomics Reveals Extensive Introgression and a Case of Mito-nuclear Discordance in the Killifish Genus _Kryptolebias_.**  
 {{< rawhtml >}}
 <div>
-Berbel-Filho, <p id=cellphone><b>Pacheco</b></p>, Tatarenkov et al. <a id=articles href="https://www.sciencedirect.com/journal/molecular-phylogenetics-and-evolution" target="_blank"><i>Molecular Phylogenetics and Evolution</i></a>.
+Berbel-Filho, <p id=cellphone><b>Pacheco</b></p>, Tatarenkov <i>et al.</i> <a id=articles href="https://www.sciencedirect.com/journal/molecular-phylogenetics-and-evolution" target="_blank"><i>Molecular Phylogenetics and Evolution</i></a>.
 </div>
 <a href="https://www.sciencedirect.com/science/article/pii/S1055790322002305" target="_blank">DOI</a>
 <b>~</b>
@@ -110,7 +115,7 @@ Berbel-Filho, <p id=cellphone><b>Pacheco</b></p>, Tatarenkov et al. <a id=articl
 
 * **Conservation Genomics of the Endangered Seychelles Magpie Robin (_Copsychus sechellarum_): A Unique Insight into the History of a Precious Endemic Bird.**  
 {{< rawhtml >}}
-Cavill, Gopalakrishnan, Puetz et al. <a id=articles href="https://onlinelibrary.wiley.com/journal/1474919x/" target="_blank"><i>IBIS</i></a>.</p>
+Cavill, Gopalakrishnan, Puetz <i>et al.</i> <a id=articles href="https://onlinelibrary.wiley.com/journal/1474919x/" target="_blank"><i>IBIS</i></a>.</p>
 <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ibi.13023" target="_blank">DOI</a>
 <b>~</b>
 <a href="/MyArticles/magpie-robinIBIS.pdf">PDF</a>
@@ -119,7 +124,7 @@ Cavill, Gopalakrishnan, Puetz et al. <a id=articles href="https://onlinelibrary.
 * **Against the Odds: Hybrid Zones Between Mangrove Killifish Species with Different Mating Systems.**    
 {{< rawhtml >}}
 <div>
-Berbel-Filho, Tatarenkov, <p id=cellphone><b>Pacheco</b></p> et al. <a id=articles href="https://www.mdpi.com/journal/genes/" target="_blank"><i>Genes</i></a>.</p> 
+Berbel-Filho, Tatarenkov, <p id=cellphone><b>Pacheco</b></p> <i>et al.</i> <a id=articles href="https://www.mdpi.com/journal/genes/" target="_blank"><i>Genes</i></a>.</p> 
 </div>
 <a href="https://www.mdpi.com/2073-4425/12/10/1486" target="_blank">DOI</a>
 <b>~</b>
@@ -130,7 +135,7 @@ Berbel-Filho, Tatarenkov, <p id=cellphone><b>Pacheco</b></p> et al. <a id=articl
 
 * **The Germline Mutational Process in Rhesus Macaque and Its Implications for Phylogenetic Dating.**   
 {{< rawhtml >}}
-Bergeron, Besenbacher, Bakker et al. <a id=articles href="https://academic.oup.com/gigascience/" target="_blank"><i>GigaScience</i></a>.</p> 
+Bergeron, Besenbacher, Bakker <i>et al.</i> <a id=articles href="https://academic.oup.com/gigascience/" target="_blank"><i>GigaScience</i></a>.</p> 
 <a href="https://academic.oup.com/gigascience/article/10/5/giab029/6269103" target="_blank">DOI</a>
 <b>~</b>
 <a href="/MyArticles/macaqueGigaScience.pdf">PDF</a>
@@ -141,7 +146,7 @@ Bergeron, Besenbacher, Bakker et al. <a id=articles href="https://academic.oup.c
 
 * **Why Endogenous TRPV6 Currents Are Not Detectable - What Can We Learn From Bats?**   
 {{< rawhtml >}}
-Wolske, Fecher-Trost, Wesely et al. <a id=articles href="https://www.journals.elsevier.com/cell-calcium/" target="_blank"><i>Cell Calcium</i></a>.</p>
+Wolske, Fecher-Trost, Wesely <i>et al.</i> <a id=articles href="https://www.journals.elsevier.com/cell-calcium/" target="_blank"><i>Cell Calcium</i></a>.</p>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0143416020301445" target="_blank">DOI</a>
 <b>~</b>
 <a href="/MyArticles/batsCellCalcium.pdf">PDF</a>
@@ -149,7 +154,7 @@ Wolske, Fecher-Trost, Wesely et al. <a id=articles href="https://www.journals.el
 
 * **Dense Sampling of Bird Diversity Increases Power of Comparative Genomics.**   
 {{< rawhtml >}}
-Feng & Stiller & Deng & Armstrong, Fang, Reeve et al. <a id=articles href="https://www.nature.com/" target="_blank"><i>Nature</i></a>.</p> 
+Feng & Stiller & Deng & Armstrong, Fang, Reeve <i>et al.</i> <a id=articles href="https://www.nature.com/" target="_blank"><i>Nature</i></a>.</p> 
 <a href="https://www.nature.com/articles/s41586-020-2873-9" target="_blank">DOI</a>
 <b>~</b>
 <a href="/MyArticles/birdsNature.pdf">PDF</a>
@@ -158,7 +163,7 @@ Feng & Stiller & Deng & Armstrong, Fang, Reeve et al. <a id=articles href="https
 * **Phylogeny of Neotropical Seirinae (Collembola, Entomobryidae) Based on Mitochondrial Genomes.**    
 {{< rawhtml >}}
 <div>
-Godeiro, <p id=cellphone><b>Pacheco</b></p>, Liu et al. <a id=articles href="https://onlinelibrary.wiley.com/journal/14636409/" target="_blank"><i>Zoological Scripta</i></a>.</p>
+Godeiro, <p id=cellphone><b>Pacheco</b></p>, Liu <i>et al.</i> <a id=articles href="https://onlinelibrary.wiley.com/journal/14636409/" target="_blank"><i>Zoological Scripta</i></a>.</p>
 </div>
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/zsc.12408" target="_blank">DOI</a>
 <b>~</b>
@@ -167,7 +172,7 @@ Godeiro, <p id=cellphone><b>Pacheco</b></p>, Liu et al. <a id=articles href="htt
 
 * **Darwin’s Fancy Revised: An Updated Understanding of the Genomic Constitution of Pigeon Breeds.**    
 {{< rawhtml >}}
-<p id=cellphone><b>Pacheco</b></p>, van Grouw, Shapiro et al. <a id=articles href="https://academic.oup.com/gbe/" target="_blank"><i>Genome Biology and Evolution</i></a>.</p>
+<p id=cellphone><b>Pacheco</b></p>, van Grouw, Shapiro <i>et al.</i> <a id=articles href="https://academic.oup.com/gbe/" target="_blank"><i>Genome Biology and Evolution</i></a>.</p>
 <a href="https://academic.oup.com/gbe/article/12/3/136/5735467" target="_blank">DOI</a>
 <b>~</b>
 <a href="/MyArticles/pigeonbreedsGBE.pdf">PDF</a>
@@ -177,7 +182,7 @@ Godeiro, <p id=cellphone><b>Pacheco</b></p>, Liu et al. <a id=articles href="htt
 
 * **Evolutionary History, Genomic Adaptation to Toxic Diet, and Extinction of the Carolina Parakeet.**  
 {{< rawhtml >}}
-Gelabert, Sandoval-Velasco, Serres et al. <a id=articles href="https://www.cell.com/current-biology/home" target="_blank"><i>Current Biology</i></a>.</p>  
+Gelabert, Sandoval-Velasco, Serres <i>et al.</i> <a id=articles href="https://www.cell.com/current-biology/home" target="_blank"><i>Current Biology</i></a>.</p>  
 <a href="https://www.sciencedirect.com/science/article/pii/S0960982219314381/" target="_blank">DOI</a>
 <b>~</b>
 <a href="/MyArticles/ParakeetCurrentBiology.pdf">PDF</a>
@@ -189,7 +194,7 @@ Gelabert, Sandoval-Velasco, Serres et al. <a id=articles href="https://www.cell.
 * **The Discovery of Neotropical _Lepidosira_ (Collembola, Entomobryidae) and Its Systematic Position.**    
 {{< rawhtml >}}
 <div>
-Nunes, Godeiro, <p id=cellphone><b>Pacheco</b></p> et al. <a id=articles href="https://onlinelibrary.wiley.com/journal/14636409/" target="_blank"><i>Zoological Scripta</i></a>.</p>
+Nunes, Godeiro, <p id=cellphone><b>Pacheco</b></p> <i>et al.</i> <a id=articles href="https://onlinelibrary.wiley.com/journal/14636409/" target="_blank"><i>Zoological Scripta</i></a>.</p>
 </div>
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/zsc.12377/" target="_blank">DOI</a>
 <b>~</b>
@@ -198,7 +203,7 @@ Nunes, Godeiro, <p id=cellphone><b>Pacheco</b></p> et al. <a id=articles href="h
 
 * **High-coverage Genomes To Elucidate The Evolution of Penguins.**  
 {{< rawhtml >}}
-Pan & Cole, Bi, Fang et al. <a id=articles href="https://academic.oup.com/gigascience/" target="_blank"><i>GigaScience</i></a>.</p>
+Pan & Cole, Bi, Fang <i>et al.</i> <a id=articles href="https://academic.oup.com/gigascience/" target="_blank"><i>GigaScience</i></a>.</p>
 <a href="https://academic.oup.com/gigascience/article/8/9/giz117/5571031/" target="_blank">DOI</a>
 <b>~</b>
 <a href="/MyArticles/penguinsGigaScience.pdf">PDF</a>
@@ -206,7 +211,7 @@ Pan & Cole, Bi, Fang et al. <a id=articles href="https://academic.oup.com/gigasc
 
 * **Killer Whale Genomes Reveal a Complex History of Recurrent Admixture and Vicariance.**  
 {{< rawhtml >}}
-Foote, Martin, Louis et al. <a id=articles href="https://onlinelibrary.wiley.com/journal/1365294x/" target="_blank"><i>Molecular Ecology</i></a>.</p>  
+Foote, Martin, Louis <i>et al.</i> <a id=articles href="https://onlinelibrary.wiley.com/journal/1365294x/" target="_blank"><i>Molecular Ecology</i></a>.</p>  
 <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.15099/" target="_blank">DOI</a>
 <b>~</b>
 <a href="/MyArticles/KillerwhaleFoote.pdf">PDF</a>
@@ -217,7 +222,7 @@ Foote, Martin, Louis et al. <a id=articles href="https://onlinelibrary.wiley.com
 
 * **Hologenomic Adaptations Underlying the Evolution of Sanguivory in the Common Vampire Bat.**   
 {{< rawhtml >}}
-Mendoza & Xiong, Escalera-Zamudio, Runge et al. <a id=articles href="https://www.nature.com/natecolevol/" target="_blank"><i>Nature Ecology & Evolution</i></a>.</p> 
+Mendoza & Xiong, Escalera-Zamudio, Runge <i>et al.</i> <a id=articles href="https://www.nature.com/natecolevol/" target="_blank"><i>Nature Ecology & Evolution</i></a>.</p> 
 <a href="https://www.nature.com/articles/s41559-018-0476-8#citeas/" target="_blank">DOI</a>
 <b>~</b>
 <a href="/MyArticles/batsEcolEvol.pdf">PDF</a>
@@ -228,7 +233,7 @@ Mendoza & Xiong, Escalera-Zamudio, Runge et al. <a id=articles href="https://www
 
 * **Genomic Population Structure of Freshwater‐resident and Anadromous Ide (_Leuciscus idus_) in North‐western Europe.**    
 {{< rawhtml >}}
-Skovrind, Olsen, Vieira et al. <a id=articles href="https://onlinelibrary.wiley.com/journal/20457758/" target="_blank"><i>Ecology and Evolution</i></a>.</p>
+Skovrind, Olsen, Vieira <i>et al.</i> <a id=articles href="https://onlinelibrary.wiley.com/journal/20457758/" target="_blank"><i>Ecology and Evolution</i></a>.</p>
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.1909/" target="_blank">DOI</a>
 <b>~</b>
 <a href="/MyArticles/ideEcologyEvolution.pdf">PDF</a>
