@@ -12,7 +12,12 @@ description = "My publication list."
 
 * **The Birth of the Brazilian Society for Evolutionary Biology (SBBE) — Making Amends with History at Long Last.**  
 {{< rawhtml >}}
-<p id=cellphone><b>Pacheco</b></p>, Torquato, Caron <i>et al.</i>
+<p id=cellphone><b>Pacheco</b></p>, Torquato, Caron <i>et al.</i> To be submitted to the <a id=articles href="https://academic.oup.com/evolut" target="_blank"><i>Evolution</i></a> journal as a <i>Commentary Article</i>.
+{{< /rawhtml >}}
+
+* **Insights into the Genomic Substrate of a Curious Sparrow.**  
+{{< rawhtml >}}
+<p id=cellphone><b>Pacheco</b></p>, Fawthrop, de Vries <i>et al.</i> To be submitted to the <a id=articles href="https://academic.oup.com/jeb" target="_blank"><i>Journal of Evolutionary Biology</i></a>.
 {{< /rawhtml >}}
 
 * **On the Origin and Spread of Feral Pigeons.**  

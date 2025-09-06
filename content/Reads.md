@@ -84,12 +84,14 @@ I read quite a few <i>Science Communication</i> books throughout my bachelor tim
 <img class="myReadsImg" src="../Images/BookCovers/AdviceForAYoungScientist.jpg">
 <img class="myReadsImg" src="../Images/BookCovers/SophiesWorld.jpg">
 <img class="myReadsImg" src="../Images/BookCovers/TheDemon-HauntedWorld.jpg">
-<img class="myReadsImg" src="../Images/BookCovers/Maladies_2.jpeg">
+<img class="myReadsImg" src="../Images/BookCovers/Maladies.jpeg">
 <img class="myReadsImg" src="../Images/BookCovers/Phi.jpg">
 <img class="myReadsImg" src="../Images/BookCovers/FutureOfBrain.jpg">
 <img class="myReadsImg" src="../Images/BookCovers/Sapiens.jpeg">
 <img class="myReadsImg" src="../Images/BookCovers/HomoDeus.jpeg">
-<img class="myReadsImg" src="../Images/BookCovers/Oi.jpg">
+<img class="myReadsImg" src="../Images/BookCovers/Sapiens.jpeg">
+<img class="myReadsImg" src="../Images/BookCovers/TheAgeOfWonder.jpg">
+<img class="myReadsImg" src="../Images/BookCovers/OBrasildeDarwin.jpg">
 </div>
 </blockquote>
 {{< /rawhtml >}}

@@ -35,21 +35,21 @@ url = "https://www.google.com/maps/place/Kristine+Bonnevies+hus/@59.9380751,10.7
 [[params.icons]]
 name = "Google Scholar"
 prefix = "ai"
-icon = "google-scholar-square"
+icon = "google-scholar"
 type = "ai"
 url = "https://scholar.google.dk/citations?user=FSCWyqAAAAAJ&hl=en"
 
 [[params.icons]]
 name = "Lattes"
 prefix = "ai"
-icon = "lattes-square"
+icon = "lattes"
 type = "ai"
 url = "http://lattes.cnpq.br/8779597063731617"
 
 [[params.icons]]
 name = "ORCID"
 prefix = "ai"
-icon = "orcid-square"
+icon = "orcid"
 type = "ai"
 url = "https://orcid.org/0000-0002-9367-6813"
 
@@ -61,11 +61,11 @@ type = "fa"
 url = "https://github.com/g-pacheco"
 
 #[[params.icons]]
-#name = "Twitter"
-#refix = "fa"
-#icon = "twitter-square"
-#type = "fab"
-#url = "https://twitter.com/Pacheco_Evo"
+#name = "bluesky"
+#prefix = "fa"
+#icon = "bluesky"
+#type = "fa"
+#url = "https://bsky.app/profile/pachecoevolbio.bsky.social"
 
 #[[params.icons]]
 #name = "Instagram"
