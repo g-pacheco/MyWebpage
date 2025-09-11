@@ -81,19 +81,19 @@ icon = "goodreads-g"
 type = "fab"
 url = "https://www.goodreads.com/user/show/91609313-george-pacheco"
 
-[[params.icons]]
+[[params.lasticon]]
 name = "Instagram"
 prefix = "fa"
 icon = "instagram"
 type = "fa"
 url = "https://www.instagram.com/menino.pacheco/"
 
-[[params.lasticon]]
-name = "YouTube"
-prefix = "fa"
-icon = "youtube"
-type = "fa"
-url = "https://www.youtube.com/channel/UCcjP3uH7VFk4n_lIc4bgxbQ"
+#[[params.lasticon]]
+#ame = "YouTube"
+#prefix = "fa"
+#icon = "youtube"
+#type = "fa"
+#url = "https://www.youtube.com/channel/UCcjP3uH7VFk4n_lIc4bgxbQ"
 
 # Main menu Items
 
