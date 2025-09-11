@@ -60,19 +60,26 @@ icon = "github"
 type = "fa"
 url = "https://github.com/g-pacheco"
 
-#[[params.icons]]
-#name = "bluesky"
-#prefix = "fa"
-#icon = "bluesky"
-#type = "fa"
-#url = "https://bsky.app/profile/pachecoevolbio.bsky.social"
+[[params.icons]]
+name = "Goodreads"
+prefix = "fa"
+icon = "goodreads-g"
+type = "fab"
+url = "https://www.goodreads.com/user/show/91609313-george-pacheco"
 
-#[[params.icons]]
-#name = "Instagram"
-#prefix = "fa"
-#icon = "instagram"
-#type = "fa"
-#url = "https://www.instagram.com/menino.pacheco/"
+[[params.icons]]
+name = "bluesky"
+prefix = "fa"
+icon = "bluesky"
+type = "fab"
+url = "https://bsky.app/profile/pachecoevolbio.bsky.social"
+
+[[params.icons]]
+name = "Instagram"
+prefix = "fa"
+icon = "instagram"
+type = "fa"
+url = "https://www.instagram.com/menino.pacheco/"
 
 [[params.lasticon]]
 name = "YouTube"
