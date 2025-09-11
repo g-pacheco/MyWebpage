@@ -33,6 +33,20 @@ type = "far"
 url = "https://www.google.com/maps/place/Kristine+Bonnevies+hus/@59.9380751,10.7224508,17z/data=!4m13!1m7!3m6!1s0x46416de767a63a63:0x4df685f0b22d4fcb!2sBlindernveien+31,+0371+Oslo!3b1!8m2!3d59.9380724!4d10.7246395!3m4!1s0x46416de751f5a9b5:0xd2a3806479c4436c!8m2!3d59.9383743!4d10.7219023"
 
 [[params.icons]]
+name = "Email"
+prefix = "fa"
+icon = "envelope"
+type = "far"
+url = "mailto:george.pacheco@ibv.uio.no"
+
+[[params.icons]]
+name = "ORCID"
+prefix = "ai"
+icon = "orcid"
+type = "ai"
+url = "https://orcid.org/0000-0002-9367-6813"
+
+[[params.icons]]
 name = "Google Scholar"
 prefix = "ai"
 icon = "google-scholar"
@@ -47,13 +61,6 @@ type = "ai"
 url = "http://lattes.cnpq.br/8779597063731617"
 
 [[params.icons]]
-name = "ORCID"
-prefix = "ai"
-icon = "orcid"
-type = "ai"
-url = "https://orcid.org/0000-0002-9367-6813"
-
-[[params.icons]]
 name = "GitHub"
 prefix = "fa"
 icon = "github"
@@ -61,18 +68,18 @@ type = "fa"
 url = "https://github.com/g-pacheco"
 
 [[params.icons]]
-name = "Goodreads"
-prefix = "fa"
-icon = "goodreads-g"
-type = "fab"
-url = "https://www.goodreads.com/user/show/91609313-george-pacheco"
-
-[[params.icons]]
 name = "bluesky"
 prefix = "fa"
 icon = "bluesky"
 type = "fab"
 url = "https://bsky.app/profile/pachecoevolbio.bsky.social"
+
+[[params.icons]]
+name = "Goodreads"
+prefix = "fa"
+icon = "goodreads-g"
+type = "fab"
+url = "https://www.goodreads.com/user/show/91609313-george-pacheco"
 
 [[params.icons]]
 name = "Instagram"
@@ -87,13 +94,6 @@ prefix = "fa"
 icon = "youtube"
 type = "fa"
 url = "https://www.youtube.com/channel/UCcjP3uH7VFk4n_lIc4bgxbQ"
-
-[[params.icons]]
-name = "Email"
-prefix = "fa"
-icon = "envelope"
-type = "far"
-url = "mailto:george.pacheco@ibv.uio.no"
 
 # Main menu Items
 
