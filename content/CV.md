@@ -152,17 +152,17 @@ Mar 2010 <b>—</b> Apr 2011 <b>|</b> <a href="https://www.ufrn.br/en" target="_
 
 ### Research Visits/
 {{< rawhtml >}}
-<h4><a href="https://ecogen.sakura.ne.jp/index-e.html" target="_blank"><b>Kitano Lab</b></a></h4>
+<h4><a href="https://ecogen.sakura.ne.jp/index-e.html" target="_blank">Kitano Lab</a></h4>
 08 May <b>—</b> 04 Jun 2024 <b>|</b> <a href="https://www.nig.ac.jp/nig/" target="_blank"><i>National Institute of Genetics</i></a> • Japan
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<h4><a href="https://cibio.up.pt/people/details/mcarneir/student-supervisions/concluded?t=1" target="_blank"><b>Carneiro Lab</b></a></h4>
+<h4><a href="https://cibio.up.pt/people/details/mcarneir/student-supervisions/concluded?t=1" target="_blank">Carneiro Lab</a></h4>
 23 Sep <b>—</b> 22 Dec 2019 <b>|</b> <a href="https://cibio.up.pt/" target="_blank"><i>CIBIO</i></a> <b>~</b> <a href="https://sigarra.up.pt/up/en/WEB_BASE.GERA_PAGINA?p_pagina=home" target="_blank"><i>University of Porto</i></a> • Portugal
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<h4><a href="https://shapiro.biology.utah.edu/Shapiro_Lab/Index.html" target="_blank"><b>Shapiro Lab</b></a></h4>
+<h4><a href="https://shapiro.biology.utah.edu/Shapiro_Lab/Index.html" target="_blank">Shapiro Lab</a></h4>
 20 Apr <b>—</b> 19 May 2015 <b>|</b> <a href="https://www.biology.utah.edu/" target="_blank"><i>School of Biological Sciences</i></a> <b>~</b> <a href="https://www.utah.edu/" target="_blank"><i>The University of Utah</i></a> • USA
 {{< /rawhtml >}}
 ***
@@ -196,7 +196,10 @@ May-Jun 2023 <b>|</b> Chokpak Station • Kazakhstan
 #### Collection of Avian Zooarchaeological Samples
 Feb 2016 <b>|</b> Negev Desert • Israel
 
-#### Collection of Avian Samples <b>|</b> On behalf of the 10KBird Project
+#### Collection of Avian Samples
+{{< rawhtml >}}
+<p id="ongoing"><b></b><b>As Collaborator of the 10KBird Project</b></p>
+{{< /rawhtml >}}
 Feb 2016 <b>|</b> Rukanga Region • Kenya
 
 #### Collection of Avian Samples
@@ -210,13 +213,13 @@ Nov 2008 <b>|</b> Rio Grande do Norte State • Brazil
 
 #### Sociedade Brasileira de Biologia Evolutiva  
 {{< rawhtml >}}
-<p id="ongoing"><b></b><b>Founding Member</b></p>
+<p id="ongoing"><b></b><b>Founding Member <b>|</b> Counselor</b></p>
 Jul 2024 <b>—</b> Present<p>
 <a href="https://sbbevol.org/" target="_blank">WEB</a>
 <b>~</b>
 <a href="https://www.instagram.com/sbbeoficial" target="_blank">Instagram</a>
 <b>~</b>
-<a href="https://x.com/sbbe_oficial" target="_blank">X</a>
+<a href="https://bsky.app/profile/sbbe.bsky.social" target="_blank">Bluesky</a>
 {{< /rawhtml >}}
 
 #### Sociedade Brasileira de Ornitologia  
