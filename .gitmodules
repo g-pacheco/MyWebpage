@@ -1,0 +1,9 @@
+[submodule "themes/archie"]
+    path = themes/archie
+    url = https://github.com/athul/archie.git
+
+[submodule "public"]
+    path = public
+	url = https://github.com/g-pacheco/g-pacheco.github.io
+
+
