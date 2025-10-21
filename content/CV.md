@@ -4,7 +4,7 @@ description = "My current CV."
 +++
 
 {{< rawhtml >}}
-<h5>Please find below an abridged version of my CV. You can download a full PDF version from <a href="/MyCV/CurrentCV--GeorgePacheco.pdf">here</a>.</h5>
+<h5>Please find below an abridged version of my CV. You can download a full PDF version from <a href="/MyCV/CV--PACHECO.pdf">here</a>.</h5>
 {{< /rawhtml >}}
 ***
 
