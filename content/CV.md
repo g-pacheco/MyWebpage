@@ -12,14 +12,15 @@ description = "My current CV."
 <div class="cvhead">
 <h2>George Pacheco</h2></p>
 <div class="subtitlecv"><i><b>Evolutionary Biologist</b></i></div></p>
-CEES / Blindernveien 31, 0371 Oslo • Norway</p>
+Guest Researcher at the <a href="https://www.mn.uio.no/cees/english/" target="_blank"><i>Centre for Ecological and Evolutionary Synthesis</i></a> (<a href="https://www.mn.uio.no/cees/english/" target="_blank">CEES</a>)</p>
+Blindernveien 31, 0371 Oslo • Norway</p>
 <a href = "mailto: george.pacheco@ibv.uio.no" target="_blank">george.pacheco@ibv.uio.no</a>
 </div>
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
 <blockquote>
-Initially trained in <i>Biology</i> in the Brazilian Northeast, I have worked on several projects in the vein of animal evolutionary genomics investigating a diverse range of taxa <b>—</b> from tiny Collembolans to culturally evolving killer whales, which has given me a vast experience in the molecular lab and a fair understanding of the rationale behind bioinformatic analyses. During my scientific career, I have developed a profound interest in the genomic architecture controling the emergence and maintenance of cognitive traits, specially those implicated in spatial memory.
+Initially trained in <i>Biology</i> in the Brazilian Northeast, I have worked on several projects in the vein of animal evolutionary genomics investigating a diverse range of taxa — from tiny Collembolans to culturally evolving killer whales, which has given me a vast experience in the molecular lab and a fair understanding of the rationale behind bioinformatic analyses. During my scientific career, I have developed a profound interest in the genomic architecture controling the emergence and maintenance of cognitive traits, specially those implicated in spatial memory.
 </blockquote>
 {{< /rawhtml >}}
 ***
@@ -28,7 +29,7 @@ Initially trained in <i>Biology</i> in the Brazilian Northeast, I have worked on
   
 #### Technical Postdoc
 {{< rawhtml >}}
-Nov 2022 <strong>—</strong> Present <b>|</b> <a href="https://www.uio.no/english/" target="_blank"><i>University of Oslo</i></a></p>
+Nov 2022 <strong>—</strong> Oct 2025 <b>|</b> <a href="https://www.uio.no/english/" target="_blank"><i>University of Oslo</i></a></p>
 <em>Advisors:</em> <a href="https://www.mn.uio.no/cees/english/people/core/glennp/" target="_blank">Prof. Glenn-Peter Sætre</a>, <a href="https://therowelab.com/" target="_blank">Dr. Melissah Rowe</a> & <a href="https://markravinet.github.io/" target="_blank">Assist. Prof. Mark Ravinet</a> </p>
 <b>Location:</b> <a href="https://www.mn.uio.no/cees/english/" target="_blank"><i>Centre for Ecological and Evolutionary Synthesis</i></a>
 {{< /rawhtml >}}

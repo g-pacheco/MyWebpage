@@ -1,5 +1,4 @@
 baseURL = "https://g-pacheco.github.io/"
-googleAnalytics = "G-6HEVWZ2M09"
 languageCode = "en-us"
 title = "George Pacheco:~"
 theme = "archie"
@@ -9,7 +8,6 @@ description = "Personal webpage of evolutionary biologist George Pacheco, PhD."
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
-paginate = 3 # articles per page
 enableEmoji = true
 
 [params]
@@ -94,6 +92,15 @@ url = "https://www.goodreads.com/user/show/91609313-george-pacheco"
 #icon = "youtube"
 #type = "fa"
 #url = "https://www.youtube.com/channel/UCcjP3uH7VFk4n_lIc4bgxbQ"
+
+[pagination]
+  pagerSize = 3
+
+[services]
+  [services.googleAnalytics]
+    id = "G-6HEVWZ2M09"
+
+ignoreLogs = ['warning-goldmark-raw-html']
 
 # Main menu Items
 

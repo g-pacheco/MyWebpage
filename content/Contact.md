@@ -6,7 +6,7 @@ id = "typeform"
 {{< rawhtml >}}
 <blockquote>
 <b>George Pacheco</b>, PhD </p>
-<a href="https://www.mn.uio.no/cees/english/" target="_blank"><i>Centre for Ecological and Evolutionary Synthesis</i></a> — <a href="https://www.uio.no/english/" target="_blank"><i>University of Oslo</i></a> </p>
+Guest Reseacher at the <a href="https://www.mn.uio.no/cees/english/" target="_blank"><i>Centre for Ecological and Evolutionary Synthesis</i></a> — <a href="https://www.uio.no/english/" target="_blank"><i>University of Oslo</i></a> </p>
 Blindernveien 31, 0371 Oslo • Norway </p>
 </blockquote>
 </p>
