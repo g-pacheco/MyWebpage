@@ -100,8 +100,6 @@ url = "https://www.goodreads.com/user/show/91609313-george-pacheco"
   [services.googleAnalytics]
     id = "G-6HEVWZ2M09"
 
-ignoreLogs = ['warning-goldmark-raw-html']
-
 # Main menu Items
 
 [[menu.main]]
