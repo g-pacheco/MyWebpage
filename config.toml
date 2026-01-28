@@ -72,12 +72,12 @@ icon = "bluesky"
 type = "fab"
 url = "https://bsky.app/profile/pachecoevolbio.bsky.social"
 
-[[params.icons]]
-name = "Instagram"
-prefix = "fa"
-icon = "instagram"
-type = "fa"
-url = "https://www.instagram.com/menino.pacheco/"
+#[[params.icons]]
+#name = "Instagram"
+#prefix = "fa"
+#icon = "instagram"
+#type = "fa"
+#url = "https://www.instagram.com/menino.pacheco/"
 
 [[params.lasticon]]
 name = "Goodreads"
