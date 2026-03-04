@@ -5,6 +5,10 @@ description = "News on my academic Life."
 
 {{< rawhtml >}}
 <blockquote>
+<b>04 Mar 2026/</b> Although the 2 evaluators recognised its scientific merits, my proposal to the 2025 call <a href="\href{https://fapesp.br/17470/call-for-proposals-fapesp-grant-for-international-researchers" target="_blank">Grant for International Researchers</a> by the <a href="[\href{https://fapesp.br/17470/call-for-proposals-fapesp-grant-for-international-researchers](https://fapesp.br/en)" target="_blank">São Paulo Research Foundation</a> was not accepted - unfortunately. Thus, I keep on trying to fund this project via other sources! 👊🏼
+</blockquote>
+
+<blockquote>
 <b>11 Sep 2025/</b> I am happy that I submitted yesterday my <b>Full Application</b> to the 2025 call <a href="\href{https://fapesp.br/17470/call-for-proposals-fapesp-grant-for-international-researchers" target="_blank">Grant for International Researchers</a> announced by the <a href="[\href{https://fapesp.br/17470/call-for-proposals-fapesp-grant-for-international-researchers](https://fapesp.br/en)" target="_blank">São Paulo Research Foundation</a> presenting a project revolving around the evolution of the molecular and neuronal bases of general and specialised cognition in birds. This project was concieved to be hosted by the <a href="https://www.ib.usp.br/genetica-e-biologia-evolutiva.html" target="_blank"><i>Departamento de Genética e Biologia Evolutiva</i></a> — <a href="https://www.ib.usp.br/" target="_blank"><i>Instituto de Biociências</i></a> at the <a href="https://www5.usp.br/english/institutional/" target="_blank"><i>University of São Paulo</i></a> in close collaboration with the <a href="https://neuro.ufrn.br/" target="_blank"><i>Brain Institute</i></a> at the my <i>alma mater</i>, the <a href="https://www.ufrn.br/en" target="_blank"><i>Federal University of Rio Grande do Norte</i></a>. This is my attemp to go back to Brazil after almost 14 years of academic experience in Scandinavia. Fingers crossed! 🇧🇷 🐦 🧠
 </blockquote>
 

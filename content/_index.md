@@ -15,7 +15,7 @@ author = "George Pacheco"
 
 {{< rawhtml >}}
 <blockquote>
-<b>Currently,</b> I am in my hometown awaiting the results of the <a href="https://fapesp.br/17470/call-for-proposals-fapesp-grant-for-international-researchers" target="_blank"><i>FAPESP Grant for International Researchers</i></a>, which is expected to be released on the <u>13th of February 2026</u>. Meanwhile, I have been working from the <a href="https://neuro.ufrn.br/" target="_blank"><i>Brain Institute — UFRN</i></a>, sitting at a desk kindly provided by <a href="https://neuro.ufrn.br/institute/members/investigators/tarciso_ferreira" target="_blank">Prof. Tarciso Velho</a> within his lab.
+<b>Currently,</b> I am between positions mostly working from home but sometimes visiting the lab of <a href="https://neuro.ufrn.br/institute/members/investigators/tarciso_ferreira" target="_blank">Prof. Tarciso Velho</a> at the <a href="https://neuro.ufrn.br/" target="_blank"><i>Brain Institute — UFRN</i></a>.
 </blockquote>
 
 <blockquote>

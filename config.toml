@@ -20,6 +20,12 @@ enableEmoji = true
 	typeformuser = "myuser" # Optional
 	typeformwidth = "100%" # Optional
 	typeformheight = "800px" # Optional
+
+# Allow raw HTML globally
+[markup]
+  [markup.goldmark]
+[markup.goldmark.renderer]
+  unsafe = true
 	
 # Social Tags
 
