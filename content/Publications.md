@@ -25,7 +25,7 @@ description = "My publication list."
 
 * **The Birth of the Brazilian Society for Evolutionary Biology (SBBE) — Making Amends with History at Long Last.**  
 {{< rawhtml >}}
-<p id=cellphone><b>Pacheco</b></p>, Torquato, Caron <i>et al.</i> Under review at the <a id=articles href="https://academic.oup.com/evolut" target="_blank"><i>Evolution</i></a> journal as a <i>Commentary Article</i>.
+<p id=cellphone><b>Pacheco</b></p>, Torquato, Caron <i>et al.</i> Amidst revision process at the <a id=articles href="https://academic.oup.com/evolut" target="_blank"><i>Evolution</i></a> journal as a <i>Commentary Article</i>.
 {{< /rawhtml >}}
 ***
 
