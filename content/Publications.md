@@ -28,7 +28,7 @@ description = "My publication list."
 Formenti, Absolon, Abueg <i>et al.</i> Submitted to <a id=articles href="https://academic.oup.com/evolut" target="_blank"><i>Nature</i></a>.
 {{< /rawhtml >}}
 
-* **The Birth of the Brazilian Society for Evolutionary Biology (SBBE) — Making Amends with History at Long Last.**  
+* **The Birth of the Brazilian Society for Evolutionary Biology — Making Amends with History at Long Last.**  
 {{< rawhtml >}}
 <p id=cellphone><b>Pacheco</b></p>, Torquato, Caron <i>et al.</i> Amidst the revision process at <a id=articles href="https://academic.oup.com/evolut" target="_blank"><i>Evolution</i></a> as a <i>Commentary Article</i>.
 {{< /rawhtml >}}
