@@ -23,9 +23,14 @@ description = "My publication list."
 
 ### Submitted/
 
+* **The Vertebrate Genomes Project Phase I: A Global Reference Genome Resource.**  
+{{< rawhtml >}}
+Formenti, Absolon, Abueg <i>et al.</i> Submitted to <a id=articles href="https://academic.oup.com/evolut" target="_blank"><i>Nature</i></a>.
+{{< /rawhtml >}}
+
 * **The Birth of the Brazilian Society for Evolutionary Biology (SBBE) — Making Amends with History at Long Last.**  
 {{< rawhtml >}}
-<p id=cellphone><b>Pacheco</b></p>, Torquato, Caron <i>et al.</i> Amidst the revision process at the <a id=articles href="https://academic.oup.com/evolut" target="_blank"><i>Evolution</i></a> journal as a <i>Commentary Article</i>.
+<p id=cellphone><b>Pacheco</b></p>, Torquato, Caron <i>et al.</i> Amidst the revision process at <a id=articles href="https://academic.oup.com/evolut" target="_blank"><i>Evolution</i></a> as a <i>Commentary Article</i>.
 {{< /rawhtml >}}
 ***
 
