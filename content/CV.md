@@ -81,33 +81,41 @@ Aug 2006 <b>—</b> Jul 2011 <b>|</b> <a href="https://www.ufrn.br/en" target="_
 
 ### Grants/
 
+#### Chamada CNPq Nº 39/2024 - Linha 3: Eventos Não Tradicionais Nacionais ou Internacionais
+{{< rawhtml >}}
+<p id="ongoing"><b>R$ 35,817</b> (~ $6,952 / ~ €6,059)</p>
+<p id="ongoing"><b></b><i>Together with members of the</i> <a href="https://www.sbbevol.org/en" target="_blank">SBBE Board</a>.</p>
+17 Jun 2026 <b>|</b> <a href="https://www.gov.br/cnpq/pt-br" target="_blank">CNPq</a> • Brazil
+{{< /rawhtml >}}
+
 #### NIG-JOINT (A) Grant
 {{< rawhtml >}}
-<p id="ongoing"><b></b><i>Together with two other young researcher colleagues.</i></p>
-<p id="ongoing"><b>150.000 Yen</b> (~ $990 / ~ €916)</p>
+<p id="ongoing"><b></b><i>Together with two other young researchers.</i></p>
+<p id="ongoing"><b>150,000 Yen</b> (~ $990 / ~ €916)</p>
 19 Mar 2024 <b>|</b><a href="https://www.nig.ac.jp/nig/" target="_blank"><i>National Institute of Genetics</i></a> • Japan
 {{< /rawhtml >}}
 
 #### UiO:Life Science Internationalisation Support
 {{< rawhtml >}}
-<p id="ongoing"><b>31.100 NOK</b> (~ $2,983 / ~ €2,733)</p>
+<p id="ongoing"><b>31,100 NOK</b> (~ $2,983 / ~ €2,733)</p>
 18 Dec 2023 <b>|</b><a href="https://www.uio.no/english/research/strategic-research-areas/life-science/news-and-events/calls/internationalization-support_12.html" target="_blank"><i>University of Oslo</i></a> • Norway
 {{< /rawhtml >}}
 
 #### SMBE Interdisciplinary & Regional Meetings Grant
 {{< rawhtml >}}
 <p id="ongoing"><b></b><i>Together with five other Brazilian colleagues.</i></p>
-05 Nov 2023 <b>|</b> <a href="https://www.smbe.org/smbe" target="_blank"><i>SMBE</i></a> • USA
+05 Nov 2023 <b>|</b> <a href="https://www.smbe.org/smbe" target="_blank">SMBE</a> • USA
 {{< /rawhtml >}}
 
 #### EMBO Short-Term Fellowship    
 {{< rawhtml >}}
-23 Sep <b>—</b> 22 Dec 2019 <b>|</b> <a href="https://www.embo.org" target="_blank"><i>EMBO</i></a> • Germany
+<p id="ongoing"><b>€6,650</b> (~ $7,362)</p>
+23 Sep <b>—</b> 22 Dec 2019 <b>|</b> <a href="https://www.embo.org" target="_blank">EMBO</a> • Germany
 {{< /rawhtml >}}
 
 #### Full PhD Abroad Scholarship  
 {{< rawhtml >}}
-Nov 2014 <b>—</b> Oct 2018 <b>|</b> <a href="https://www.gov.br/cnpq/pt-br" target="_blank"><i>CNPq</i></a> • Brazil
+Nov 2014 <b>—</b> Oct 2018 <b>|</b> <a href="https://www.gov.br/cnpq/pt-br" target="_blank">CNPq</a> • Brazil
 {{< /rawhtml >}}
 
 #### Danish Government Scholarship and Tuition Fee Waiver    
@@ -117,12 +125,12 @@ Feb 2012 <b>—</b> Jan 2014 <b>|</b> <a href="https://ufm.dk/en" target="_blank
 
 #### Student Assistant Scholarship   
 {{< rawhtml >}}
-Mar 2010 <b>—</b> Apr 2011 <b>|</b> <a href="https://www.gov.br/cnpq/pt-br" target="_blank"><i>CNPq</i></a> • Brazil
+Mar 2010 <b>—</b> Apr 2011 <b>|</b> <a href="https://www.gov.br/cnpq/pt-br" target="_blank">CNPq</a> • Brazil
 {{< /rawhtml >}}  
 
 #### Scientific Initiation Scholarship    
 {{< rawhtml >}}
-Feb 2009 <b>—</b> Jul 2011 <b>|</b> <a href="https://www.gov.br/cnpq/pt-br" target="_blank"><i>CNPq</i></a> • Brazil
+Feb 2009 <b>—</b> Jul 2011 <b>|</b> <a href="https://www.gov.br/cnpq/pt-br" target="_blank">CNPq</a> • Brazil
 {{< /rawhtml >}} 
 ***
 
