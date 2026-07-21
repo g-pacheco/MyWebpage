@@ -81,11 +81,18 @@ Aug 2006 <b>—</b> Jul 2011 <b>|</b> <a href="https://www.ufrn.br/en" target="_
 
 ### Grants/
 
+#### OET-00891-25 FAPEMIG - II Congresso Brasileiro de Biologia Evolutiva
+{{< rawhtml >}}
+<p id="ongoing"><b>R$ 89,877.62</b> (~ $17,718 / ~ €15,541)</p>
+<p id="ongoing"><b></b><i>Together with members of the</i> <a href="https://www.sbbevol.org/en" target="_blank">SBBE Board</a>.</p>
+17 Jun 2026 <b>|</b> <a href="https://fapemig.br/" target="_blank"><i>Fundação de Amparo à Pesquisa do Estado de Minas Gerais</i></a> • MG, Brazil
+{{< /rawhtml >}}
+
 #### Chamada CNPq Nº 39/2024 - Linha 3: Eventos Não Tradicionais Nacionais ou Internacionais
 {{< rawhtml >}}
 <p id="ongoing"><b>R$ 35,817</b> (~ $6,952 / ~ €6,059)</p>
 <p id="ongoing"><b></b><i>Together with members of the</i> <a href="https://www.sbbevol.org/en" target="_blank">SBBE Board</a>.</p>
-17 Jun 2026 <b>|</b> <a href="https://www.gov.br/cnpq/pt-br" target="_blank">CNPq</a> • Brazil
+17 Jun 2026 <b>|</b> <a href="https://www.gov.br/cnpq/pt-br" target="_blank"><i>Conselho Nacional de Desenvolvimento Científico e Tecnológico</i></a> • Brazil
 {{< /rawhtml >}}
 
 #### NIG-JOINT (A) Grant
@@ -104,18 +111,18 @@ Aug 2006 <b>—</b> Jul 2011 <b>|</b> <a href="https://www.ufrn.br/en" target="_
 #### SMBE Interdisciplinary & Regional Meetings Grant
 {{< rawhtml >}}
 <p id="ongoing"><b></b><i>Together with five other Brazilian colleagues.</i></p>
-05 Nov 2023 <b>|</b> <a href="https://www.smbe.org/smbe" target="_blank">SMBE</a> • USA
+05 Nov 2023 <b>|</b> <a href="https://www.smbe.org/smbe" target="_blank"><i>Society for Molecular Biology and Evolution</i></a> • USA
 {{< /rawhtml >}}
 
 #### EMBO Short-Term Fellowship    
 {{< rawhtml >}}
 <p id="ongoing"><b>€6,650</b> (~ $7,362)</p>
-23 Sep <b>—</b> 22 Dec 2019 <b>|</b> <a href="https://www.embo.org" target="_blank">EMBO</a> • Germany
+23 Sep <b>—</b> 22 Dec 2019 <b>|</b> <a href="https://www.embo.org" target="_blank"><i>European Molecular Biology Organization</i></a> • Germany
 {{< /rawhtml >}}
 
 #### Full PhD Abroad Scholarship  
 {{< rawhtml >}}
-Nov 2014 <b>—</b> Oct 2018 <b>|</b> <a href="https://www.gov.br/cnpq/pt-br" target="_blank">CNPq</a> • Brazil
+Nov 2014 <b>—</b> Oct 2018 <b>|</b> <a href="https://www.gov.br/cnpq/pt-br" target="_blank"><i>Conselho Nacional de Desenvolvimento Científico e Tecnológico</i></a> • Brazil
 {{< /rawhtml >}}
 
 #### Danish Government Scholarship and Tuition Fee Waiver    
@@ -125,20 +132,27 @@ Feb 2012 <b>—</b> Jan 2014 <b>|</b> <a href="https://ufm.dk/en" target="_blank
 
 #### Student Assistant Scholarship   
 {{< rawhtml >}}
-Mar 2010 <b>—</b> Apr 2011 <b>|</b> <a href="https://www.gov.br/cnpq/pt-br" target="_blank">CNPq</a> • Brazil
+Mar 2010 <b>—</b> Apr 2011 <b>|</b> <a href="https://www.gov.br/cnpq/pt-br" target="_blank"><i>Conselho Nacional de Desenvolvimento Científico e Tecnológico</i></a> • Brazil
 {{< /rawhtml >}}  
 
 #### Scientific Initiation Scholarship    
 {{< rawhtml >}}
-Feb 2009 <b>—</b> Jul 2011 <b>|</b> <a href="https://www.gov.br/cnpq/pt-br" target="_blank">CNPq</a> • Brazil
+Feb 2009 <b>—</b> Jul 2011 <b>|</b> <a href="https://www.gov.br/cnpq/pt-br" target="_blank"><i>Conselho Nacional de Desenvolvimento Científico e Tecnológico</i></a> • Brazil
 {{< /rawhtml >}} 
 ***
 
 ### Teaching Experience/
 
-#### Population Genomics @ Nord 2024
+#### Workshop — Introdução à Análise de Dados Genômicos @ SBBE26
 {{< rawhtml >}}
-<a href="https://site.nord.no/landscapegenomics/2023/11/23/population-genomicsnord-2024/" target="_blank"><p id="ongoing"><b></b>Programme</p></a>
+<a href="https://sbbe-oficial.github.io/workshopgenomics/" target="_blank"><p id="ongoing"><b>Webpage</b> (only available in Portuguese)</p></a>
+14 Jul 2026 <b>|</b> <a href="https://www.ufmg.br/" target="_blank"><i>Universidade Federal de Minas Gerais</i></a></p>
+<b>Position:</b> Coordinator, Lecturer & Teaching Assistant</p>
+{{< /rawhtml >}}
+
+#### Short Course — Population Genomics @ Nord 2024
+{{< rawhtml >}}
+<a href="https://site.nord.no/landscapegenomics/2023/11/23/population-genomicsnord-2024/" target="_blank"><p id="ongoing"><b>Webpage</b></p></a>
 18 - 22 Mar 2024 <b>|</b> <a href="https://www.nord.no/en" target="_blank"><i>Nord University</i></a></p>
 <b>Position:</b> Lecturer & Teaching Assistant</p>
 <b>Coordinator:</b> <a href="https://site.nord.no/landscapegenomics/team/joost-raeymaekers/" target="_blank">Joost Raeymaekers</a></p>
