@@ -270,11 +270,16 @@ Aug 2024 <b>—</b> Present<p>
 
 ### Organisation of Scientific Events/
 
+#### II Congresso Brasileiro de Biologia Evolutiva  
+{{< rawhtml >}}
+15 <b>—</b> 17 July 2026 <b>|</b> Belo Horizonte • Brazil<p>
+<p id="ongoing"><b></b><b>Local Commission <b>|</b> Scientific Commission</b></p>
+{{< /rawhtml >}}
+
 #### I Congresso Brasileiro de Biologia Evolutiva  
 {{< rawhtml >}}
 20 <b>—</b> 22 November 2024 <b>|</b> Curitiba • Brazil<p>
 <p id="ongoing"><b></b><b>Student Commission <b>|</b> Scientific Commission</b></p>
-<a href="https://sbbevol.org/" target="_blank">WEB</a>
 {{< /rawhtml >}}
 
 #### 59º Congresso Nacional de Botânica  
@@ -285,6 +290,9 @@ Aug 2024 <b>—</b> Present<p>
 ***
 
 ### Selected Scientific Events/
+
+#### II Congresso Brasileiro de Biologia Evolutiva 
+Jul 2026 *|* Belo Horizonte • Brazil
 
 #### Pangenomes — Evolution and Computation
 Nov 2021 *|* Gothenburg • Sweden
