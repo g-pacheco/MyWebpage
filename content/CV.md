@@ -81,18 +81,18 @@ Aug 2006 <b>—</b> Jul 2011 <b>|</b> <a href="https://www.ufrn.br/en" target="_
 
 ### Grants/
 
-#### OET-00891-25 FAPEMIG - II Congresso Brasileiro de Biologia Evolutiva
-{{< rawhtml >}}
-<p id="ongoing"><b>R$ 89,877.62</b> (~ $17,718 / ~ €15,541)</p>
-<p id="ongoing"><b></b><i>Together with members of the</i> <a href="https://www.sbbevol.org/en" target="_blank">SBBE Board</a>.</p>
-17 Jun 2026 <b>|</b> <a href="https://fapemig.br/" target="_blank"><i>Fundação de Amparo à Pesquisa do Estado de Minas Gerais</i></a> • MG, Brazil
-{{< /rawhtml >}}
-
 #### Chamada CNPq Nº 39/2024 - Linha 3: Eventos Não Tradicionais Nacionais ou Internacionais
 {{< rawhtml >}}
 <p id="ongoing"><b>R$ 35,817</b> (~ $6,952 / ~ €6,059)</p>
 <p id="ongoing"><b></b><i>Together with members of the</i> <a href="https://www.sbbevol.org/en" target="_blank">SBBE Board</a>.</p>
 17 Jun 2026 <b>|</b> <a href="https://www.gov.br/cnpq/pt-br" target="_blank"><i>Conselho Nacional de Desenvolvimento Científico e Tecnológico</i></a> • Brazil
+{{< /rawhtml >}}
+
+#### OET-00891-25 FAPEMIG - II Congresso Brasileiro de Biologia Evolutiva
+{{< rawhtml >}}
+<p id="ongoing"><b>R$ 89,877.62</b> (~ $17,718 / ~ €15,541)</p>
+<p id="ongoing"><b></b><i>Together with members of the</i> <a href="https://www.sbbevol.org/en" target="_blank">SBBE Board</a>.</p>
+11 May  2026 <b>|</b> <a href="https://fapemig.br/" target="_blank"><i>Fundação de Amparo à Pesquisa do Estado de Minas Gerais</i></a> • MG, Brazil
 {{< /rawhtml >}}
 
 #### NIG-JOINT (A) Grant

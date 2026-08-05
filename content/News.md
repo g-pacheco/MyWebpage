@@ -5,6 +5,14 @@ description = "News on my academic Life."
 
 {{< rawhtml >}}
 <blockquote>
+<b>19 Jul 2026/</b> During the last week, I participated in the 
+
+<a href="https://www.even3.com.br/ii-congresso-brasileiro-de-biologia-evolutiva-657146" target="_blank">II Conference of the Brazilian Society for Evolutionary Biology</a> (<a href="https://www.even3.com.br/ii-congresso-brasileiro-de-biologia-evolutiva-657146/" target="_blank">SBBE26</a>) that was held in the city of Belo Horizonte-MG. This was a great opportunity for me to not only renew my ties with old chaps from my undergraduate years in Brazil, but also to forge new academic connections in the tropics. Moreover, I also I taught the introductory workshop <a href="https://sbbe-oficial.github.io/workshopgenomics/" target="_blank">Introdução à Análise de Dados Genômicos</a> together with four other Brazilian colleagues. 🌱 🧑🏽‍🏫 ☕
+</blockquote>
+
+<img class="NewsImg" src="../Images/SBBE26.webp" alt="SBBE24">
+
+<blockquote>
 <b>27 Apr 2026/</b> I applied for the position of Visiting Professor to join the <a href="\href{https://sigaa.ufpb.br/sigaa/public/programa/portal.jsf?lc=en_US&id=2833" target="_blank">Postgraduate Programme in Biodiversity</a> of the <a href="\href{https://www.ufpb.br/" target="_blank">Federal University of Paraíba</a>. I am looking forward to hearing the outcome of this selection as I believe this would be a great opputunity for my career, especially considering my return to the academic environment of the Caatinga. 💪 
 </blockquote>
 
@@ -73,7 +81,6 @@ description = "News on my academic Life."
 <blockquote>
 <b>16 Jul 2023/</b> After being in the Chokpak region (Kazakhstan) helping in the sampling live sparrows, I spent a few days visiting the Avian Section of the British Natural Museum in Tring to study their sparrow collection. I am now back to Oslo where I have started to analyse our incipient genomic data. It is great to be in Scandinavia during the remaining summer period. Nonetheless, the winter is coming — and I am inevitably reminded of seeds and their locations. 🥶 🌨️ ⛄ I should stop conversing with the old wizard from the South.
 </blockquote>
-
 
 <blockquote>
 <b>16 Mar 2023/</b> Once again I participated in the courses on <i>Introductory Evolutionary Biology</i> taught by <a href="https://sites.google.com/view/rosemberg-menezes/home/about-me?authuser=0" target="_blank">Prof. Rosemberg Menezes</a> to the programmes in <i>Agronomy</i> & <i>Veterinary Medicine</i> at the <a href="https://www.ufpb.br/ufpb" target="_blank"><i>Federal University of Paraíba</i></a> in Brazil. After my short lecture to each class on general concepts in <i>Evolutionary Genomics</i>, we had a lively discussion on the topic of <i>Evoltuion</i> and its clear implications to these derived fields. 🏥 🌾 

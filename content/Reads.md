@@ -42,8 +42,10 @@ I read quite a few <i>Science Communication</i> books throughout my bachelor tim
 ### Modern Works/
 
 {{< rawhtml >}}
+<div style="height: 30px;"></div>
 <blockquote class="adoromyReads">
 <div class="image-wrapper">
+<img class="myReadsImg" src="../Images/BookCovers/HistoryEarth.jpg">
 <img class="myReadsImg" src="../Images/BookCovers/EvolutionTriumph.jpeg">
 <img class="myReadsImg" src="../Images/BookCovers/WhatEvolutionIs.jpg">
 <img class="myReadsImg" src="../Images/BookCovers/FossilsFinchesFuegians.jpg">
@@ -78,8 +80,10 @@ I read quite a few <i>Science Communication</i> books throughout my bachelor tim
 ### Philosophy & History of Science/
 
 {{< rawhtml >}}
+<div style="height: 30px;"></div>
 <blockquote class="adoromyReads">
 <div class="image-wrapper">
+<img class="myReadsImg" src="../Images/BookCovers/Cosmos.jpg">
 <img class="myReadsImg" src="../Images/BookCovers/AdviceForAYoungInvestigator.jpg">
 <img class="myReadsImg" src="../Images/BookCovers/AdviceForAYoungScientist.jpg">
 <img class="myReadsImg" src="../Images/BookCovers/SophiesWorld.jpg">
